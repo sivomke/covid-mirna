@@ -1,0 +1,22 @@
+Name: 			MD31
+Orientation: 		Direct
+Location: 		6285 - 6368
+Size: 			84
+Score: 			122.3
+Rank: 			189
+Wind.Cnt (Abs.): 	1
+Wind.Cnt (Rel.): 	1
+
+
+           CCTGGTGTATACGTTGTCTTTGGAGCACAAAACCAGTTGAAACATCAAATTCGTTTGATGTACTGAAGTCAGAGGACGCGCAGG
+MD31* (1)  ((((((((.....(((.((((((.(((((((.....((((....)))).....)))).))).)))))).)))...)))).)))) 84 nt.
+
+
+1         10        20         30        40 
+:         :         :          :         :  
+    -    AUACG   U      A   -    ACCAG    A
+CCUG GUGU     UUG CUUUGG GCA CAAA     UUGA  A..42
+GGAC CGCA     GAC GAAGUC UGU GUUU     AACU  C
+    G    GGA--   U      A   A    GCUUA    A
+    :           :         :         :       
+    80          70        60        50      

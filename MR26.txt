@@ -1,0 +1,22 @@
+Name: 			MR26
+Orientation: 		Reverse
+Location: 		10619 - 10697
+Size: 			79
+Score: 			116.7
+Rank: 			218
+Wind.Cnt (Abs.): 	1
+Wind.Cnt (Rel.): 	1
+
+
+           CATTTATAACAGCAGCGTACAACCAAGCTAAAACATTAACTGTAATAGTTGTGTCCGTACCAGCTGCTTGTGCTGTTTG
+MR26* (1)  ((..((..((((((((((((.((..(((((..(((.....)))..)))))..))..))))..))))).)))..))..)) 79 nt.
+
+
+1        10           20         30       
+:        :            :          :        
+  UU  UA   -     --    A-  CA     AA   UU
+CA  UA  ACA GCAGC  GUAC  AC  AGCUA  ACA   A..38
+GU  GU  UGU CGUCG  CAUG  UG  UUGAU  UGU   -
+  UU  CG   U     AC    CC  UG     AA   CA
+         :         :         :         :  
+         70        60        50        40 
