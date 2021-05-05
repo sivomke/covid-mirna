@@ -1,0 +1,84 @@
+Export of VMir File Data
+------------------------
+VMir File              :	default_min_score_115.mir
+VMir Analyzer Version  :	2.3
+
+Source File:
+------------------------------------
+File Name              :	sequence_no_header_no_whitespace.fasta
+Sequence Size          :	29903
+Sequence Orientation(s):	Both
+Sequence Conformation  :	Direct
+
+VMir Analysis Prediction Parameters:
+------------------------------------
+Max. Size Calc.Score   :	100
+Max. Size Assign SHPs  :	50
+Max. Size Assign RHPs  :	50
+Filters: Min. HP Size  :	50
+         Max. HP Size  :	Any
+         Min. HP Score :	115
+Total # of Hairpins    :	402
+
+VMir Viewer Parameters
+----------------------
+Filters: Min. HP Size  :	50
+         Max. HP Size  :	220
+         Min. HP Score :	Any
+         Min. Wind.Cnt.:	35
+         HP Classes    :	Main-Hairpins
+# of Filtered Hairpins :	51
+
+Hairpins:
+Rank	Name	Orientation	Start	Apex	Size	Score	Sub HPs	Rep HPs	Wind.Cnt.Abs.	Wind.Cnt.Rel.	
+14	MD1	Direct	398	445	94	171.8	1	0	1	40	
+29	MD3	Direct	564	594	59	142.4	1	0	44	45	
+25	MD8	Direct	1968	2002	68	144.9	2	0	20	45	
+10	MD10	Direct	2107	2162	107	180.1	3	0	1	41	
+44	MD12	Direct	2284	2348	120	123.7	2	0	3	44	
+1	MD13	Direct	2801	2864	125	243.8	9	0	9	43	
+40	MD20	Direct	3274	3299	52	128	0	0	40	40	
+34	MD24	Direct	5317	5364	82	135	2	0	4	39	
+33	MD30	Direct	6134	6177	91	136.3	1	0	3	38	
+17	MD40	Direct	7961	7992	66	167.1	2	0	7	41	
+15	MD42	Direct	8144	8180	78	170.2	1	0	32	40	
+30	MD47	Direct	9457	9490	70	140.4	1	0	41	43	
+11	MD50	Direct	9797	9858	128	179.1	3	0	5	45	
+2	MD56	Direct	11234	11286	101	211.4	2	0	4	42	
+19	MD57	Direct	11409	11448	78	163	3	0	1	42	
+48	MD64	Direct	14006	14032	50	119.1	0	0	43	43	
+49	MD67	Direct	14534	14600	137	117	2	0	7	38	
+47	MD75	Direct	17048	17083	73	119.8	0	0	43	43	
+21	MD76	Direct	17137	17166	61	159	1	0	1	44	
+32	MD77	Direct	17386	17416	63	138.5	0	0	41	41	
+23	MD79	Direct	17951	18020	131	151.5	7	0	8	41	
+18	MD85	Direct	19425	19460	68	164.8	1	0	38	45	
+20	MD89	Direct	20002	20042	80	159.3	0	0	40	40	
+4	MD93	Direct	21131	21184	110	204.7	3	0	23	45	
+36	MD101	Direct	22959	22997	75	132.2	1	0	1	37	
+31	MD108	Direct	24799	24833	62	140.1	1	0	3	44	
+42	MD111	Direct	25217	25244	60	126.9	0	0	43	43	
+51	MD112	Direct	25598	25642	89	115.6	0	0	35	35	
+28	MD113	Direct	26066	26096	62	143.7	3	0	37	43	
+7	MD116	Direct	26915	26958	85	188.2	5	0	3	43	
+16	MD117	Direct	26995	27058	119	169.1	6	0	3	42	
+3	MD119	Direct	27666	27721	104	205.6	3	0	12	44	
+46	MD120	Direct	27816	27848	59	120.6	0	0	37	37	
+26	MR2	Reverse	756	788	68	144.5	1	0	34	43	
+37	MR6	Reverse	2534	2578	90	130.4	1	0	7	42	
+50	MR11	Reverse	3978	4004	53	115.7	0	0	37	37	
+35	MR13	Reverse	4506	4540	72	133.8	1	0	33	38	
+39	MR16	Reverse	5785	5814	55	130.1	0	0	40	40	
+5	MR18	Reverse	6126	6177	106	191.8	3	0	2	38	
+43	MR25	Reverse	9342	9372	68	125.8	1	0	28	41	
+38	MR31	Reverse	13635	13666	64	130.2	0	0	44	44	
+9	MR36	Reverse	14973	15028	109	183.9	2	0	21	43	
+24	MR39	Reverse	16284	16334	112	150.4	5	0	8	43	
+45	MR40	Reverse	16450	16482	75	121	0	0	35	35	
+22	MR44	Reverse	18089	18132	101	152.7	3	0	13	35	
+27	MR54	Reverse	22614	22644	66	143.9	1	0	37	38	
+6	MR56	Reverse	23563	23636	148	188.8	3	0	30	38	
+41	MR65	Reverse	25973	25998	51	127.4	0	0	35	35	
+12	MR66	Reverse	26059	26096	80	174.1	4	0	1	44	
+13	MR71	Reverse	27167	27206	80	172.3	3	0	2	42	
+8	MR77	Reverse	29532	29582	94	184.6	4	0	27	41	
