@@ -1,0 +1,24 @@
+Name: 			MR6
+Orientation: 		Reverse
+Location: 		2001 - 2148
+Size: 			148
+Score: 			188.8
+Rank: 			2
+Wind.Cnt (Abs.): 	28
+Wind.Cnt (Rel.): 	38
+
+
+             TGTGGGTATGGCAATAGAGTTATTAGAGTAAGCAACTGAATTTTCTGCACCAAGTGACATAGTGTAGGCAATGATGGATTGACTAGCTACACTACGTGCCCGCCGAGGAGAATTAGTCTGAGTCTGATAACTAGCGCATATACCTGCA
+MR6*   (28)  ((..((((((((.....((((((((((...((..(((((.((((((((((..((((...((((.(((.((((.....)))).)))))))))))..))))......)))))).)))))))...))))))))))...)).))))))..)) 148 nt.
+MR6_S1 (8)   -----------------((((((((((...((..(((((.((((((((((..((((...((((.(((.((((.....)))).)))))))))))..))))......)))))).)))))))...))))))))))---------------- 115 nt.
+MR6_S2 (2)   ----------------------------------(((((.((((((((((..((((...((((.(((.((((.....)))).)))))))))))..))))......)))))).)))))------------------------------- 83 nt.
+
+
+1        10         20        30        40              50        60        70    
+:        :          :         :         :               :         :         :     
+  UG      -  AAUAG          GUA  CA     A      ------    CA    ACA    G   G    GA
+UG  GGUAUG GC     AGUUAUUAGA   AG  ACUGA UUUUCU      GCAC  AGUG   UAGU UAG CAAU   U..75
+AC  CCAUAU CG     UCAAUAGUCU   UC  UGAUU AGAGGA      CGUG  UCAC   AUCG AUC GUUA   -
+  GU      A  CGA--          GAG  --     A      GCCGCC    CA    ---    -   A    GG
+        :           :         :           :         :         :             :     
+        140         130       120         110       100       90            80    

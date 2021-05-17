@@ -1,0 +1,1112 @@
+37 119 [-15.4] (((((.(((.(((.......((((.(((..(((((..............))))).)))......))))..))).))).)))))
+               GUCAGUGUGUUAAUCUUACAACCAGAACUCAAUUACCCCCUGCAUACACUAAUUCUUUCACACGUGGUGUUUAUUACCCUGAC
+                    U   U   UCUUACA    -----G   UC     CCCCCU
+               GUCAG GUG UAA       ACCA      AAC  AAUUA      G
+               ||||| ||| |||       ||||      |||  |||||
+               CAGUC CAU AUU       UGGU      UUU  UUAAU      C
+                    C   U   -----UG    GCACAC   -C     CACAUA
+
+84 192 [-23.4] (((((.(.....(((..(((.(...(.((....(((((..........((((.((((........)))).)))).)))))..))....)...).))).))).).)))))
+               ACUAAUUCUUUCACACGUGGUGUUUAUUACCCUGACAAAGUUUUCAGAUCCUCAGUUUUACAUUCAACUCAGGACUUGUUCUUACCUUUCUUUUCCAAUGUUACUUGGU
+                    U CUUUC   CG   U UUU ---U  CCCU     AGUUUUCAGA    C    UUA
+               ACUAA U     ACA  UGG G   A    UA    GACAA          UCCU AGUU   C
+               ||||| |     |||  ||| |   |    ||    |||||          |||| ||||
+               UGGUU A     UGU  ACC U   U    AU    UUGUU          AGGA UCAA   A
+                    C ----U   -A   U UUC UUCC  --UC     ---------C    C    CUU
+
+153 246 [-32] ((((..(((((...((((((.....((........(((((((((.((.......))...))))))))).)).....))))))..))))).))))
+              CAGGACUUGUUCUUACCUUUCUUUUCCAAUGUUACUUGGUUCCAUGCUAUACAUGUCUCUGGGACCAAUGGUACUAAGAGGUUUGAUAACCCUG
+                  AC     CUU      CUUUU  AAUGUUAC         --U  UA
+              CAGG  UUGUU   ACCUUU     CC        UUGGUUCCA   GC  U
+              ||||  |||||   ||||||     ||        |||||||||   ||   A
+              GUCC  AAUAG   UGGAGA     GG        AACCAGGGU   UG  C
+                  -C     -UU      AUCAU  -------U         CUC  UA
+
+219 256 [-12.5] (((((((..(.(.((((....)))).).)..)))))))
+                AAUGGUACUAAGAGGUUUGAUAACCCUGUCCUACCAUU
+                       CU A A    U
+                AAUGGUA  A G GGUU G
+                |||||||  | | ||||
+                UUACCAU  U U CCAA A
+                       CC G C    U
+
+263 369 [-16.9] (((((((....(((.(...((((....((((...............(((((((..(((...)))..))))))).)))).))))...........).))).)))))))
+                UGGUGUUUAUUUUGCUUCCACUGAGAAGUCUAACAUAAUAAGAGGCUGGAUUUUUGGUACUACUUUAGAUUCGAAGACCCAGUCCCUACUUAUUGUUAAUAACGCUA
+                       UAUU   C --------UCC    AGAA    AACAUAAUAAGAGGC       UU   
+                UGGUGUU    UUG U           ACUG    GUCU               UGGAUUU  GGUA
+                |||||||    ||| |           ||||    ||||               |||||||  ||| A
+                AUCGCAA    AAU G           UGAC    CAGA               GCUUAGA  UCAU
+                       ---U   U UUAUUCAUCCC    ---C    --------------A       UU   
+
+350 468 [-21.9] (((((((....((...(((.....(((((((.........((((...(((((...((.(....).))...)))))..........))))..)))))))..)))...))....)))))))
+                ACUUAUUGUUAAUAACGCUACUAAUGUUGUUAUUAAAGUCUGUGAAUUUCAAUUUUGUAAUGAUCCAUUUUUGGGUGUUUAUUACCACAAAAACAACAAAAGUUGGAUGGAAAGUGAGU
+                       GUUA  AAC   ACUAA       AUUAAAGUC    -------AAU     UUU  U A
+                ACUUAUU    AU   GCU     UGUUGUU         UGUG          UUCAA   UG A U
+                |||||||    ||   |||     |||||||         ||||          |||||   || |
+                UGAGUGA    UA   UGA     ACAACAA         ACAC          GGGUU   AC U G
+                       AAGG  GGU   ---AA       -------AA    CAUUAUUUGU     UUU  C A
+
+413 532 [-23.7] (((((....((((....(.....(((.(.....(((((((..(((.........((((..(.(.......).)..)))).)))..)))))))..).))).)....))))......)))))
+                UCCAUUUUUGGGUGUUUAUUACCACAAAAACAACAAAAGUUGGAUGGAAAGUGAGUUCAGAGUUUAUUCUAGUGCGAAUAAUUGCACUUUUGAAUAUGUCUCUCAGCCUUUUCUUAUGGA
+                     --UUUU    GUUU UUACC   A AACAA       UG   GGAAAGUGA    AG G UU
+                UCCAU      GGGU    A     ACA A     CAAAAGU  GAU         GUUC  A U  A
+                |||||      ||||    |     ||| |     |||||||  |||         ||||  | |   U
+                AGGUA      UCCG    U     UGU U     GUUUUCA  UUA         UAAG  U A  U
+                     UUCUUU    ACUC ----C   A ---AA       CG   --------A    CG G UC
+
+487 576 [-13.1] (((((..(((.(.(((((((...........(((((.(.(......(((...))).).).)))))...))))))).)..)))...)))))
+                CGAAUAAUUGCACUUUUGAAUAUGUCUCUCAGCCUUUUCUUAUGGACCUUGAAGGAAAACAGGGUAAUUUCAAAAAUCUUAGGGAAUUUG
+                     -AA   -C C       UAUGUCUCUCA     U C UAUGGA   
+                CGAAU   UUG  A UUUUGAA           GCCUU U U      CCUU
+                |||||   |||  | |||||||           ||||| | |      ||| U
+                GUUUA   GAU  U AAAACUU           UGGGA A A      GGAA
+                     AGG   UC A       --------UAA     C A -----A   
+
+520 669 [-42.9] ((...((.(.(((((((((.(((.(.((..(((.......((((..((((.....((((((((.(((((((..(((.....)))...)))))))))))))))..))))...))))..))).)).).))).))))))))).).))....))
+                CUUUUCUUAUGGACCUUGAAGGAAAACAGGGUAAUUUCAAAAAUCUUAGGGAAUUUGUGUUUAAGAAUAUUGAUGGUUAUUUUAAAAUAUAUUCUAAGCACACGCCUAUUAAUUUAGUGCGUGAUCUCCCUCAGGGUUUUUCGGCUUUAG
+                  -UUU  U U         A   A A  GG   AUUUCAA    -CU    GAAUU        A       -GA   U
+                CU    CU A GGACCUUGA GGA A CA  GUA       AAAU   UAGG     UGUGUUUA GAAUAUU   UGG U
+                ||    || | ||||||||| ||| | ||  |||       ||||   ||||     |||||||| |||||||   |||  A
+                GA    GG U UUUGGGACU CCU U GU  CGU       UUUA   AUCC     ACACGAAU CUUAUAU   AUU U
+                  UUUC  C U         C   C A  -G   -----GA    AUU    ---GC        -       AAA   U
+
+623 711 [-26.9] (((((..(..(((((((..(((((.((..(.((((((........)))))).).)).))))).........)))))))..)...)))))
+                GCCUAUUAAUUUAGUGCGUGAUCUCCCUCAGGGUUUUUCGGCUUUAGAACCAUUGGUAGAUUUGCCAAUAGGUAUUAACAUCACUAGGU
+                     -UU AU       -------GU     C  UC G      UCG
+                GCCUA   A  UUAGUGC         GAUCU CC  A GGUUUU   G
+                |||||   |  |||||||         ||||| ||  | ||||||
+                UGGAU   U  AAUUAUG         UUAGA GG  U CCAAGA   C
+                     CAC AC       GAUAACCGU     U  -U A      UUU
+
+660 781 [-35.8] ((((((.(..((((...((.(((.(..(((...(((..((((.((..(((((..........))))).........)).))))....)))..)))..).))).))...))))..).))))))
+                UCGGCUUUAGAACCAUUGGUAGAUUUGCCAAUAGGUAUUAACAUCACUAGGUUUCAAACUUUACUUGCUUUACAUAGAAGUUAUUUGACUCCUGGUGAUUCUUCUUCAGGUUGGACAGCUGG
+                      U AG    AUU  U   U UG   AUA   --AU    A  -------AC     UUCA
+                UCGGCU U  AACC   GG AGA U  CCA   GGU    UAAC UC         UAGGU    A
+                |||||| |  ||||   || ||| |  |||   |||    |||| ||         |||||
+                GGUCGA A  UUGG   UC UCU A  GGU   UCA    AUUG AG         GUUCA    A
+                      C GG    ACU  U   U GU   -CC   GUUU    A  AUACAUUUC     UUUC
+
+678 787 [-34.3] ((((.((..(((((..(.(..(..(((((((((..(((((....((((...........))))..)))))..)))))))))..)..).)..)))))..))......))))
+                GUAGAUUUGCCAAUAGGUAUUAACAUCACUAGGUUUCAAACUUUACUUGCUUUACAUAGAAGUUAUUUGACUCCUGGUGAUUCUUCUUCAGGUUGGACAGCUGGUGCUGC
+                    -----A  UG     AG U UU AC         UU     CUUU    GCUU
+                GUAG      UU  CCAAU  G A  A  AUCACUAGG  UCAAA    ACUU    U
+                ||||      ||  |||||  | |  |  |||||||||  |||||    ||||     A
+                CGUC      GA  GGUUG  C U  U  UAGUGGUCC  AGUUU    UGAA    C
+                    GUGGUC  CA     GA U CU CU         UC     --AU    GAUA
+
+749 819 [-18.1] ((((((.(((...(((..((((((...(((....))).)))))).......)))..)))......))))))
+                UCCUGGUGAUUCUUCUUCAGGUUGGACAGCUGGUGCUGCAGCUUAUUAUGUGGGUUAUCUUCAACCUAGGA
+                      -----U   UCU   -----UC      GAC   U
+                UCCUGG      GAU   UCU       AGGUUG   AGC G
+                ||||||      |||   |||       ||||||   |||
+                AGGAUC      CUA   GGG       UUCGAC   UCG G
+                      CAACUU   -UU   UGUAUUA      --G   U
+
+765 880 [-33.4] ((((((...((((......(((((((...(...((((.((((.((((...(((((...)))))...........)))).))))..))))...)...))))))).))))..))))))
+                UCAGGUUGGACAGCUGGUGCUGCAGCUUAUUAUGUGGGUUAUCUUCAACCUAGGACUUUUCUAUUAAAAUAUAAUGAAAAUGGAACCAUUACAGAUGCUGUAGACUGUGCACUUGA
+                      UGG    CUGGUG       UUA UAU    -G    C    --------ACC     
+                UCAGGU   ACAG      CUGCAGC   U   GUGG  UUAU UUCA           UAGGAC
+                ||||||   ||||      |||||||   |   ||||  |||| ||||           ||||| C
+                AGUUCA   UGUC      GAUGUCG   A   UACC  GGUA AAGU           AUCUUU
+                      -CG    -----A       UAG CAU    AA    A    AAUAUAAAAUU     
+
+853 924 [-15.9] ((((((..(.....((.(((((((((.....(((...)))....)))))))))......))..)..))))))
+                UUACAGAUGCUGUAGACUGUGCACUUGACCCUCUCUCAGAAACAAAGUGUACGUUGAAAUCCUUCACUGUAG
+                      AU CUGUA  -----C         GACCC   
+                UUACAG  G     GA      UGUGCACUU     UCUC
+                ||||||  |     ||      |||||||||     ||| C
+                GAUGUC  U     CU      GCAUGUGAA     AGAC
+                      AC ---UC  AAAGUU         -ACAA   
+
+953 1098 [-44.4] ((((((.((..(((((.(.....(((((.(.((((((..((.((.((((..((((...(((((((..(((...)))..)))))))...))))..)))).))..))....))))))....).))))).).))))).))...))))))
+                 UAGAGUCCAACCAACAGAAUCUAUUGUUAGAUUUCCUAAUAUUACAAACUUGUGCCCUUUUGGUGAAGUUUUUAACGCCACCAGAUUUGCAUCUGUUUAUGCUUGGAACAGGAAGAGAAUCAGCAACUGUGUUGCUGAUUAUUCUG
+                       --C  AC     G AUCUA     A ---A      --AA  -U  C    UU    CCU       AA   
+                 UAGAGU   CA  CAACA A     UUGUU G    UUUCCU    UA  UA AAAC  GUGC   UUUGGUG  GUUU
+                 ||||||   ||  ||||| |     ||||| |    ||||||    ||  || ||||  ||||   |||||||  ||| U
+                 GUCUUA   GU  GUUGU U     AACGA U    GAAGGA    GU  GU UUUG  UACG   AGACCAC  CAAU
+                       UUA  -C     G ----C     C AAGA      CAAG  UC  A    UC    UUU       CG   
+
+1113 1255 [-47.9] (((...(((((((........((((.(((((((..((..(((.......((.(((((((..((((.((((..(......)..)))).)))).))))))).))..)))..)).....))))))).))))...)))))))..)))
+                  GCAUCAUUUUCCACUUUUAAGUGUUAUGGAGUGUCUCCUACUAAAUUAAAUGAUCUCUGCUUUACUAAUGUCUAUGCAGAUUCAUUUGUAAUUAGAGGUGAUGAAGUCAGACAAAUCGCUCCAGGGCAAACUGGAAAGAUUGC
+                     UCA       CUUUUAAG    A       ---UC  CU   AAAUUAA  G       CU    U    UC AU
+                  GCA   UUUUCCA        UGUU UGGAGUG     UC  ACU       AU AUCUCUG  UUAC AAUG  U  G
+                  |||   |||||||        |||| |||||||     ||  |||       || |||||||  |||| ||||  |
+                  CGU   GAAAGGU        ACGG ACCUCGC     AG  UGA       UA UGGAGAU  AAUG UUAC  A  C
+                     -UA       -----CAA    G       UAAAC  AC   -----AG  G       -U    U    UU GA
+
+1194 1282 [-27.3] (((((((.........(((((..((((((...((((..(((((......)))))..)))).))))))...))))).......)))))))
+                  UCAUUUGUAAUUAGAGGUGAUGAAGUCAGACAAAUCGCUCCAGGGCAAACUGGAAAGAUUGCUGAUUAUAAUUAUAAAUUACCAGAUGA
+                         UAAUUAGAG     -GA      ACA    GC     GG
+                  UCAUUUG         GUGAU   AGUCAG   AAUC  UCCAG  C
+                  |||||||         |||||   ||||||   ||||  |||||
+                  AGUAGAC         UAUUA   UUAGUC   UUAG  AGGUC  A
+                         --CAUUAAA     AUA      --G    AA     AA
+
+1285 1429 [-40.7] ((((.((((.....((((.(((((((........(((((.((..(((((...(((..((((..(((.((((.(((...))).)))).))).)))).))).)))))..)).))))).))))))).......))))..)))).))))
+                  UUACAGGCUGCGUUAUAGCUUGGAAUUCUAACAAUCUUGAUUCUAAGGUUGGUGGUAAUUAUAAUUACCUGUAUAGAUUGUUUAGGAAGUCUAAUCUCAAACCUUUUGAGAGAGAUAUUUCAACUGAAAUCUAUCAGGCCGGUAG
+                      A    GCGUU    ------C       UCUAACAA     A  CU     UGG   UA    UA   A    U   
+                  UUAC GGCU     AUAG       UUGGAAU        UCUUG UU  AAGGU   UGG  AUUA  AUU CCUG AUAG
+                  |||| ||||     ||||       |||||||        ||||| ||  |||||   |||  ||||  ||| |||| ||| G
+                  GAUG CCGG     UAUC       AACUUUA        AGAGA AG  UUCCA   ACU  UAAU  UGA GGAU UGUU
+                      G    ---AC    UAAAGUC       -------U     G  UU     --A   -C    -C   A    U   
+
+1291 1430 [-40.4] (((((......((((((..(((.((..(((((..(((.(((((...(((..((((..(((.((((.(((...))).)))).))).)))).))).)))))..))).)))))..)).....))).....))))))..)))))
+                  GCUGCGUUAUAGCUUGGAAUUCUAACAAUCUUGAUUCUAAGGUUGGUGGUAAUUAUAAUUACCUGUAUAGAUUGUUUAGGAAGUCUAAUCUCAAACCUUUUGAGAGAGAUAUUUCAACUGAAAUCUAUCAGGCCGGUAGC
+                       GUUAUA      ---AA   ----U  CA     GA   -U     UGG   UA    UA   A    U   
+                  GCUGC      GCUUGG     UUC     AA  AUCUU  UUC  AAGGU   UGG  AUUA  AUU CCUG AUAG
+                  |||||      ||||||     |||     ||  |||||  |||  |||||   |||  ||||  ||| |||| ||| G
+                  CGAUG      CGGACU     AAG     UU  UAGAG  GAG  UUCCA   ACU  UAAU  UGA GGAU UGUU
+                       ----GC      AUCUA   UCAAC  UA     -A   UU     --A   -C    -C   A    U   
+
+1335 1435 [-26.5] ((((....((((.....((((.(((((((......(((((.(..(((((((...)))))))..)..)))))......)))))))))))...))))..))))
+                  GGUGGUAAUUAUAAUUACCUGUAUAGAUUGUUUAGGAAGUCUAAUCUCAAACCUUUUGAGAGAGAUAUUUCAACUGAAAUCUAUCAGGCCGGUAGCACACC
+                      GUAA    AAUUA    U       GUUUAG     -C AA       
+                  GGUG    UUAU     CCUG AUAGAUU      GAAGU  U  UCUCAAAC
+                  ||||    ||||     |||| |||||||      |||||  |  ||||||| C
+                  CCAC    GAUG     GGAC UAUCUAA      CUUUA  G  AGAGUUUU
+                      --AC    --GCC    -       AGUCAA     UA AG       
+
+1384 1488 [-27.9] (((((..((.(((((......(((.((((((((.(((.((((...(((.....)))..))))..))))))))))).)))...))))).........))..)))))
+                  AACCUUUUGAGAGAGAUAUUUCAACUGAAAUCUAUCAGGCCGGUAGCACACCUUGUAAUGGUGUUGAAGGUUUUAAUUGUUACUUUCCUUUACAAUCAUAUGGUU
+                       UU  --------A     AUAUUU   C        A   -G    GUA   C
+                  AACCU  UG         GAGAG      CAA UGAAAUCU UCA  GCCG   GCA A
+                  |||||  ||         |||||      ||| |||||||| |||  ||||   |||  C
+                  UUGGU  AC         CUUUC      GUU AUUUUGGA AGU  UGGU   UGU C
+                       AU  UAACAUUUC     ---AUU   A        -   UG    -AA   U
+
+1410 1490 [-20.9] ((((((.((.(((..(((((((.(((((..(((...))).)))))......)))))))..)))........))..))))))
+                  GAAAUCUAUCAGGCCGGUAGCACACCUUGUAAUGGUGUUGAAGGUUUUAAUUGUUACUUUCCUUUACAAUCAUAUGGUUUC
+                        -U  -------C   CC       -----C     GU   
+                  GAAAUC  AU        AGG  GGUAGCA      ACCUU  AAUG
+                  ||||||  ||        |||  |||||||      |||||  ||| G
+                  CUUUGG  UA        UCC  UCAUUGU      UGGAA  UUGU
+                        UA  CUAACAUU   UU       UAAUUU     -G   
+
+1430 1575 [-44.6] ((((..((((...((((((..((((((.((..(.((((.....((((..(..(((((((.((((((((....))).))))).....))))))).)..)))).))))...)..)).)))))).....)))))).)))).....))))
+                  CACACCUUGUAAUGGUGUUGAAGGUUUUAAUUGUUACUUUCCUUUACAAUCAUAUGGUUUCCAACCCACUAAUGGUGUUGGUUACCAACCAUACAGAGUAGUAGUACUUUCUUUUGAACUUCUACAUGCACCAGCAACUGUUUGUG
+                      ---CC    AAU      ---GA      U  UU --U    UUCCU    AA CA       ----U     -   C
+                  CACA     UUGU   GGUGUU     AGGUUU AA  G   UACU     UUAC  U  UAUGGUU     CCAAC CCA U
+                  ||||     ||||   ||||||     |||||| ||  |   ||||     ||||  |  |||||||     ||||| |||
+                  GUGU     AACG   CCACGU     UUCAAG UU  U   AUGA     GAUG  A  AUACCAA     GGUUG GGU A
+                      UUGUC    --A      ACAUC      U  UC UUC    ----U    AG -C       CCAUU     U   A
+
+1523 1598 [-25.2] ((((.((((((......(((((..(..((((((.(((........))).))))))..).))))).)))))).))))
+                  CAGAGUAGUAGUACUUUCUUUUGAACUUCUACAUGCACCAGCAACUGUUUGUGGACCUAAAAAGUCUACUAAUUUG
+                      G      UACUUU     GA CU      U   CCA
+                  CAGA UAGUAG      CUUUU  A  UCUACA GCA   G
+                  |||| ||||||      |||||  |  |||||| |||
+                  GUUU AUCAUC      GAAAA  U  AGGUGU UGU   C
+                      A      -----U     -A CC      U   CAA
+
+1561 1679 [-32.1] (((.((((.((((((((((.((.(((..((((...((.((((((..((..((.((........))..)).)).)))))).))....))))..))).)).))))).))))).)))).)))
+                  CAGCAACUGUUUGUGGACCUAAAAAGUCUACUAAUUUGGUUAAAAACAAAUGUGUCAAUUUCAACUUCAAUGGUUUAACAGGCACAGGUGUUCUUACUGAGUCUAACAAAAAGUUUCUG
+                     C    G     -     U  A   UC    -AAU  G      AA  AA  -U  CAA
+                  CAG AACU UUUGU GGACC AA AAG  UACU    UU GUUAAA  CA  UG  GU   U
+                  ||| |||| ||||| ||||| || |||  ||||    || ||||||  ||  ||  ||
+                  GUC UUGA AAACA UCUGA UC UUC  GUGG    GG CAAUUU  GU  AC  CA   U
+                     U    A     A     G  A   UU    ACAC  A      -G  -A  UU  ACU
+
+1583 1684 [-25.3] ((((.(.(((...((((.(((.((((..((((((..((..((((.....)))).))..))))))..)))).)))......)))).....)))....).))))
+                  AAAGUCUACUAAUUUGGUUAAAAACAAAUGUGUCAAUUUCAACUUCAAUGGUUUAACAGGCACAGGUGUUCUUACUGAGUCUAACAAAAAGUUUCUGCCUUU
+                      U ---U   --AAU    -----U   A    AA      AA  UC    U
+                  AAAG C    ACU     UUGG      UAA AACA  UGUGUC  UU  AACU C
+                  |||| |    |||     ||||      ||| ||||  ||||||  ||  ||||  A
+                  UUUC G    UGA     AAUC      AUU UUGU  ACACGG  AA  UUGG A
+                      C UCUU   AAAAC    UGAGUC   C    GG      AC  -U    U
+
+1612 1705 [-21.1] (((((..(.((((......(((......(((((.((.((((...((...))..))))......)).)))))..))).....)))).)..)))))
+                  GUGUCAAUUUCAACUUCAAUGGUUUAACAGGCACAGGUGUUCUUACUGAGUCUAACAAAAAGUUUCUGCCUUUCCAACAAUUUGGCAGAGACAU
+                       AA U    CUUCAA   UUUAAC     C  -----G    CUU  
+                  GUGUC  U UCAA      UGG      AGGCA AG      UGUU   ACU
+                  |||||  | ||||      |||      ||||| ||      ||||   || U
+                  UACAG  A GGUU      ACC      UCCGU UU      ACAA   UGA
+                       AG C    -UAACA   ----UU     C  UGAAAA    -UC  
+
+1617 1751 [-38.1] ((((((((..((..(((.(((...((((..((((((..((....((((..((((..(((...........)))..))))....))))..))..)))))).....)))).....))).)))..))...))))))))
+                  AAUUUCAACUUCAAUGGUUUAACAGGCACAGGUGUUCUUACUGAGUCUAACAAAAAGUUUCUGCCUUUCCAACAAUUUGGCAGAGACAUUGCUGACACUACUGAUGCUGUCCGUGAUCCACAGACACUUGAGAUU
+                          -CU  AA   U   --ACA    ---CA      CU  CUGA    --AA    AA   UCUG
+                  AAUUUCAA   UC  UGG UUA     GGCA     GGUGUU  UA    GUCU    CAAA  GUU    C
+                  ||||||||   ||  ||| |||     ||||     ||||||  ||    ||||    ||||  |||     C
+                  UUAGAGUU   AG  ACC AGU     UCGU     UCACAG  GU    CAGA    GUUU  CAA    U
+                          CAC  AC   U   GCCUG    AGUCA      UC  --UA    GACG    AA   CCUU
+
+1630 1767 [-33.5] (((((....((((..((((((((.((((.((...((.((...(((.((.((.(.((...............)).)..)).)).)))..)).))...)).))))......)))))))).....)))).......)))))
+                  AUGGUUUAACAGGCACAGGUGUUCUUACUGAGUCUAACAAAAAGUUUCUGCCUUUCCAACAAUUUGGCAGAGACAUUGCUGACACUACUGAUGCUGUCCGUGAUCCACAGACACUUGAGAUUCUUGACAUUACACCAU
+                       ---UUAA    ---CA        -----C    U  GUC  A  AAA   U  U  -C U  CAACAA
+                  AUGGU       CAGG     CAGGUGUU      UUAC GA   UA CA   AGU UC GC  U UC      U
+                  |||||       ||||     ||||||||      |||| ||   || ||   ||| || ||  | ||       U
+                  UACCA       GUUC     GUUCACAG      AGUG CU   GU GU   UCA AG CG  A AG      U
+                       CAUUACA    UUAGA        ACACCU    C  GUC  A  -CA   C  U  UU C  AGACGG
+
+1708 1786 [-19.8] ((((((((((.......(..((((.((...(((..........))).))........))))..).....))))))))))
+                  CUGACACUACUGAUGCUGUCCGUGAUCCACAGACACUUGAGAUUCUUGACAUUACACCAUGUUCUUUUGGUGGUGUCAG
+                            UGAUGCU UC    -------A  CAC   CACU
+                  CUGACACUAC       G  CGUG        UC   AGA    U
+                  ||||||||||       |  ||||        ||   |||
+                  GACUGUGGUG       C  GUAC        AG   UCU    G
+                            --GUUUU UU    CACAUUAC  --U   UAGA
+
+1720 1808 [-22.3] ((..(((..(((.(.(((.((((((.((((..(.((.........)).).)))).....)))))).)))....).))).....))).))
+                  AUGCUGUCCGUGAUCCACAGACACUUGAGAUUCUUGACAUUACACCAUGUUCUUUUGGUGGUGUCAGUGUUAUAACACCAGGAACAAAU
+                    GC   ---CC   A ---C   A      ----U    UU U  ACA
+                  AU  UGU     GUG U    CAC GACACU     GAGA  C UG   U
+                  ||  |||     ||| |    ||| ||||||     ||||  | ||    U
+                  UA  ACA     CAC A    GUG CUGUGG     UUCU  G AC   A
+                    -A   AGGAC   A UAUU   A      UGGUU    -U U  CAC
+
+1758 1880 [-28.1] (((....((((......(((.((..((.((((..(((((..(((((((...((((......))))...)))))))........)))))...)))).))...))......)))..))))..)))
+                  AUUACACCAUGUUCUUUUGGUGGUGUCAGUGUUAUAACACCAGGAACAAAUACUUCUAACCAGGUUGCUGUUCUUUAUCAGGAUGUUAACUGCACAGAAGUCCCUGUUGCUAUUCAUGCAGAU
+                     ACAC    UUCUUU   -----U  -UG  A    -UA     ------CC       AAU    CU
+                  AUU    CAUG      UGG      GG   UC GUGU   UAACA        AGGAACA   ACUU  A
+                  |||    ||||      |||      ||   || ||||   |||||        |||||||   ||||
+                  UAG    GUAC      AUC      CC   AG CACG   AUUGU        UUCUUGU   UGGA  A
+                     --AC    ----UU   GUUGUC  UGA  A    UCA     AGGACUAU       CGU    CC
+
+1768 1888 [-28.4] ((....(((((..(((.((((...(((((............((((((...(((.(.((..((((.....)))).)).).)))...))))))...))))).))))...))).)))))...))
+                  GUUCUUUUGGUGGUGUCAGUGUUAUAACACCAGGAACAAAUACUUCUAACCAGGUUGCUGUUCUUUAUCAGGAUGUUAACUGCACAGAAGUCCCUGUUGCUAUUCAUGCAGAUCAACUUAC
+                    UCUU     GG   --C    UUA     CCAGGAACAAAU      AAC   G U  UG    U
+                  GU    UUGGU  UGU   AGUG   UAACA            ACUUCU   CAG U GC  UUCU U
+                  ||    |||||  |||   ||||   |||||            ||||||   ||| | ||  ||||  A
+                  CA    AACUA  ACG   UUAU   GUUGU            UGAAGA   GUC A UG  AGGA U
+                    -UUC     -G   UAC    --C     ---------CCC      CAC   A U  -U    C
+
+1792 1920 [-34.4] ((..(((.((((.((((((......((((((.(..((..((.(((.(((((.((((.((......))....)))).))))).....))).))...))..).)))))).)))))).))))...)))..))
+                  UAACACCAGGAACAAAUACUUCUAACCAGGUUGCUGUUCUUUAUCAGGAUGUUAACUGCACAGAAGUCCCUGUUGCUAUUCAUGCAGAUCAACUUACUCCUACUUGGCGUGUUUAUUCUACAGGUUCUA
+                    AC   --A    C      UUCUAA      U CU  -UC  U   ----A     U    ---U  AC
+                  UA  ACC   GGAA AAAUAC      CCAGGU G  GU   UU AUC     GGAUG UAAC    GC  A
+                  ||  |||   |||| ||||||      |||||| |  ||   || |||     ||||| ||||    ||
+                  AU  UGG   UCUU UUUGUG      GGUUCA C  CA   AA UAG     CUUAU GUUG    UG  G
+                    CU   ACA    A      -----C      U CU  UUC  C   ACGUA     C    UCCC  AA
+
+1934 2054 [-35.6] ((((((..((((.......((((.((((..((.....((((.......((((...(((((..(....)..)))))..)))).))))..))..))))........)))).))))..))))))
+                  ACGUGCAGGCUGUUUAAUAGGGGCUGAACAUGUCAACAACUCAUAUGAGUGUGACAUACCCAUUGGUGCAGGUAUAUGCGCUAGUUAUCAGACUCAGACUAAUUCUCCUCGGCGGGCACGU
+                        AG    UUUAAUA    -------C    CA  UCAAC    CAUAUGA    GAC     CA U
+                  ACGUGC  GCUG       GGGG        UGAA  UG     AACU       GUGU   AUACC  U G
+                  ||||||  ||||       ||||        ||||  ||     ||||       ||||   |||||  |
+                  UGCACG  CGGC       CCUC        ACUC  AC     UUGA       CGCG   UAUGG  G G
+                        GG    ------U    UUAAUCAG    AG  ---UA    ------U    -UA     AC U
+
+1999 2146 [-51.4] ((...(((((..(((..((((((.(((.(..((((..((((...((.((((.(((((((((((.((((.(.....).)))).)))))))))))..)))).)).)))).....))))....).))).))))))....))).))))).))
+                  GUGCAGGUAUAUGCGCUAGUUAUCAGACUCAGACUAAUUCUCCUCGGCGGGCACGUAGUGUAGCUAGUCAAUCCAUCAUUGCCUACACUAUGUCACUUGGUGCAGAAAAUUCAGUUGCUUACUCUAAUAACUCUAUUGCCAUACCCAC
+                    GCA     AU   --CU      C   C --CA    ---AA    CCU  G    -C           C    C A
+                  GU   GGUAU  GCG    AGUUAU AGA U    GACU     UUCU   CG CGGG  ACGUAGUGUAG UAGU A U
+                  ||   |||||  |||    |||||| ||| |    ||||     ||||   || ||||  ||||||||||| |||| |  C
+                  CA   CCAUA  CGU    UCAAUA UCU A    UUGA     AAGA   GU GUUC  UGUAUCACAUC GUUA U C
+                    --C     -C   UAUC      A   C UUCG    CUUAA    --C  G    AC           C    C A
+
+2112 2252 [-42.4] ((((((........((..((..(((..((..((((((((..(((......(((...((.......(((((..((((((.......))))))..))))).)).)))..))).))))))))..)).)))..)).)).))))))
+                  GUUGCUUACUCUAAUAACUCUAUUGCCAUACCCACAAAUUUUACUAUUAGUGUUACCACAGAAAUUCUACCAGUGUCUAUGACCAAGACAUCAGUAGAUUGUACAAUGUACAUUUGUGGUGAUUCAACUGAAUGCAGCAAU
+                        UACUCUAA  AC  UA   CC  AC        UU   UAUUAG   UAC  CAGAAAU     CA      AU
+                  GUUGCU        UA  UC  UUG  AU  CCACAAAU  UAC      UGU   CA       UCUAC  GUGUCU  G
+                  ||||||        ||  ||  |||  ||  ||||||||  |||      |||   ||       |||||  ||||||   A
+                  UAACGA        GU  AG  AAC  UA  GGUGUUUA  AUG      ACA   GU       AGAUG  UACAGA  C
+                        -------C  -A  UC   -U  GU        -C   ----UA   --U  ------U     AC      AC
+
+2133 2273 [-43.1] (((((((((.(.(((((..((.((.((((.(((((((((((.....(((....((((((.............)))))).))).........)))))))))))....))))....)).))...))))).)...)))))))))
+                  AUUGCCAUACCCACAAAUUUUACUAUUAGUGUUACCACAGAAAUUCUACCAGUGUCUAUGACCAAGACAUCAGUAGAUUGUACAAUGUACAUUUGUGGUGAUUCAACUGAAUGCAGCAAUCUUUUGUUGCAAUAUGGCAGU
+                           --C C     -UU  A  ---A    ---U           ----AAUUC   CAGU      GACCA
+                  AUUGCCAUA   C ACAAA   UU CU    UUAG    GUUACCACAGA         UAC    GUCUAU     A
+                  |||||||||   | |||||   || ||    ||||    |||||||||||         |||    ||||||      G
+                  UGACGGUAU   G UGUUU   AA GA    AGUC    UAGUGGUGUUU         AUG    UAGAUG     A
+                           AAC U     UCU  C  CGUA    AACU           ACAUGUAAC   ---U      ACUAC
+
+2212 2302 [-24.4] ((..((.((((..(((((...((..(((((..((((((((....))))))))......)))))...)).))))).......)))).)).))
+                  GUACAAUGUACAUUUGUGGUGAUUCAACUGAAUGCAGCAAUCUUUUGUUGCAAUAUGGCAGUUUUUGUACACAAUUAAACCGUGCUUUAAC
+                    AC  U    -----AU     GUG  -UC     ----AA        U
+                  GU  AA GUAC       UUGUG   AU   AACUG      UGCAGCAA C
+                  ||  || ||||       |||||   ||   |||||      ||||||||
+                  CA  UU CGUG       AACAC   UG   UUGAC      ACGUUGUU U
+                    -A  U    CCAAAUU     --A  UUU     GGUAUA        U
+
+2260 2348 [-22.1] (((((..(((..((((((((...((((........(((.(.......).))).))))......))))))))..)))........)))))
+                  UGCAAUAUGGCAGUUUUUGUACACAAUUAAACCGUGCUUUAACUGGAAUAGCUGUUGAACAAGACAAAAACACCCAAGAAGUUUUUGCA
+                       ------UA   CA        ---ACA    UAAACCGU   U AA
+                  UGCAA        UGG  GUUUUUGU      CAAU        GCU U  C
+                  |||||        |||  ||||||||      ||||        ||| |   U
+                  ACGUU        ACC  CAAAAACA      GUUG        CGA A  G
+                       UUUGAAGA   CA        GAACAA    -------U   U AG
+
+2294 2435 [-26.6] ((.(((...((((.(((...(((...((((..(((((..((((((..(((.(((....((................))....)))...)))..))))))..)))))..))))...)))...))).....))))...))).))
+                  UGCUUUAACUGGAAUAGCUGUUGAACAAGACAAAAACACCCAAGAAGUUUUUGCACAAGUCAAACAAAUUUACAAAACACCACCAAUUAAAGAUUUUGGUGGUUUUAAUUUUUCACAAAUAUUACCAGAUCCAUCAAAACCA
+                    C   AAC    ----A   CUG   AAC    CA     AC      AG   --U   ACAA  CAAACAA
+                  UG UUU   UGGA     UAG   UUG   AAGA  AAAAC  CCAAGA  UUU   UGC    GU       A
+                  || |||   ||||     |||   |||   ||||  |||||  ||||||  |||   |||    ||
+                  AC AAA   ACCU     AUU   AAC   UUUU  UUUUG  GGUUUU  AAA   ACC    CA       U
+                    C   ACU    AGACC   AUA   ACU    AA     GU      AG   UUA   ACCA  AAACAUU
+
+2393 2538 [-39] ((((..((((...((((((..(((((((.((.......((.(.((((.((.(((((((.(((((((.....)))))))..)))))))..)).....)))).).)).........)).)))))))....))).))).))))..))))
+                UGGUUUUAAUUUUUCACAAAUAUUACCAGAUCCAUCAAAACCAAGCAAGAGGUCAUUUAUUGAAGAUCUACUUUUCAACAAAGUGACACUUGCAGAUGCUGGCUUCAUCAAACAAUAUGGUGAUUGCCUUGGUGAUAUUGCUGCUA
+                    UU    UUU   -   --AU       G  --CCAUCAA  C A    ----A  -G       -A       U
+                UGGU  UAAU   UCA CAA    AUUACCA AU         AA C AGCA     GA  GUCAUUU  UUGAAGA C
+                ||||  ||||   ||| |||    ||||||| ||         || | ||||     ||  |||||||  |||||||  U
+                AUCG  GUUA   AGU GUU    UAGUGGU UA         UU G UCGU     UU  CAGUGAA  AACUUUU A
+                    UC    --U   G   CCGU       A  ACAAACUAC  C G    AGACG  CA       AC       C
+
+2441 2573 [-36.5] ((((((..(((..........((((((...(.((((((..((.((((..(......(((((((.((((......))))..)))))))..)..)))).)).....))))))..)...)))))).))).))))))
+                  GAGGUCAUUUAUUGAAGAUCUACUUUUCAACAAAGUGACACUUGCAGAUGCUGGCUUCAUCAAACAAUAUGGUGAUUGCCUUGGUGAUAUUGCUGCUAGAGACCUCAUUUGUGCACAAAAGUUUAACGGCCUU
+                        AU   UUGAAGAUCU      CAA -A      ---CA  U    AU CUGGCU       -A    AU
+                  GAGGUC  UUA          ACUUUU   C  AAGUGA     CU GCAG  G      UCAUCAA  CAAU  G
+                  ||||||  |||          ||||||   |  ||||||     || ||||  |      |||||||  ||||
+                  UUCCGG  AAU          UGAAAA   G  UUUACU     GA CGUC  U      AGUGGUU  GUUA  G
+                        -C   ---------U      CAC UG      CCAGA  U    GU ----AU       CC    GU
+
+2465 2604 [-39.1] (((((.(...(((......(((((...((((......(((((.((.(((..(((.(((.(((..(((..((..........))..))).)))..)))..)))..))).)).))))).))))..))))).))).).)))))
+                  UUUCAACAAAGUGACACUUGCAGAUGCUGGCUUCAUCAAACAAUAUGGUGAUUGCCUUGGUGAUAUUGCUGCUAGAGACCUCAUUUGUGCACAAAAGUUUAACGGCCUUACUGUUUUGCCACCUUUGCUCACAGAUGAAA
+                       A AAA   ACACUU     UGC    UUCAUC     A  U   GA   -C   -G   AU   GC  CUAG
+                  UUUCA C   GUG      GCAGA   UGGC      AAACA UA GGU  UUG  CUU  GUG  AUU  UG    A
+                  ||||| |   |||      |||||   ||||      ||||| || |||  |||  |||  |||  |||  ||
+                  AAAGU G   CAC      CGUUU   ACCG      UUUGU AU CCG  AAU  GAA  CAC  UGU  AC    G
+                       A --A   -----U     -CC    -----U     C  U   GC   UU   AA   -G   UU  UCCA
+
+2534 2619 [-24.2] ((.(.(((...(((((((((..((((.((..(((((.....)))))..))....))))..)))))))))........))).)..))
+                  UGCUAGAGACCUCAUUUGUGCACAAAAGUUUAACGGCCUUACUGUUUUGCCACCUUUGCUCACAGAUGAAAUGAUUGCUCAAUACA
+                    -C A   -----ACC         CA    ---A  UU     C
+                  UG  U GAG        UCAUUUGUG  CAAA    GU  AACGG C
+                  ||  | |||        |||||||||  ||||    ||  |||||  U
+                  AC  A CUC        AGUAGACAC  GUUU    CG  UUGUC U
+                    AU A   GUUAGUAA         UC    CCAC  UU     A
+
+2575 2713 [-46.8] ((((...((((...(((((..((((((...((..(((........(.(((((((.....(.((((.((((((....)))))).)))).).))))))).)..)))...)).....))))))...))))).))))..))))
+                  CUGUUUUGCCACCUUUGCUCACAGAUGAAAUGAUUGCUCAAUACACUUCUGCACUGUUAGCGGGUACAAUCACUUCUGGUUGGACCUUUGGUGCAGGUGCUGCAUUACAAAUACCAUUUGCUAUGCAAAUGGCUUAUAG
+                      UUU    CCU     -CA      --AAA  -AU   UCAAUACA U       UGUUA C    A      C
+                  CUGU   GCCA   UUGCU   CAGAUG     UG   UGC        C UCUGCAC     G GGGU CAAUCA U
+                  ||||   ||||   |||||   ||||||     ||   |||        | |||||||     | |||| ||||||
+                  GAUA   CGGU   AACGU   GUUUAC     AC   ACG        G GGACGUG     U UCCA GUUGGU U
+                      -UU    --A     AUC      CAUAA  AUU   ------UC U       ----G U    G      C
+
+2725 2846 [-32.1] ((((((((...(((..(((.((.(..(((((.......(((.(((((((.((.(.....).))...)))))))....)))........)))))..).....)).))).)))...))))))))
+                  UUGGAGUUACACAGAAUGUUCUCUAUGAGAACCAAAAAUUGAUUGCCAACCAAUUUAAUAGUGCUAUUGGCAAAAUUCAAGACUCACUUUCUUCCACAGCAAGUGCACUUGGAAAACUUCAA
+                          ACA   AA   U  ----C AU     -CCAAAAA   ---A       --C  A U
+                  UUGGAGUU   CAG  UGU CU     U  GAGAA        UUG    UUGCCAA   CA U U
+                  ||||||||   |||  ||| ||     |  |||||        |||    |||||||   || |  A
+                  AACUUCAA   GUU  ACG GA     A  UUCUU        AAC    AACGGUU   GU A A
+                          AAG   -C   U  ACGAC CC     UCACUCAG   UUAA       AUC  G U
+
+2822 2873 [-19.3] (((..(((((.((((...(((.((...)).)))...))))..)))))..)))
+                  AGCAAGUGCACUUGGAAAACUUCAAGAUGUGGUCAACCAAAAUGCACAAGCU
+                     AA     -C    AAA   U  
+                  AGC  GUGCA  UUGG   ACU CAA
+                  |||  |||||  ||||   ||| || A
+                  UCG  CACGU  AACC   UGG GUA
+                     AA     AA    AAC   U  
+
+2843 2988 [-36.3] ((((....(.(((((......(((((.((((((((......((((((.((.....((.((....(((((.(((.(....).))).))))).))....)).....))..))))))..))))))))...)))))..))))).).))))
+                  UCAAGAUGUGGUCAACCAAAAUGCACAAGCUUUAAACACGCUUGUUAAACAACUUAGCUCCAAUUUUGGUGCAAUUUCAAGUGUUUUAAAUGAUAUCCUUUCACGUCUUGACAAAGUUGAGGCUGAAGUGCAAAUUGAUAGGUUGA
+                      GAUG G     CCAAAA     --A        ACACGC      -A  AACUU  ---C  CAAU     U   A U
+                  UCAA    U GUCAA      UGCAC   AGCUUUAA      UUGUUA  AC     AG    UC    UUUGG GCA U U
+                  ||||    | |||||      |||||   ||||||||      ||||||  ||     ||    ||    ||||| ||| |
+                  AGUU    G UAGUU      ACGUG   UCGGAGUU      AACAGU  UG     UC    AG    AAAUU UGU A C
+                      ---G A     ----AA     AAG        ----GA      UC  CACUU  CUAU  ---U     U   G A
+
+2871 2996 [-35.3] ((((...(...(((((((((.((..((((((.((((((((.........((((.((...(((........))).))..)))).)))))))).))))))..))....)))))))))...)...))))
+                  GCUUUAAACACGCUUGUUAAACAACUUAGCUCCAAUUUUGGUGCAAUUUCAAGUGUUUUAAAUGAUAUCCUUUCACGUCUUGACAAAGUUGAGGCUGAAGUGCAAAUUGAUAGGUUGAUCACAGGC
+                      UAA CAC         ---A  AC      C        GUGCAAUUU    -U  UUU   UGA
+                  GCUU   A   GCUUGUUAA    CA  UUAGCU CAAUUUUG         CAAG  GU   AAA   U
+                  ||||   |   |||||||||    ||  |||||| ||||||||         ||||  ||   |||
+                  CGGA   U   UGGAUAGUU    GU  AGUCGG GUUGAAAC         GUUC  CA   UUU   A
+                      CAC AGU         AAAC  GA      A        --------A    UG  --C   CCU
+
+2947 3073 [-41] ((...((...(((.((((((..(((.(.(((((((..(((((.((((.(((((((....))))))).......))))..))))).))))))).).)))...........)))))).)))..))..))
+                GUCUUGACAAAGUUGAGGCUGAAGUGCAAAUUGAUAGGUUGAUCACAGGCAGACUUCAAAGUUUGCAGACAUAUGUGACUCAACAAUUAAUUAGAGCUGCAGAAAUCAGAGCUUCUGCUAAUCUUGC
+                  CUU  CAA   U      ---------GA   G A       AG     -U    ------G       U
+                GU   GA   AGU GAGGCU           AGU C AAUUGAU  GUUGA  CACA       GCAGACU C
+                ||   ||   ||| ||||||           ||| | |||||||  |||||  ||||       |||||||
+                CG   CU   UCG CUUCGA           UCG G UUAAUUA  CAACU  GUGU       CGUUUGA A
+                  -UU  -AA   U      GACUAAAGACG   A A       -A     CA    AUACAGA       A
+
+2983 3074 [-29] (((.(((....((((((.(((.(..(((((((...((..(((.(....).)))..))...)))))))..)..)))..)))))).)))..)))
+                GGUUGAUCACAGGCAGACUUCAAAGUUUGCAGACAUAUGUGACUCAACAAUUAAUUAGAGCUGCAGAAAUCAGAGCUUCUGCUAAUCUUGCU
+                   -U   CACA      -C   -A AG       ACA  UG   C C
+                GGU  GAU    GGCAGA  UUC  A  UUUGCAG   UA  UGA U A
+                |||  |||    ||||||  |||  |  |||||||   ||  ||| |
+                UCG  CUA    UCGUCU  GAG  U  AGACGUC   AU  AUU A A
+                   UU   ---A      UC   AC AA       GAG  UA   A C
+
+3085 3209 [-37.7] (((..((((.((((...((((.((((...((.(((((((.....((.((((((...........)))))).))..)))))))..))..))))...))))...))))....))))........)))
+                  UGUCAGAGUGUGUACUUGGACAAUCAAAAAGAGUUGAUUUUUGUGGAAAGGGCUAUCAUCUUAUGUCCUUCCCUCAGUCAGCACCUCAUGGUGUAGUCUUCUUGCAUGUGACUUAUGUCCCUGCA
+                     ------CA    ---G    CUU    --A    AAA  -A       UUUGU  A      UAUC
+                  UGU        GAGU    UGUA   GGAC   AUCA   AG  GUUGAUU     GG AAGGGC    A
+                  |||        ||||    ||||   ||||   ||||   ||  |||||||     || ||||||     U
+                  ACG        UUCA    ACGU   UCUG   UGGU   UC  CGACUGA     CC UUCCUG    C
+                     UCCCUGUA    GUGU    UCU    AUG    -AC  CA       ---CU  C      UAUU
+
+3122 3215 [-28.2] ((((((((...((((......((.(((((.........((.(.(((((....))))).).))....))))).)).......)))).))))))))
+                  UUUUUGUGGAAAGGGCUAUCAUCUUAUGUCCUUCCCUCAGUCAGCACCUCAUGGUGUAGUCUUCUUGCAUGUGACUUAUGUCCCUGCACAAGAA
+                          GAA    -CUAUCA  U     CCUUCCCUC  U A     U
+                  UUUUUGUG   AGGG       UC UAUGU         AG C GCACC C
+                  ||||||||   ||||       || |||||         || | |||||
+                  AAGAACAC   UCCC       AG GUACG         UC G UGUGG A
+                          --G    UGUAUUC  U     -----UUCU  U A     U
+
+3159 3237 [-22.5] (((..((((.....(.(((.(((.((((((...(.(((....))).)....))))))....))).))).).)))).)))
+                  CAGUCAGCACCUCAUGGUGUAGUCUUCUUGCAUGUGACUUAUGUCCCUGCACAAGAAAAGAACUUCACAACUGCUCCUG
+                     UC    CCUCA G   U   ---C      -CAU U   U
+                  CAG  AGCA     U GUG AGU    UUCUUG    G GAC U
+                  |||  ||||     | ||| |||    ||||||    | |||
+                  GUC  UCGU     A CAC UCA    AAGAAC    C CUG A
+                     -C    ----C A   U   AGAA      ACGU C   U
+
+3174 3264 [-23.4] (((((..(.((((..((((..(...(((.(...(((...(((......))).....)))....).))).)..))))..)))).)..)))))
+                  GGUGUAGUCUUCUUGCAUGUGACUUAUGUCCCUGCACAAGAAAAGAACUUCACAACUGCUCCUGCCAUUUGUCAUGAUGGAAAAGCACACU
+                       AG C    UG    UG CUU   U -CCU   --CAA   AA
+                  GGUGU  U UUCU  CAUG  A   AUG C    GCA     GAA  G
+                  |||||  | ||||  ||||  |   ||| |    |||     |||
+                  UCACA  A AAGG  GUAC  U   UAC G    CGU     CUU  A
+                       CG A    UA    UG --U   C UCCU   CAACA   CA
+
+3226 3304 [-23.4] ((..((....(((((((((........(((....((((((((.....)))))))).)))....)))))))))..)).))
+                  CAACUGCUCCUGCCAUUUGUCAUGAUGGAAAAGCACACUUUCCUCGUGAAGGUGUCUUUGUUUCAAAUGGCACACACUG
+                    AC  CUCC         UCAUGAUG   AAGC        C
+                  CA  UG    UGCCAUUUG        GAA    ACACUUUC U
+                  ||  ||    |||||||||        |||    ||||||||  C
+                  GU  AC    ACGGUAAAC        UUU    UGUGGAAG G
+                    -C  --AC         ----UUUG   ---C        U
+
+3258 3366 [-26.3] (((((........(((....(((((.((.....(((((.......(((((..(((.(.........).)))..)))))....)))))..)).))))).)))...)))))
+                  GCACACUUUCCUCGUGAAGGUGUCUUUGUUUCAAAUGGCACACACUGGUUUGUAACACAAAGGAAUUUUUAUGAACCACAAAUCAUUACUACAGACAACACAUUUGUGU
+                       CUUUCCUC   AAGG     U  UUUCA     CACACAC     UG   C CAA
+                  GCACA        GUG    UGUCU UG     AAUGG       UGGUU  UAA A   A
+                  |||||        |||    ||||| ||     |||||       |||||  ||| |    G
+                  UGUGU        CAC    ACAGA AU     UUACU       ACCAA  AUU U   G
+                       -----UUA   ---A     C  ---CA     ---AAAC     GU   U UAA
+
+3321 3395 [-17.7] (((((((((.....(((...((((((..((((((..(...)..))))))......)))))).))).)))))))))
+                  AAUUUUUAUGAACCACAAAUCAUUACUACAGACAACACAUUUGUGUCUGGUAACUGUGAUGUUGUAAUAGGAAUU
+                           GAACC   AAU      ----UA      AC 
+                  AAUUUUUAU     ACA   CAUUAC      CAGACA  AC
+                  |||||||||     |||   ||||||      ||||||  | C
+                  UUAAGGAUA     UGU   GUAGUG      GUCUGU  UU
+                           ----A   --U      UCAAUG      GU 
+
+3362 3440 [-21.5] ((.(((((((.......(.((((((..((((..(((.....)))..........)))).)))))).)..))))))).))
+                  UGUGUCUGGUAACUGUGAUGUUGUAAUAGGAAUUGUCAACAACACAGUUUAUGAUCCUUUGCAACCUGAAUUAGACUCA
+                    U       AACUGUG U      AU    --------AU   C
+                  UG GUCUGGU       A GUUGUA  AGGA          UGU A
+                  || |||||||       | ||||||  ||||          |||  A
+                  AC CAGAUUA       U CAACGU  UCCU          ACA C
+                    U       -----AG C      -U    AGUAUUUGAC   A
+
+3390 3537 [-37.3] ((...(((..(((((..(((...(((.((..((..(((((((((((..((......((.((.((..(((...((...))...)))..)).)).)).))..)))))))))))..)).....))..)))..)))...)))))..))).))
+                  GGAAUUGUCAACAACACAGUUUAUGAUCCUUUGCAACCUGAAUUAGACUCAUUCAAGGAGGAGUUAGAUAAAUAUUUUAAGAAUCAUACAUCACCAGAUGUUGAUUUAGGUGACAUCUCUGGCAUUAAUGCUUCAGUUGUAAACAUUC
+                    AAU   CA     -AC   UUA   -U  ---UU  CA           AC  AUUCAA  A  A  UA   AAA  
+                  GG   UGU  ACAAC   AGU   UGA  CC     UG  ACCUGAAUUAG  UC      GG GG GU  GAU   UAU
+                  ||   |||  |||||   |||   |||  ||     ||  |||||||||||  ||      || || ||  |||   || U
+                  CU   ACA  UGUUG   UCG   AUU  GG     AC  UGGAUUUAGUU  AG      CC CU CA  CUA   AUU
+                    --U   AA     ACU   -UA   AC  UCUCU  AG           GU  -----A  A  A  UA   AGA  
+
+3489 3596 [-26.7] ((((((..((((..(((.(.(((((......((((((..((......((((.......))))..))....)))))).))))).).......))).))))...))))))
+                  GUUGAUUUAGGUGACAUCUCUGGCAUUAAUGCUUCAGUUGUAAACAUUCAAAAAGAAAUUGACCGCCUCAAUGAGGUUGCCAAGAAUUUAAAUGAAUCUCUCAUCGAU
+                        -UU    GA   ------C C     UUAAUG      --UU  AAACAU    AA
+                  GUUGAU   AGGU  CAU       U UGGCA      CUUCAG    GU      UCAA  A
+                  ||||||   ||||  |||       | |||||      ||||||    ||      ||||   G
+                  UAGCUA   UCUA  GUA       G ACCGU      GGAGUA    CG      AGUU  A
+                        CUC    -A   AAUUUAA A     -----U      ACUC  ----CC    AA
+
+3596 3690 [-28.1] ((.(((...((.(((...(((.(..((((....(((.((((((.(.....).))))))..)))....))))..).)))..)))..))..))).))
+                  UCUCCAAGAACUUGGAAAGUAUGAGCAGUAUAUAAAAUGGCCAUGGUACAUUUGGCUAGGUUUUAUAGCUGGCUUGAUUGCCAUAGUAAUGGUGA
+                    U   AGA  -U   AAA   U AG    AUAU   -A      U G
+                  UC CCA   AC  UGG   GUA G  CAGU    AAA  UGGCCA G U
+                  || |||   ||  |||   ||| |  ||||    |||  |||||| |  A
+                  AG GGU   UG  ACC   UAG U  GUCG    UUU  AUCGGU U C
+                    U   -AA  AU   -GU   U CG    AUAU   GG      U A
+
+3611 3702 [-28.1] (((((((((....(((.((..(((((........(((.((((((.(.....).)))))).))).)))))..))...)))....)))))))))
+                  AAAGUAUGAGCAGUAUAUAAAAUGGCCAUGGUACAUUUGGCUAGGUUUUAUAGCUGGCUUGAUUGCCAUAGUAAUGGUGACAAUUAUGCUUU
+                           GCAG   --A  AA     CAUGGUAC   U      G U
+                  AAAGUAUGA    UAU   UA  AUGGC        AUU GGCUAG U U
+                  |||||||||    |||   ||  |||||        ||| |||||| |  U
+                  UUUCGUAUU    GUG   AU  UACCG        UAG UCGGUC A A
+                           AACA   GUA  GA     -------U   U      G U
+
+3620 3722 [-29.4] ((((((.......(((.....(((((.(.(((..((((.((((..((((......)))).))))........))))..)))..).)))))..)))..))))))
+                  GCAGUAUAUAAAAUGGCCAUGGUACAUUUGGCUAGGUUUUAUAGCUGGCUUGAUUGCCAUAGUAAUGGUGACAAUUAUGCUUUGCUGUAUGACCAGUUGCUGU
+                        UAUAAAA   CCAUG     U -U   UA    -------U    GC    UU
+                  GCAGUA       UGG     GUACA U  GGC  GGUU        UAUA  UGGC  G
+                  ||||||       |||     ||||| |  |||  ||||        ||||  ||||
+                  UGUCGU       ACC     UAUGU G  UCG  UUAA        AUGA  ACCG  A
+                        -----UG   ---AG     C UU   UA    CAGUGGUA    -U    UU
+
+3637 3771 [-37.8] ((...((.(((((..((((.(((((((...........((.(((((..((..((((((((.((...((((......)))).))..)))))))).))...))))).))..))))))).))))...))))).)).))
+                  CAUGGUACAUUUGGCUAGGUUUUAUAGCUGGCUUGAUUGCCAUAGUAAUGGUGACAAUUAUGCUUUGCUGUAUGACCAGUUGCUGUAGUUGUCUCAAGGGCUGUUGUUCUUGUGGAUCCUGCUGCAAAUUUGAUG
+                    UGG  C     -GC    U       CUGGCUUGAUU  C     -AA  GU        -U  UUU    UA
+                  CA   UA AUUUG   UAGG UUUAUAG           GC AUAGU   UG  GACAAUUA  GC   GCUG  U
+                  ||   || |||||   |||| |||||||           || |||||   ||  ||||||||  ||   ||||
+                  GU   GU UAAAC   GUCC AGGUGUU           UG UGUCG   AC  CUGUUGAU  CG   UGAC  G
+                    --A  U     GUC    U       ---------CU  U     GGA  -U        GU  --U    CA
+
+3688 3795 [-33.6] (((..(((..((((.(.(((.(.(.(((.(..((((((.(((.(((((((....)))))))..)))...)))))).).))).).)..))).)...)))).)))..)))
+                  UGACAAUUAUGCUUUGCUGUAUGACCAGUUGCUGUAGUUGUCUCAAGGGCUGUUGUUCUUGUGGAUCCUGCUGCAAAUUUGAUGAAGACGACUCUGAGCCAGUGCUCA
+                     CA   AU    --U C   -A G C   U GC      --U   -U       U
+                  UGA  AUU  GCUU   G UGU  U A CAG U  UGUAGU   GUC  CAAGGGC G
+                  |||  |||  ||||   | |||  | | ||| |  ||||||   |||  |||||||
+                  ACU  UGA  CGAG   C GCA  A U GUU A  ACGUCG   UAG  GUUCUUG U
+                     CG   -C    UCU A   GA G A   U -A      UCC   GU       U
+
+3740 3825 [-24.1] (((((..((((........((..((((((((........((.(((((....))))).))..)))))))).))...))))..)))))
+                  UUGUUCUUGUGGAUCCUGCUGCAAAUUUGAUGAAGACGACUCUGAGCCAGUGCUCAAAGGAGUCAAAUUACAUUACACAUAAACGA
+                       CU    GAUCCUGC  CA        GAAGACGA  C     C
+                  UUGUU  UGUG        UG  AAUUUGAU        CU UGAGC A
+                  |||||  ||||        ||  ||||||||        || |||||
+                  AGCAA  ACAC        AC  UUAAACUG        GA ACUCG G
+                       AU    -----AUU  -A        ------AG  A     U
+
+3780 3909 [-29.1] ((((((..((((.((...((..(((..(((..(((((......(((...(..((((((.(....).))))))..)...)))....)))))...))).......)))..))...))...))))..))))))
+                  UCUGAGCCAGUGCUCAAAGGAGUCAAAUUACAUUACACAUAAACGAACUUAUGGAUUUGUUUAUGAGAAUCUUCACAAUUGGAACUGUAACUUUGAAGCAAGGUGAAAUCAAGGAUGCUACUCCUUCAGA
+                        CC    --C  AAA  AG   -----AA   -CA     CAUAAA   ACU AU      G U
+                  UCUGAG  AGUG   UC   GG  UCA       UUA   UUACA      CGA   U  GGAUUU U U
+                  ||||||  ||||   ||   ||  |||       |||   |||||      |||   |  |||||| |
+                  AGACUU  UCAU   AG   CU  AGU       AGU   AAUGU      GUU   A  UCUAAG G A
+                        CC    CGU  GAA  AA   GGAACGA   UUC     --CAAG   AAC CU      A U
+
+3845 3913 [-15.8] (((((((........(((...(((.((((((.((...))....)))))).)))...)))...)))))))
+                  AGAAUCUUCACAAUUGGAACUGUAACUUUGAAGCAAGGUGAAAUCAAGGAUGCUACUCCUUCAGAUUUU
+                         UCACAAUU   ACU   A      ---A  
+                  AGAAUCU        GGA   GUA CUUUGA    GCA
+                  |||||||        |||   ||| ||||||    || A
+                  UUUUAGA        CCU   CGU GGAACU    UGG
+                         -----CUU   CAU   A      AAAG  
+
+3925 3982 [-25] (((((((....(((((.(((((....(((.....))).)))))..))))).)))))))
+                UGCAACGAUACCGAUACAAGCCUCACUCCCUUUCGGAUGGCUUAUUGUUGGCGUUGCA
+                       AUAC     -C     UCAC   C
+                UGCAACG    CGAUA  AAGCC    UCC U
+                |||||||    |||||  |||||    |||  U
+                ACGUUGC    GUUGU  UUCGG    AGG U
+                       ---G     UA     ---U   C
+
+3984 4056 [-16.6] ((((((.........((((.(((.(((...((.(..........).))..))).....))).)))).))))))
+                  UUCUUGCUGUUUUUCAGAGCGCUUCCAAAAUCAUAACCCUCAAAAAGAGAUGGCAACUAGCACUCUCCAAGGG
+                        CUGUUUUUC    C   ----U   AAA  A AACC
+                  UUCUUG         AGAG GCU     CCA   UC U    C
+                  ||||||         |||| |||     |||   || |
+                  GGGAAC         UCUC CGA     GGU   AG A    U
+                        --------C    A   UCAAC   -AG  A AAAC
+
+4027 4143 [-30.9] (((((..(..(((.((((((...(.((((((((..(((....((((((.(.((....)).).)))))).)))......)))))))).).......))))))...)))..)..)))))
+                  AAAGAGAUGGCAACUAGCACUCUCCAAGGGUGUUCACUUUGUUUGCAACUUGCUGUUGUUGUUUGUAACAGUUUACUCACACCUUUUGCUCGUUGCUGCUGGCCUUGAAGCCCCUUU
+                       GA GG   --C      ----UCU C        ----UC   UUGU      C U  U
+                  AAAGA  U  CAA   UAGCAC       C AAGGGUGU      ACU    UUGCAA U GC G
+                  |||||  |  |||   ||||||       | ||||||||      |||    |||||| | ||
+                  UUUCC  G  GUU   GUCGUC       G UUUCCACA      UGA    AAUGUU G UG U
+                       CC AA   CCG      GUUGCUC U        CUCAUU   ---C      U U  U
+
+4029 4154 [-35.6] ((((((((..(............(((((..((((....(((.(((((..((....(.(((..((((....))))..))).)....))..)))))....)))..))))..))))).)..))))))))
+                  AGAGAUGGCAACUAGCACUCUCCAAGGGUGUUCACUUUGUUUGCAACUUGCUGUUGUUGUUUGUAACAGUUUACUCACACCUUUUGCUCGUUGCUGCUGGCCUUGAAGCCCCUUUUCUCUAUCUUU
+                          CA CUAGCACUCUCC     UG    CUUU   ---U     UU  UGUU U   UU    C
+                  AGAGAUGG  A            AAGGG  UUCA    GUU    GCAAC  GC    G UGU  GUAA A
+                  ||||||||  |            |||||  ||||    |||    |||||  ||    | |||  ||||
+                  UUUCUAUC  U            UUCCC  AAGU    CGG    CGUUG  CG    C ACA  CAUU G
+                          UC -----------U     CG    --UC   UCGU     CU  UUUU C   CU    U
+
+4133 4233 [-30.1] ((.((....(((((.((.......(((..(((((..((((((((((((....))))))))))))........)))))..)))..))..))))).))...))
+                  GAAGCCCCUUUUCUCUAUCUUUAUGCUUUAGUCUACUUCUUGCAGAGUAUAAACUUUGUAAGAAUAAUAAUGAGGCUUUGGCUUUGCUGGAAAUGCCGUUC
+                    --A  CCCU     -C  UCUUUAU   UU     ------AC            A
+                  GA   GC    UUUCU  UA       GCU  AGUCU        UUCUUGCAGAGU U
+                  ||   ||    |||||  ||       |||  |||||        ||||||||||||
+                  CU   CG    AAAGG  GU       CGG  UCGGA        AAGAAUGUUUCA A
+                    UGC  ---U     UC  -----UU   UU     GUAAUAAU            A
+
+4246 4288 [-11.7] ((.(((..((((((..((.......)).))))))..)))..))
+                  ACUUUAUGAUGCCAACUAUUUUCUUUGCUGGCAUACUAAUUGU
+                    -U   UG      AC  UU
+                  AC  UUA  AUGCCA  UA  U
+                  ||  |||  ||||||  ||   U
+                  UG  AAU  UACGGU  GU  C
+                    UU   CA      -C  UU
+
+4316 4447 [-43.7] ((((((..(.((((.(((.((((((((((...............((((((((...(..((((((((((...))))))))))..)...)))))))).))))))))))..)))...)))).)......))))))
+                  GUAACUUCUUCAAUUGUCAUUACUUCAGGUGAUGGCACAACAAGUCCUAUUUCUGAACAUGACUACCAGAUUGGUGGUUAUACUGAAAAAUGGGAAUCUGGAGUAAAAGACUGUGUUGUAUUACACAGUUAC
+                        ----UC U    --U   -A          UGAUGGCACAACAAG        CUG AC          
+                  GUAACU      U CAAU   GUC  UUACUUCAGG               UCCUAUUU   A  AUGACUACCAG
+                  ||||||      | ||||   |||  ||||||||||               ||||||||   |  |||||||||| G
+                  CAUUGA      A GUUG   CAG  AAUGAGGUCU               AGGGUAAA   U  UAUUGGUGGUU
+                        CACAUU U    UGU   AA          --------------A        AAG CA          
+
+4424 4540 [-33.9] (((..(((((((..(...((.((...((.((((......(((((.((((((((((.....))))))))))....))))).))))..)).))....))...).))))))).....)))
+                  GACUGUGUUGUAUUACACAGUUACUUCACUUCAGACUAUUACCAGCUGUACUCAACUCAAUUGAGUACAGACACUGGUGUUGAACAUGUUACCUUCUUCAUCUACAAUAAAAUUGUU
+                     ---UG       UU CAC  ---U  CUU  -C    GACUAU     ---G          C
+                  GAC     UGUUGUA  A   AG    UA   CA  UUCA      UACCA    CUGUACUCAA U
+                  |||     |||||||  |   ||    ||   ||  ||||      |||||    ||||||||||  C
+                  UUG     AUAACAU  U   UC    AU   GU  AAGU      GUGGU    GACAUGAGUU A
+                     UUAAA       -C ACU  UUCC  --U  AC    -----U     CACA          A
+
+4466 4595 [-34.3] (((((.(..(.((((...((((............((((.(.(((((((..(...((((((.((((.....)))).))))))...)...)))))))......).))))..)))).)))).)...).)))))
+                  CAGCUGUACUCAACUCAAUUGAGUACAGACACUGGUGUUGAACAUGUUACCUUCUUCAUCUACAAUAAAAUUGUUGAUGAGCCUGAAGAACAUGUCCAAAUUCACACAAUCGACGGUUCAUCCGGAGUUG
+                       G -AC C    CAA    GUACAGACACUG    U -----A       -AC UUC      U    U
+                  CAGCU U   U AACU   UUGA            GUGU G      ACAUGUU   C   UUCAUC ACAA A
+                  ||||| |   | ||||   ||||            |||| |      |||||||   |   |||||| ||||  A
+                  GUUGA G   A UUGG   AGCU            CACA U      UGUACAA   G   GAGUAG UGUU A
+                       G CCU C    --C    ----------AA    C UAAACC       GAA UCC      U    A
+
+4530 4673 [-42.8] ((...((.((...((.((.(.(((..(((((....(.((......(((.(((((((((..((((((....((((....))))..))))))..))))))))).))).)).)....))))).)))...).)).)).))..))..))
+                  AUAAAAUUGUUGAUGAGCCUGAAGAACAUGUCCAAAUUCACACAAUCGACGGUUCAUCCGGAGUUGUUAAUCCAGUAAUGGAACCAAUUUAUGAUGAACCGACGACGACUACUAGCGUGCCUUUGUAAGCACAAGCUGAUGAGU
+                    AAA  -U  UGA  A  C --G   AA     CCAA U  ACACAA   A         CG      UUAA    G
+                  AU   AU  GU   UG GC U   AAG  CAUGU    A UC      UCG CGGUUCAUC  GAGUUG    UCCA U
+                  ||   ||  ||   || || |   |||  |||||    | ||      ||| |||||||||  ||||||    ||||
+                  UG   UA  CG   AC CG A   UUC  GUGCG    U AG      AGC GCCAAGUAG  UUUAAC    AGGU A
+                    -AG  GU  --A  A  A UGU   -C     AUCA C  -----C   A         UA      --CA    A
+
+4640 4767 [-40.1] ((((((((((((..(.(((((......((.(((((((.(((.(((((((.....(((((....))))).)))))))....)))......))))))).)).....))))).).)))))....)))))))
+                  ACUAGCGUGCCUUUGUAAGCACAAGCUGAUGAGUACGAACUUAUGUACUCAUUCGUUUCGGAAGAGACAGGUACGUUAAUAGUUAAUAGCGUACUUCUUUUUCUUGCUUUCGUGGUAUUCUUGCUAGU
+                         ----     UU U     CAAGCU  U       -----A   ---U       CAUUC     G
+                  ACUAGCG    UGCCU  G AAGCA      GA GAGUACG      ACU    AUGUACU     GUUUC G
+                  |||||||    |||||  | |||||      || |||||||      |||    |||||||     |||||
+                  UGAUCGU    AUGGU  C UUCGU      UU UUCAUGC      UGA    UGCAUGG     CAGAG A
+                         UCUU     -G U     -UCUUU  C       GAUAAU   UAAU       ----A     A
+
+4709 4808 [-30.2] (((((((..((((((...((((((.(........(.(((....(((((....)))))........))).).....).))))))..))))))..)))))))
+                  GGUACGUUAAUAGUUAAUAGCGUACUUCUUUUUCUUGCUUUCGUGGUAUUCUUGCUAGUUACACUAGCCAUCCUUACUGCGCUUCGAUUGUGUGCGUACU
+                         UA      AAU      C UCUUUUUC U   ----UUCG     U
+                  GGUACGU  AUAGUU   AGCGUA U        U GCU        UGGUA U
+                  |||||||  ||||||   |||||| |        | |||        |||||
+                  UCAUGCG  UGUUAG   UCGCGU A        A CGA        AUCGU C
+                         UG      -CU      C ---UUCCU C   UCACAUUG     U
+
+4767 4829 [-12.7] ((((..((((.((...((.(((((..((....)).))))).)).......)).))))..))))
+                  UUACACUAGCCAUCCUUACUGCGCUUCGAUUGUGUGCGUACUGCUGCAAUAUUGUUAACGUGA
+                      AC    C  ----CCU  C     UU  A
+                  UUAC  UAGC AU       UA UGCGC  CG U
+                  ||||  |||| ||       || |||||  ||
+                  AGUG  AUUG UA       GU AUGCG  GU U
+                      CA    U  UAACGUC  C     -U  G
+
+4789 4866 [-16.9] ((..(((..(((.(((((.(..(((((.(((..(...)..))).)))))..).........))))).)))..))).))
+                  GCUUCGAUUGUGUGCGUACUGCUGCAAUAUUGUUAACGUGAGUCUUGUAAAACCUUCUUUUUACGUUUACUCUCGUGU
+                    UU   UU   U     --------C GC     U   GU 
+                  GC  CGA  GUG GCGUA         U  UGCAA AUU  UA
+                  ||  |||  ||| |||||         |  ||||| |||  | A
+                  UG  GCU  CAU UGCAU         A  AUGUU UGA  GC
+                    -U   CU   U     UUUUCUUCC AA     C   GU 
+
+4852 4975 [-30.1] ((((..((.(((((........(((((......(((((((((.(((.....((.......(((((((........))))))).)).))).)))))))))..))))).))))).)).....))))
+                  CGUUUACUCUCGUGUUAAAAAUCUGAAUUCUUCUAGAGUUCCUGAUCUUCUGGUCUAAACGAACUAAAUAUUAUAUUAGUUUUUCUGUUUGGAACUUUAAUUUUAGCCAUGGCAGAUUCCAACG
+                      ---UA  C     UUAAAAAU     UUCUUC         U   CUUCU  UCUAAAC       AUA
+                  CGUU     CU UCGUG        CUGAA      UAGAGUUCC GAU     GG       GAACUAA   U
+                  ||||     || |||||        |||||      ||||||||| |||     ||       |||||||
+                  GCAA     GA GGUAC        GAUUU      AUUUCAAGG UUG     CU       UUUGAUU   U
+                      CCUUA  C     -------C     ----UA         U   ----U  ------U       AUA
+
+4912 5055 [-32.5] ((.(((.((((.(.(((.(((.((..((((.(...(((((....(((...(((...((.((((((((....)))))))).)).)))......)))..)))))...).))))..)).))).))).).))))........))).))
+                  GAACUAAAUAUUAUAUUAGUUUUUCUGUUUGGAACUUUAAUUUUAGCCAUGGCAGAUUCCAACGGUACUAUUACCGUUGAAGAGCUUAAAAAGCUCCUUGAACAAUGGAACCUAGUAAUAGGUUUCCUAUUCCUUACAUGGAUU
+                    A   -------A    U U   A   U  CU    G AAC     UUUU   ---CAU   AGA  C        C
+                  GA CUA        AUAU A AUU GUU UU  GUUU G   UUUAA    AGC      GGC   UU CAACGGUA U
+                  || |||        |||| | ||| ||| ||  |||| |   |||||    |||      |||   || ||||||||
+                  UU GGU        UAUC U UGG UAA GA  CAAG U   AAGUU    UCG      UCG   GA GUUGCCAU A
+                    A   ACAUUCCU    C U   A   U  UC    G AAC     --CC   AAAAAU   --A  A        U
+
+5004 5134 [-32.7] (((.....((((..((((..((((.(((((...(((((((((..(((((..((((.....)))).....))))).....)))))))))..))))).....))))........))))......))))..)))
+                  GCUCCUUGAACAAUGGAACCUAGUAAUAGGUUUCCUAUUCCUUACAUGGAUUUGUCUUCUACAAUUUGCCUAUGCCAACAGGAAUAGGUUUUUGUAUAUAAUUAAGUUAAUUUUCCUCUGGCUGUUAUGGC
+                     CCUUG    ----AU    ------CC    ----A     UUU         ---UA     ---AU    C
+                  GCU     AACA      GGAA        UAGU     AUAGG   CCUAUUCCU     CAUGG     UUGU U
+                  |||     ||||      ||||        ||||     |||||   |||||||||     |||||     ||||  U
+                  CGG     UUGU      CCUU        AUUA     UGUUU   GGAUAAGGA     GUAUC     AACA C
+                     ---UA    CGGUCU    UUAAUUGA    AUAUA     -UU         CAACC     CGUUU    U
+
+5077 5226 [-46] (((.((((((.((((((.((((.........(((.....((((.((((..(((.(((.(((((.(...(((.........))).).))))).)))............)))..)))).))))..)))...)))).)))))))))))).)))
+                GCCAACAGGAAUAGGUUUUUGUAUAUAAUUAAGUUAAUUUUCCUCUGGCUGUUAUGGCCAGUAACUUUAGCUUGUUUUGUGCUUGCUGCUGUUUACAGAAUAAAUUGGAUCACCGGUGGAAUUGCUAUCGCAAUGGCUUGUCUUGUAGGC
+                   A      A      U    AUAUAAUUA   UAAUU    U    CU   -----------A   C     A UUU   UUG
+                GCC ACAGGA UAGGUU UUGU         AGU     UUCC CUGG  GUU            UGG CAGUA C   AGC   U
+                ||| |||||| |||||| ||||         |||     |||| ||||  |||            ||| ||||| |   |||    U
+                CGG UGUUCU GUUCGG AACG         UCG     AAGG GGCC  UAG            AUU GUCGU G   UCG   U
+                   A      -      U    ------CUA   ---UU    U    AC   GUUAAAUAAGAC   U     C --U   UGU
+
+5184 5291 [-42] (((((...(((((((...((.(((((....(.((((.(.((((.(((.(((((...))))).)))..)))).)...)))).).)))))..))...))))))).)))))
+                GAUCACCGGUGGAAUUGCUAUCGCAAUGGCUUGUCUUGUAGGCUUGAUGUGGCUCAGCUACUUCAUUGCUUCUUUCAGACUGUUUGCGCGUACGCGUUCCAUGUGGUC
+                     CCG       UGC  -U     UGGC U    --U U    -U   U     
+                GAUCA   GUGGAAU   UA  CGCAA    U GUCU   G AGGC  UGA GUGGCU
+                |||||   |||||||   ||  |||||    | ||||   | ||||  ||| ||||| U
+                CUGGU   UACCUUG   AU  GCGUU    G CAGA   U UUCG  ACU CAUCGA
+                     --G       CGC  GC     ---U U    CUU C    UU   U     
+
+5269 5414 [-42.5] ((..(((((.(.((((((.((((((....(((.(..((.(.((((..((((.(.(((........(((...........)))...))).).)))).))))...).))..).)))...))))))...))))))....).))))).))
+                  GCGCGUACGCGUUCCAUGUGGUCAUUCAAUCCAGAAACUAACAUUCUUCUCAACGUGCCACUCCAUGGCACUAUUCUGACCAGACCGCUUCUAGAAAGUGAACUCGUAAUCGGAGCUGUGAUCCUUCGUGGACAUCUUCGUAUUGC
+                    GC     C ---U      --U      UCAA   A AA  U --A    CU    A C   CCACUCCA   CACU
+                  GC  GUACG G    UCCAUG   GGUCAU    UCC G  AC A   CAUU  UCUC A GUG        UGG    A
+                  ||  ||||| |    ||||||   ||||||    ||| |  || |   ||||  |||| | |||        |||     U
+                  CG  UAUGC U    AGGUGC   CUAGUG    AGG U  UG U   GUGA  AGAU U CGC        ACC    U
+                    -U     U CUAC      UUC      -UCG   C AA  C CAA    -A    C U   -----CAG   AGUC
+
+5365 5466 [-30.9] (((((..((.........((.(...(((((.(((.(((....(((....(((((.....))))).))).)))..))).))))).).)).....))..)))))
+                  AGUGAACUCGUAAUCGGAGCUGUGAUCCUUCGUGGACAUCUUCGUAUUGCUGGACACCAUCUAGGACGCUGUGACAUCAAGGACCUGCCUAAAGAAAUCACU
+                       AC  GUAAUCGGA  U UGA     C   -G   UCUU   AUUG     C
+                  AGUGA  UC         GC G   UCCUU GUG  ACA    CGU    CUGGA A
+                  |||||  ||         || |   ||||| |||  |||    |||    |||||  C
+                  UCACU  AG         CG C   AGGAA UAC  UGU    GCA    GAUCU C
+                       AA  ----AAAUC  U --C     C   AG   ---C   ---G     A
+
+5408 5540 [-42.5] (((...((((.((((..(((..(((((((((..((((.....((....((((((....((((..(.....)..)))).))))))....))..)))).....))))))))).)))..))))..))))....)))
+                  GUAUUGCUGGACACCAUCUAGGACGCUGUGACAUCAAGGACCUGCCUAAAGAAAUCACUGUUGCUACAUCACGAACGCUUUCUUAUUACAAAUUGGGAGCUUCGCAGCGUGUAGCAGGUGACUCAGGUUUUGC
+                     -UUG    -A    AU   GG         ---CA    GGACC  CCUA      UCAC    GC A
+                  GUA    CUGG  CACC  CUA  ACGCUGUGA     UCAA     UG    AAGAAA    UGUU  U C
+                  |||    ||||  ||||  |||  |||||||||     ||||     ||    ||||||    ||||  |  A
+                  CGU    GACU  GUGG  GAU  UGCGACGCU     GGUU     AC    UUCUUU    GCAA  A U
+                     UUUG    CA    AC   -G         UCGAG    ---AA  AUUA      ---C    GC C
+
+5423 5561 [-46.4] ((((.((..((((((.((...((((((((..........((((..(((((((((..(((..((((((..(((...))).)))))).)))....)))))))))))))..))))))))..))..))))))..))...))))
+                  AUCUAGGACGCUGUGACAUCAAGGACCUGCCUAAAGAAAUCACUGUUGCUACAUCACGAACGCUUUCUUAUUACAAAUUGGGAGCUUCGCAGCGUGUAGCAGGUGACUCAGGUUUUGCUGCAUACAGUCGCUACAGGAU
+                      --A  AC      -A  UCA        CCUAAAGAAA    UG         --CA   AC      UU   
+                  AUCU   GG  GCUGUG  CA   AGGACCUG          UCAC  UUGCUACAU    CGA  GCUUUC  AUUA
+                  ||||   ||  ||||||  ||   ||||||||          ||||  |||||||||    |||  ||||||  ||| A
+                  UAGG   UC  UGACAU  GU   UUUUGGAC          AGUG  GACGAUGUG    GCU  CGAGGG  UAAA
+                      ACA  GC      AC  -CG        --------UC    --         CGAC   -U      -U   
+
+5534 5604 [-14.9] ((.(((((((..(..(((..(....((((.(......).))))....)..)))..)....)))))))..))
+                  GUUUUGCUGCAUACAGUCGCUACAGGAUUGGCAACUAUAAAUUAAACACAGACCAUUCCAGUAGCAGUGAC
+                    -U       --AU CA   GC ACAG    G CA
+                  GU  UUGCUGC    A  GUC  U    GAUU G  A
+                  ||  |||||||    |  |||  |    |||| |
+                  CA  GACGAUG    U  CAG  A    UUAA U  C
+                    GU       ACCU AC   AC CAAA    A AU
+
+5588 5722 [-31.2] (((((((.......((.......((((((...((......(((((..(..((((((((..((.(.(((((....))))).)..))..))))))))..)..)))))......))...)))))).))...)))))))
+                  AUUCCAGUAGCAGUGACAAUAUUGCUUUGCUUGUACAGUAAGUGACAACAGAUGUUUCAUCUCGUUGACUUUCAGGUUACUAUAGCAGAGAUAUUACUAAUUAUUAUGAGGACUUUUAAAGUUUCCAUUUGGAAU
+                         UAGCAGU  CAAUAUU      CUU  ACAGUA     CA CA        AU  -C U     U
+                  AUUCCAG       GA       GCUUUG   GU      AGUGA  A  GAUGUUUC  CU  G UGACU U
+                  |||||||       ||       ||||||   ||      |||||  |  ||||||||  ||  | |||||
+                  UAAGGUU       CU       UGAAAU   CA      UUAUU  U  UUAUAGAG  GA  U AUUGG C
+                         ----UAC  ------U      UUU  GGAGUA     AA CA        AC  UA C     A
+
+5652 5791 [-30.7] (((((.(((.(((((.(...((..(((((..(.(..(.(((((((((....(((..((.((.(((...)))...))....))..))).))))))))).)..).).)))))..)).).)))))..)))........)))))
+                  UUGACUUUCAGGUUACUAUAGCAGAGAUAUUACUAAUUAUUAUGAGGACUUUUAAAGUUUCCAUUUGGAAUCUUGAUUACAUCAUAAACCUCAUAAUUAAAAAUUUAUCUAAGUCACUAACUGAGAAUAAAUAUUCUCAA
+                       -------U   -A     C AUA  AG     UU C AA U         ACUU   AA  ---U  --C   
+                  UUGAC        UUC  GGUUA U   GC  AGAUA  A U  U AUUAUGAGG    UUA  GU    UC   AUUU
+                  |||||        |||  ||||| |   ||  |||||  | |  | |||||||||    |||  ||    ||   ||| U
+                  AACUC        AAG  UCAAU A   UG  UCUAU  U A  A UAAUACUCC    AAU  UA    AG   UAAG
+                       UUAUAAAU   AG     C --C  AA     -U A AA U         ---A   AC  CAUU  UUC   
+
+5768 5904 [-30.3] (((((..........(((((((..(..(((((((.((((..(...(((..(.((((......((.(((((......))))).))....)))).)..)))..)..))))...)))))))...)..))))))).)))))
+                  CUAACUGAGAAUAAAUAUUCUCAAUUAGAUGAAGAGCAACCAAUGGAGAUUGAUUAAACGAACAUGAAAAUUAUUCUUUUCUUGGCACUGAUAACACUCGCUACUUGUGAGCUUUAUCACUACCAAGAGUGUGUUAG
+                       UGAGAAUAAA       AA -UA       --A    CC AUG   AU G    AACGAA  U     UU
+                  CUAAC          UAUUCUC  U   GAUGAAG   GCAA  A   GAG  U AUUA      CA GAAAA  A
+                  |||||          |||||||  |   |||||||   ||||  |   |||  | ||||      || |||||
+                  GAUUG          GUGAGAA  A   CUAUUUC   UGUU  U   CUC  A UAGU      GU CUUUU  U
+                       ---------U       CC UCA       GAG    CA -CG   AC A    --CACG  U     CU
+
+5772 5907 [-29.2] (((....((.(((((((...(..(((((((.((((..(...(((..(.((((......((.(((((......))))).))....)))).)..)))..)..))))...)))))))...)...)))))))..)).)))
+                  CUGAGAAUAAAUAUUCUCAAUUAGAUGAAGAGCAACCAAUGGAGAUUGAUUAAACGAACAUGAAAAUUAUUCUUUUCUUGGCACUGAUAACACUCGCUACUUGUGAGCUUUAUCACUACCAAGAGUGUGUUAGAGG
+                     AGAA  -A       CAA -UA       --A    CC AUG   AU G    AACGAA  U     UU
+                  CUG    UA  AUAUUCU   U   GAUGAAG   GCAA  A   GAG  U AUUA      CA GAAAA  A
+                  |||    ||  |||||||   |   |||||||   ||||  |   |||  | ||||      || |||||
+                  GGA    AU  UGUGAGA   A   CUAUUUC   UGUU  U   CUC  A UAGU      GU CUUUU  U
+                     ---G  UG       ACC UCA       GAG    CA -CG   AC A    --CACG  U     CU
+
+5841 5929 [-21.8] (((((((.(((..(((..((((((.(....((((..((........))..)))).).))))))..))).)))..........)))))))
+                  UUCUUUUCUUGGCACUGAUAACACUCGCUACUUGUGAGCUUUAUCACUACCAAGAGUGUGUUAGAGGUACAACAGUACUUUUAAAAGAA
+                         ---------C   GC   GA      U GCUA    UG  CUU
+                  UUCUUUU          UUG  ACU  UAACAC C    CUUG  AG   U
+                  |||||||          |||  |||  |||||| |    ||||  ||
+                  AAGAAAA          AAC  UGG  AUUGUG G    GAAC  UC   A
+                         UUUUCAUGAC   -A   AG      U ---A    CA  ACU
+
+5874 5963 [-20.1] (((((((((....(((...(((((.(.((((((((((....)))))))))).).......)))))..)))........)))))...))))
+                  GUGAGCUUUAUCACUACCAAGAGUGUGUUAGAGGUACAACAGUACUUUUAAAAGAACCUUGCUCUUCUGGAACAUACGAGGGCAAUUCAC
+                      ---     ----AUCA   CCA     ------G G          A
+                  GUGA   GCUUU        CUA   AGAGU       U UUAGAGGUAC A
+                  ||||   |||||        |||   |||||       | ||||||||||
+                  CACU   CGGGA        GGU   UCUCG       A AAUUUUCAUG C
+                      UAA     GCAUACAA   -CU     UUCCAAG A          A
+
+5896 5983 [-21.7] ((..((((((((...((..((...............((((((((.((.....)).))))))))...))...))...))))))))..))
+                  GUGUGUUAGAGGUACAACAGUACUUUUAAAAGAACCUUGCUCUUCUGGAACAUACGAGGGCAAUUCACCAUUUCAUCCUCUAGCUGAU
+                    GU        UAC  -CA  ACUUUUAAAAGAACC        C  G
+                  GU  GUUAGAGG   AA   GU               UUGCUCUU UG A
+                  ||  ||||||||   ||   ||               |||||||| ||  A
+                  UA  CGAUCUCC   UU   CA               AACGGGAG AU C
+                    GU        UAC  UAC  ------------CUU        C  A
+
+5898 6012 [-26.9] (((((((((..(...((((.....((((..........((..(((((..((..((.((.......)).))..))..)))))..)).......)))).))))..)..)))))))))
+                  GUGUUAGAGGUACAACAGUACUUUUAAAAGAACCUUGCUCUUCUGGAACAUACGAGGGCAAUUCACCAUUUCAUCCUCUAGCUGAUAACAAAUUUGCACUGACUUGCUUUAGCAC
+                           GU CAA    ACUUU    AGAACCUUGC  UU     AC  AC  G  CA
+                  GUGUUAGAG  A   CAGU     UAAA          UC  CUGGA  AU  GA GG  A
+                  |||||||||  |   ||||     ||||          ||  |||||  ||  || ||   U
+                  CACGAUUUC  U   GUCA     GUUU          AG  GAUCU  UA  UU CC  U
+                           GU -CA    ----C    ---AAACAAU  UC     CC  CU  A  AC
+
+5941 6079 [-34.3] ((((((....((.((((..(.((.((...((..(...((((.(.((((.(..(((.(((..(((....))).)))...)))....).))))...).))))...).....))..))..)).)..))))...)).))))))
+                  UGGAACAUACGAGGGCAAUUCACCAUUUCAUCCUCUAGCUGAUAACAAAUUUGCACUGACUUGCUUUAGCACUCAAUUUGCUUUUGCUUGUCCUGACGGCGUAAAACACGUCUAUCAGUUACGUGCCAGAUCAGUUUCA
+                        AUAC  --G    AU C  -C  UUC  ---CC CUA    A --A    A --UU   --C   CU   U
+                  UGGAAC    GA   GGCA  U AC  AU   AU     U   GCUG U   ACAA U    GCA   UGA  UGC U
+                  ||||||    ||   ||||  | ||  ||   ||     |   |||| |   |||| |    |||   |||  |||
+                  ACUUUG    CU   CCGU  A UG  UA   UG     A   CGGC G   UGUU G    CGU   ACU  ACG U
+                        ---A  AGA    GC U  AC  -UC  CACAA AUG    A UCC    C UUUU   UUA   -C   A
+
+5979 6096 [-28.3] (((((.((((...((.(((((....((...((((..((((.(.((((((....((....)).))))))........).))))..)))).)).)))))..))......))))..)))))
+                  CUGAUAACAAAUUUGCACUGACUUGCUUUAGCACUCAAUUUGCUUUUGCUUGUCCUGACGGCGUAAAACACGUCUAUCAGUUACGUGCCAGAUCAGUUUCACCUAAACUGUUCAUCAG
+                       -A    ---AUU  -C     CUUG  UUA    UC    U -------C      UUGU  U
+                  CUGAU  ACAA      UG  ACUGA    CU   GCAC  AAUU G        UUUUGC    CC G
+                  |||||  ||||      ||  |||||    ||   ||||  |||| |        ||||||    ||
+                  GACUA  UGUC      AC  UGACU    GA   CGUG  UUGA U        AAAAUG    GG A
+                       CU    AAAUCC  UU     ---A  --C    CA    C AUCUGCAC      ---C  C
+
+6017 6113 [-27.2] ((((.((((.((((((..(((((.((.((((..((((..((......))..))))..)))).)).....))))).....))))))..))))..))))
+                  UUUGCUUUUGCUUGUCCUGACGGCGUAAAACACGUCUAUCAGUUACGUGCCAGAUCAGUUUCACCUAAACUGUUCAUCAGACAAGAGGAAGUUCAAG
+                      -C    -G      ---CU     ----C  A    AC    AU  GU
+                  UUUG  UUUU  CUUGUC     GACGG     GU AAAC  GUCU  CA  U
+                  ||||  ||||  ||||||     |||||     || ||||  ||||  ||
+                  GAAC  GAAG  GAACAG     UUGUC     CA UUUG  UAGA  GU  A
+                      UU    GA      ACUAC     AAAUC  C    AC    CC  GC
+
+6093 6215 [-39.4] ((((...((.((((((((((.........(((....((((((((..(((...((((..(((((.....))))).))))..))).....)))))))).)))....)))))))))).))..))))
+                  UCAGACAAGAGGAAGUUCAAGAACUUUACUCUCCAAUUUUUCUUAUUGUUGCGGCAAUAGUGUUUAUAACACUUUGCUUCACACUCAAAAGAAAGACAGAAUGAUUGAACUUUCAUUAAUUGA
+                      ACA  A          GAACUUUAC   CCAA        ---AU   UGC    AU     U
+                  UCAG   AG GGAAGUUCAA         UCU    UUUUUCUU     UGU   GGCA  AGUGU U
+                  ||||   || ||||||||||         |||    ||||||||     |||   ||||  |||||  A
+                  AGUU   UU CUUUCAAGUU         AGA    AGAAAGAA     ACA   UCGU  UCACA U
+                      -AA  A          -----AGUA   ---C        AACUC   -CU    -U     A
+
+6103 6220 [-36.7] (((((((.(.(((.((((.(((....((((((((..(((...((((..(((((.....))))).))))..))).....)))))))).))).....))))..))).).....)))))))
+                  GGAAGUUCAAGAACUUUACUCUCCAAUUUUUCUUAUUGUUGCGGCAAUAGUGUUUAUAACACUUUGCUUCACACUCAAAAGAAAGACAGAAUGAUUGAACUUUCAUUAAUUGACUUCU
+                         ----C A   -C    ----C   CCAA        ---AU   UGC    AU     U
+                  GGAAGUU     A GAA  UUUA     UCU    UUUUUCUU     UGU   GGCA  AGUGU U
+                  |||||||     | |||  ||||     |||    ||||||||     |||   ||||  |||||  A
+                  UCUUCAG     U CUU  AAGU     AGA    AGAAAGAA     ACA   UCGU  UCACA U
+                         UUAAU A   UC    UAGUA   ---C        AACUC   -CU    -U     A
+
+6178 6253 [-16] (((..(((.(.(((((.(.(((((....(((.(((.(....).))).)))...))))).).))))).).))).)))
+                CAAAAGAAAGACAGAAUGAUUGAACUUUCAUUAAUUGACUUCUAUUUGUGCUUUUUAGCCUUUCUGCUAUUCCUUG
+                   AA   A A     U A     CUUU   U   U A
+                CAA  GAA G CAGAA G UUGAA    CAU AAU G C
+                |||  ||| | ||||| | |||||    ||| ||| |
+                GUU  CUU U GUCUU C GAUUU    GUG UUA C U
+                   -C   A C     U C     -UUC   U   U U
+
+6277 6358 [-20] (((((((.....(((..((((((.((((.......((((.........)))).)))).....)))))).)))...)))))))
+                UGGUUCUCACUUGAACUGCAAGAUCAUAAUGAAACUUGUCACGCCUAAACGAACAUGAAAUUUCUUGUUUUCUUAGGAAUCA
+                       CACUU   CU      ----U    AUGAAAC    CAC
+                UGGUUCU     GAA  GCAAGA     CAUA       UUGU   G
+                |||||||     |||  ||||||     ||||       ||||    C
+                ACUAAGG     CUU  UGUUCU     GUAC       AGCA   C
+                       --AUU   -U      UUAAA    ------A    AAU
+
+6351 6444 [-25.7] (((((.(.(((......(((((((((.(........((((.(..((((....))))..).)))).....).))))))))).)))...).)))))
+                  AGGAAUCAUCACAACUGUAGCUGCAUUUCACCAAGAAUGUAGUUUACAGUCAUGUACUCAACAUCAACCAUAUGUAGUUGAUGACCCGUGUCCU
+                       U --A   CAACUG         U CACCAAGA    A UU    G
+                  AGGAA C   UCA      UAGCUGCAU U        AUGU G  UACA U
+                  ||||| |   |||      ||||||||| |        |||| |  ||||
+                  UCCUG G   AGU      GUUGAUGUA A        UACA C  AUGU C
+                       U CCC   -----A         U ---CCAAC    A UC    A
+
+6372 6514 [-41.1] ((((.((((..(((..(((.((((..(((..(.(((((...((..(((((..((((.(((.(((....)))....)))...)))).....)))))..))..))))).).)))...))))..))).)))....))))...))))
+                  UGCAUUUCACCAAGAAUGUAGUUUACAGUCAUGUACUCAACAUCAACCAUAUGUAGUUGAUGACCCGUGUCCUAUUCACUUCUAUUCUAAAUGGUAUAUUAGAGUAGGAGCUAGAAAAUCAGCACCUUUAAUUGAAUUGUGCG
+                      --U    --CC   AA   -A    -AC   CA G     AAC  CA     ---AU    --U   ---U   C
+                  UGCA   UUCA    AAG  UGU  GUUU   AGU  U UACUC   AU  ACCAU     GUAG   UGA    GAC C
+                  ||||   ||||    |||  |||  ||||   |||  | |||||   ||  |||||     ||||   |||    |||
+                  GCGU   AAGU    UUC  ACG  UAAA   UCG  G AUGAG   UA  UGGUA     UAUC   ACU    CUG G
+                      GUU    UAAU   -C   AC    AGA   -A G     -AU  UA     AAUCU    UUC   UAUC   U
+
+6463 6602 [-34.7] (((((..((((.(((((((.((((.(...(((.....(.(((((..(((((.((((((....(((((...)))))..)))))))))))......))))).).......)))...).)))).)))))))..)))).)))))
+                  UGGUAUAUUAGAGUAGGAGCUAGAAAAUCAGCACCUUUAAUUGAAUUGUGCGUGGAUGAGGCUGGUUCUAAAUCACCCAUUCAGUACAUCGAUAUCGGUAAUUAUACAGUUUCCUGUUUACCUUUUACAAUUAAUUGCCA
+                       UA    -A       C    A AUC   --ACCUU A     ----AU     G      AGGC     
+                  UGGUA  UUAG  GUAGGAG UAGA A   AGC       U AUUGA      UGUGC UGGAUG    UGGUUC
+                  |||||  ||||  ||||||| |||| |   |||       | |||||      ||||| ||||||    ||||| C
+                  ACCGU  AAUU  CAUUUUC AUUU U   UUG       A UGGCU      ACAUG ACUUAC    ACUAAA
+                       -U    AA       C    G CCU   ACAUAUU A     AUAGCU     -      --CC     
+
+6615 6728 [-32.2] ((((.(((.(.(((....(((((((((..(((((.....((((((..(.(((((...))))).)..)))))).)))))...))))))))).))).)......))).....))))
+                  GGGUAGUCUUGUAGUGCGUUGUUCGUUCUAUGAAGACUUUUUAGAGUAUCAUGACGUUCGUGUUGUUUUAGAUUUCAUCUAAACGAACAAACUAAAAUGUCUGAUAAUGGACCC
+                      ----A   -----U G   UGCG         -CU     GACUU      GU U     
+                  GGGU     GUC      U UAG    UUGUUCGUU   AUGAA     UUUAGA  A CAUGAC
+                  ||||     |||      | |||    |||||||||   |||||     ||||||  | ||||| C
+                  CCCA     UAG      A AUC    AACAAGCAA   UACUU     AGAUUU  U GUGCUU
+                      GGUAA   UCUGUA A   ---A         AUC     ----U      UG U     
+
+6761 6873 [-48.5] (((((((((...(((........((((((.....(.(((.((((....((((((.((((.........))))))))))..))))..))).)..)))))).))).)))))))))
+                  UGGUGGACCCUCAGAUUCAACUGGCAGUAACCAGAAUGGAGAACGCAGUGGGGCGCGAUCAAAACAACGUCGGCCCCAAGGUUUACCCAAUAAUACUGCGUCUUGGUUCACCG
+                           CUC   UUCAACUG      ACCAG A   -A    GCAG      G    CAA
+                  UGGUGGACC   AGA        GCAGUA     A UGG  GAAC    UGGGGC CGAU   A
+                  |||||||||   |||        ||||||     | |||  ||||    |||||| ||||    A
+                  GCCACUUGG   UCU        CGUCAU     U ACC  UUUG    ACCCCG GCUG   C
+                           --U   -------G      ---AA A   CA    --GA      -    CAA
+
+6863 6959 [-28.6] ((((((......(((.(((.....(((...((((..((((....(((.....))).))))..))))........))).....)))..))).))))))
+                  UUGGUUCACCGCUCUCACUCAACAUGGCAAGGAAGACCUUAAAUUCCCUCGAGGACAAGGCGUUCCAAUUAACACCAAUAGCAGUCCAGAUGACCAA
+                        CACCGC   -C   CAACA   -----CAA    GA    AAAU   C
+                  UUGGUU      UCU  ACU     UGG        GGAA  CCUU    UCC U
+                  ||||||      |||  |||     |||        ||||  ||||    |||  C
+                  AACCAG      AGA  UGA     ACC        CCUU  GGAA    AGG G
+                        -----U   CC   CGAUA   ACAAUUAA    GC    ---C   A
+
+6945 7072 [-39.4] (((((((.(.......((((((..(.((..((((.(((((........(.(((...(((..(((........))).)))..))).).))))).))))........)).)...)))))).).)))))))
+                  AGUCCAGAUGACCAAAUUGGCUACUACCGAAGAGCUACCAGACGAAUUCGUGGUGGUGACGGUAAAAUGAAAGAUCUCAGUCCAAGAUGGUAUUUCUACUACCUAGGAACUGGGCCAGAAGCUGGACU
+                         A GACCAAA      -AC A  ------GA    C     GACGAAUU G   UGG   CG   AAA
+                  AGUCCAG U       UUGGCU   U CC        AGAG UACCA        C UGG   UGA  GUA   U
+                  ||||||| |       ||||||   | ||        |||| |||||        | |||   |||  |||
+                  UCAGGUC A       GACCGG   A GG        UCUU AUGGU        G ACC   ACU  UAG   G
+                         G ------A      GUC A  AUCCAUCA    U     -------A A   -UG   -C   AAA
+
+6956 7096 [-37.1] ((...(((((.(((((.(((.((((.((((.....(((..(((((((..((((.........((((.......))))..))))..)))))))..))).))))......))))....)))...)))))))))).......))
+                  CCAAAUUGGCUACUACCGAAGAGCUACCAGACGAAUUCGUGGUGGUGACGGUAAAAUGAAAGAUCUCAGUCCAAGAUGGUAUUUCUACUACCUAGGAACUGGGCCAGAAGCUGGACUUCCCUAUGGUGCUAACAAAGACGG
+                    ----AAA     U     --C   ---G    -----A    ACGAA   GU       AC    AAAUGAAAG    CA
+                  CC       UUGGC ACUAC   GAA    AGCU      CCAG     UUC  GGUGGUG  GGUA         AUCU  G
+                  ||       ||||| |||||   |||    ||||      ||||     |||  |||||||  ||||         ||||   U
+                  GG       AAUCG UGGUA   CUU    UCGA      GGUC     AGG  CCAUCAU  UUAU         UAGA  C
+                    CAGAAAC     -     UCC   CAGG    AGACCG    ----A   AU       CU    -------GG    AC
+
+7056 7125 [-20.7] ((((....((.(.(((((...(((((((((..(...)..))))))))).)))))..).))......))))
+                  GGGCCAGAAGCUGGACUUCCCUAUGGUGCUAACAAAGACGGCAUCAUAUGGGUUGCAACUGAGGGAGCCU
+                      --CAGA  C -G     CCC         AA 
+                  GGGC      AG U  GACUU   UAUGGUGCU  CA
+                  ||||      || |  |||||   |||||||||  | A
+                  UCCG      UC A  UUGGG   AUACUACGG  GA
+                      AGGGAG  A CG     --U         CA 
+
+7058 7151 [-27.8] (((((....(((.(((.....(((((....((.....(((.(((..((.....))..)))....))).))....))))).))).)))..)))))
+                  GCCAGAAGCUGGACUUCCCUAUGGUGCUAACAAAGACGGCAUCAUAUGGGUUGCAACUGAGGGAGCCUUGAAUACACCAAAAGAUCACAUUGGC
+                       AAGC   A   CCCUA     CUAA  AAGAC   ---A   UA  G
+                  GCCAG    UGG CUU     UGGUG    CA     GGC    UCA  UG G
+                  |||||    ||| |||     |||||    ||     |||    |||  ||  U
+                  CGGUU    ACU GAA     ACCAC    GU     CCG    AGU  AC U
+                       --AC   A   ----A     AUAA  ----U   AGGG   CA  G
+
+7105 7162 [-19] (((((((.......((.(((.(((.(.........).)))....))).)).)))))))
+                GGGUUGCAACUGAGGGAGCCUUGAAUACACCAAAAGAUCACAUUGGCACCCGCAAUCC
+                       AACUGAG  A   ---U   A ACA
+                GGGUUGC       GG GCC    UGA U   C
+                |||||||       || |||    ||| |    C
+                CCUAACG       CC CGG    ACU G   A
+                       ------C  A   UUAC   A AAA
+
+7201 7291 [-30.8] ((((....((((..........(((((..((.(((((.((((((.........)))))).....)))))..)).)))))..))))..))))
+                  GAACAACAUUGCCAAAAGGCUUCUACGCAGAAGGGAGCAGAGGCGGCAGUCAAGCCUCUUCUCGUUCCUCAUCACGUAGUCGCAACAGUUC
+                      AACA    CAAAAGGCUU     CA  -A     ----C      GGC
+                  GAAC    UUGC          CUACG  GA  GGGAG     AGAGGC   A
+                  ||||    ||||          |||||  ||  |||||     ||||||    G
+                  CUUG    AACG          GAUGC  CU  UCCUU     UCUCCG   U
+                      --AC    --------CU     -A  AC     GCUCU      AAC
+
+7241 7382 [-48.1] ((((((((((.((((........((....((((((.((((((....(((...((((......((((..((....)).))))...))))...)))....)))))).........))))))..))....)))).))))))))))
+                  AGGCGGCAGUCAAGCCUCUUCUCGUUCCUCAUCACGUAGUCGCAACAGUUCAAGAAAUUCAACUCCAGGCAGCAGUAGGGGAACUUCUCCUGCUAGAAUGGCUGGCAAUGGCGGUGAUGCUGCUCUUGCUUUGCUGCUGCUU
+                            C    CUCUUCUC  UCCU      --------G      CAAC   UCA    AUUCAA    AG  A
+                  AGGCGGCAGU AAGC        GU    CAUCAC         UAGUCG    AGU   AGAA      CUCC  GC G
+                  |||||||||| ||||        ||    ||||||         ||||||    |||   ||||      ||||  ||
+                  UUCGUCGUCG UUCG        CG    GUAGUG         GUCGGU    UCG   UCUU      GGGG  UG C
+                            U    ----UUCU  --UC      GCGGUAACG      AAGA   UCC    ---CAA    -A  A
+
+7282 7418 [-45.4] ((.(((.((((((...(((((.(.(((((((((((((((.....((..((((((...((.....)).)))))).))...........)))))))))))))))...).)))))....)))))).......)))...))
+                  GCAACAGUUCAAGAAAUUCAACUCCAGGCAGCAGUAGGGGAACUUCUCCUGCUAGAAUGGCUGGCAAUGGCGGUGAUGCUGCUCUUGCUUUGCUGCUGCUUGACAGAUUGAACCAGCUUGAGAGCAAAAUGUCUGGU
+                    --A   ------G      -AAA     C --C               ------GAACU  UC      GAA  G
+                  GC   ACA       UUCAAG    UUCAA U   CAGGCAGCAGUAGGG           UC  CUGCUA   UG C
+                  ||   |||       ||||||    ||||| |   |||||||||||||||           ||  ||||||   ||  U
+                  UG   UGU       GAGUUC    AAGUU G   GUUCGUCGUCGUUUC           AG  GGCGGU   AC G
+                    GUC   AAAACGA      GACC     A ACA               GUUCUCGUCGU  -U      --A  G
+
+7370 7491 [-39.9] (((((((..((((...((........(((((.(.((((...(.(.((((.(.((((...........))))......).)))).).)...))))..).))))).))...))))..)))))))
+                  UUUGCUGCUGCUUGACAGAUUGAACCAGCUUGAGAGCAAAAUGUCUGGUAAAGGCCAACAACAACAAGGCCAAACUGUCACUAAGAAAUCUGCUGCUGAGGCUUCUAAGAAGCCUCGGCAAA
+                         CU    GAC  AUUGAACC     G -G    AAA G C    A -----A    AACA
+                  UUUGCUG  GCUU   AG        AGCUU A  AGCA   U U UGGU A      GGCC    A
+                  |||||||  ||||   ||        ||||| |  ||||   | | |||| |      ||||     C
+                  AAACGGC  CGAA   UC        UCGGA U  UCGU   A G AUCA U      CCGG    A
+                         UC    GAA  -------U     G CG    CUA A A    C GUCAAA    AACA
+
+7410 7541 [-45.3] (((((((.(.(((((.....(((...(.((...(.((.((.((.(.....(..((((((((((((...))))))))))))..).).)).)).)).)...)).)....))).......))))).).)))))))
+                  AUGUCUGGUAAAGGCCAACAACAACAAGGCCAAACUGUCACUAAGAAAUCUGCUGCUGAGGCUUCUAAGAAGCCUCGGCAAAAACGUACUGCCACUAAAGCAUACAAUGUAACACAAGCUUUCGGCAGACGU
+                         G A     --CAACA   -ACA G  CAA C  U  C  A AAAUC GC            
+                  AUGUCUG U AAGGC       ACA    A GC   A UG CA UA G     U  UGCUGAGGCUUCU
+                  ||||||| | |||||       |||    | ||   | || || || |     |  |||||||||||| U
+                  UGCAGAC G UUUCG       UGU    U CG   U AC GU AU C     A  ACGGCUCCGAAGA
+                         G C     AACACAA   AACA A  AAA C  C  C  G ----A AA            
+
+7537 7663 [-30.2] (((((..(..(((((.........(((.(.((((((..((((...((((..(....((.(.((.(....).)).)..)).)..)))).....)))).)))))).).)))...)))))..)..)))))
+                  GACGUGGUCCAGAACAAACCCAAGGAAAUUUUGGGGACCAGGAACUAAUCAGACAAGGAACUGAUUACAAACAUUGGCCGCAAAUUGCACAAUUUGCCCCCAGCGCUUCAGCGUUCUUCGGAAUGUC
+                       GG CC     AAACCCAAG   A U      AC    --AAC    CA ACAA  -A C  A U
+                  GACGU  U  AGAAC         GAA U UUGGGG  CAGG     UAAU  G    GG  A UG U A
+                  |||||  |  |||||         ||| | ||||||  ||||     ||||  |    ||  | || |
+                  CUGUA  G  UCUUG         CUU G GACCCC  GUUU     GUUA  C    CC  U AC A C
+                       AG CU     ------CGA   C C      -C    AACAC    AA ---G  GG U  A A
+
+7565 7694 [-32.4] ((((((((.(((....(((((..((((.((((((......((.(.((((..(((((((....)))))))..)))).).))...))))))......))))....)))))..))).........))))))))
+                  UUUUGGGGACCAGGAACUAAUCAGACAAGGAACUGAUUACAAACAUUGGCCGCAAAUUGCACAAUUUGCCCCCAGCGCUUCAGCGUUCUUCGGAAUGUCGCGCAUUGGCAUGGAAGUCACACCUUCGGGA
+                          --------A   GGAA     --CA    -----A      GAUUAC  A A    CC       G
+                  UUUUGGGG         CCA    CUAAU    GACA      GGAACU      AA C UUGG  GCAAAUU C
+                  ||||||||         |||    |||||    ||||      ||||||      || | ||||  |||||||
+                  AGGGCUUC         GGU    GGUUA    CUGU      UCUUGC      UU G GACC  CGUUUAA A
+                          CACACUGAA   --AC     CGCG    AAGGCU      ---GAC  C C    CC       C
+
+7581 7728 [-37.4] (((((..((...((.(((...((......(..(((((...(((.((..(.((((....((((....((((((....)))))).))))...))))..)..))........)))....)))))..)..))....))).)).))..)))))
+                  CUAAUCAGACAAGGAACUGAUUACAAACAUUGGCCGCAAAUUGCACAAUUUGCCCCCAGCGCUUCAGCGUUCUUCGGAAUGUCGCGCAUUGGCAUGGAAGUCACACCUUCGGGAACGUGGUUGACCUACACAGGUGCCAUCAAAUUGG
+                       CA  CAA  A   -GAU  CAAACA UG     -AAA   -------C  AA -U    CCCA    UUCA      U
+                  CUAAU  GA   GG ACU    UA      U  GCCGC    UUG        AC  U  UGCC    GCGC    GCGUUC U
+                  |||||  ||   || |||    ||      |  |||||    |||        ||  |  ||||    ||||    ||||||
+                  GGUUA  CU   CC UGG    AU      A  UGGUG    GGC        UG  G  ACGG    CGCG    UGUAAG C
+                       AA  --A  G   ACAC  ----CC GU     CAAG   UUCCACAC  AA GU    -UUA    ---C      G
+
+7660 7734 [-22.8] (((((..((.((((((..(.((((.(((..((....)).))))))).)......))))))......))..)))))
+                  UGUCGCGCAUUGGCAUGGAAGUCACACCUUCGGGAACGUGGUUGACCUACACAGGUGCCAUCAAAUUGGAUGACA
+                       CG  -----U      ----GG A    C   UU  G
+                  UGUCG  CA      UGGCAU      A GUCA ACC  CG G
+                  |||||  ||      ||||||      | |||| |||  ||
+                  ACAGU  GU      ACCGUG      U CAGU UGG  GC A
+                       AG  UAAACU      GACACA C    -   -U  A
+
+7838 7923 [-24.5] ((..((((.(((((.....(.((((.((.((((((.((((....))))...)))))).))..)))).).)))))....))))..))
+                  UGAUGAAACUCAAGCCUUACCGCAGAGACAGAAGAAACAGCAAACUGUGACUCUUCUUCCUGCUGCAGAUUUGGAUGAUUUCUCCA
+                    AU    ---C     CCUUA C    -A  C      --A    C
+                  UG  GAAA    UCAAG     C GCAG  GA AGAAGA   ACAG A
+                  ||  ||||    |||||     | ||||  || ||||||   ||||
+                  AC  CUUU    GGUUU     G CGUC  CC UCUUCU   UGUC A
+                    CU    AGUA     ----A A    GU  U      CAG    A
+
+7892 7954 [-14.6] ((.(.(((((.......(((((..((....(((....))).))..)))))..))))).)..))
+                  UCUUCCUGCUGCAGAUUUGGAUGAUUUCUCCAAACAAUUGCAACAAUCCAUGAGCAGUGCUGA
+                    -U C     GCAGAUU     GA  UCUC   A
+                  UC  U CUGCU       UGGAU  UU    CAA C
+                  ||  | |||||       |||||  ||    |||
+                  AG  G GACGA       ACCUA  AA    GUU A
+                    UC U     -----GU     AC  ---C   A
+
+7929 8053 [-25.4] (((((.......(.(((..(.((((..((.(((.((((..((((......((.(((...........))).))........))))..))))...)))....))....)))).).))).).)))))
+                  UUGCAACAAUCCAUGAGCAGUGCUGACUCAACUCAGGCCUAAACUCAUGCAGACCACACAAGGCAGAUGGGCUAUAUAAACGUUUUCGCUUUUCCGUUUACGAUAUAUAGUCUACUCUUGUGCAG
+                       ACAAUCC U   CA U    --AC  ---A   --C    CU    --UCAUGC  A   CACA
+                  UUGCA       A GAG  G GCUG    UC    ACU   AGGC  AAAC        AG CCA    A
+                  |||||       | |||  | ||||    ||    |||   ||||  ||||        || |||     G
+                  GACGU       U CUC  U UGAU    AG    UGC   UUCG  UUUG        UC GGU    G
+                       ------G U   -A C    AUAU  CAUU   CUU    CU    CAAAUAUA  G   AGAC
+
+8033 8092 [-15.8] ((...(((((((..(((..((.((((....))))..)).....)))..)))))))...))
+                  AUAUAGUCUACUCUUGUGCAGAAUGAAUUCUCGUAACUACAUAGCACAAGUAGAUGUAGU
+                    AUA       CU   ---GC  -A    A
+                  AU   GUCUACU  UGU     AG  AUGA U
+                  ||   |||||||  |||     ||  ||||
+                  UG   UAGAUGA  ACG     UC  UGCU U
+                    AUG       AC   AUACA  AA    C
+
+8084 8165 [-17.3] ((((((.((...((((..((((..((.(((..((......))..)))...))..)))).........))))..)).))))))
+                  AGAUGUAGUUAACUUUAAUCUCACAUAGCAAUCUUUAAUCAGUGUGUAACAUUAGGGAGGACUUGAAAGAGCCACCACAUUU
+                        A  UAA    -------AA    AC  --A   AU  UU
+                  AGAUGU GU   CUUU         UCUC  AU   GCA  CU  A
+                  |||||| ||   ||||         ||||  ||   |||  ||
+                  UUUACA CA   GAGA         AGGG  UA   UGU  GA  A
+                        C  -CC    AAGUUCAGG    AU  CAA   GU  CU
+
+8088 8224 [-30.4] ((((((..(((((.(.((((...(((.((.....((.(((((.....((.(((((....((..........))..)))))...))...))))).))........)).)))...)))).....).)))))..))))))
+                  GUAGUUAACUUUAAUCUCACAUAGCAAUCUUUAAUCAGUGUGUAACAUUAGGGAGGACUUGAAAGAGCCACCACAUUUUCACCGAGGCCACGCGGAGUACGAUCGAGUGUACAGUGAACAAUGCUAGGGAGAGCUGC
+                        AA     A ----C    AUA   A  ---UUUAA  A     UAACA  --A     GACU  AAAG
+                  GUAGUU  CUUUA U     UCAC   GCA UC        UC GUGUG     UU   GGGAG    UG    A
+                  ||||||  ||||| |     ||||   ||| ||        || |||||     ||   |||||    ||
+                  CGUCGA  GGGAU G     AGUG   UGU AG        AG CGCAC     AG   CUUUU    AC    G
+                        GA     C UAACA    ACA   G  CUAGCAUG  G     --CGG  CCA     --AC  CACC
+
+8136 8227 [-22.9] ((((.((..(((.....(((.......(.(((((.(.....((((.((......))..)))).).))))).)..)))...)))..)).))))
+                  UAGGGAGGACUUGAAAGAGCCACCACAUUUUCACCGAGGCCACGCGGAGUACGAUCGAGUGUACAGUGAACAAUGCUAGGGAGAGCUGCCUA
+                      G  GA   GAAAG   CACCACA U     C AGGCC    -G  GU
+                  UAGG AG  CUU     AGC       U UUCAC G     ACGC  GA  A
+                  |||| ||  |||     |||       | ||||| |     ||||  ||
+                  AUCC UC  GAG     UCG       A AAGUG C     UGUG  CU  C
+                      G  GA   --GGA   -----UA C     A ----A    AG  AG
+
+8163 8235 [-19.2] ((((((...((((...((..((((.(.(((.........))).)..)))).......)).))))...))))))
+                  UUUUCACCGAGGCCACGCGGAGUACGAUCGAGUGUACAGUGAACAAUGCUAGGGAGAGCUGCCUAUAUGGAAG
+                        CCG    CAC  -----GG    -C A   AGU
+                  UUUUCA   AGGC   GC       AGUA  G UCG   G
+                  ||||||   ||||   ||       ||||  | |||    U
+                  GAAGGU   UCCG   CG       UCGU  C AGU   A
+                        AUA    --U  AGAGGGA    AA A   GAC
+
+8211 8298 [-21.4] ((((((((....(..(((((((.(.(((.(((.((.((.(...).))..)).))).))).)..)))))))..).......))))))))
+                  CUAGGGAGAGCUGCCUAUAUGGAAGAGCCCUAAUGUGUAAAAUUAAUUUUAGUAGUGCUAUCCCCAUGUGAUUUUAAUAGCUUCUUAG
+                          ---AGCU CC       -A G   C   A  -U  A 
+                  CUAGGGAG       G  UAUAUGG  A AGC CUA UG  GU AA
+                  ||||||||       |  |||||||  | ||| ||| ||  || | A
+                  GAUUCUUC       U  GUGUACC  U UCG GAU AU  UA UU
+                          GAUAAUU UA       CC A   U   G  UU  A 
+

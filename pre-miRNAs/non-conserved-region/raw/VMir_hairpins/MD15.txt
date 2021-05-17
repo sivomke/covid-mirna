@@ -1,0 +1,22 @@
+Name: 			MD15
+Orientation: 		Direct
+Location: 		3655 - 3714
+Size: 			60
+Score: 			126.9
+Rank: 			12
+Wind.Cnt (Abs.): 	44
+Wind.Cnt (Rel.): 	44
+
+
+            GGTTTTATAGCTGGCTTGATTGCCATAGTAATGGTGACAATTATGCTTTGCTGTATGACC
+MD15* (44)  ((((.((((((.(((.((((((((((....))))...)))))).)))..)))))).)))) 60 nt.
+
+
+1        10         20          
+:        :          :           
+    U      U-   U      ---    A
+GGUU UAUAGC  GGC UGAUUG   CCAU  G..28
+CCAG AUGUCG  UCG AUUAAC   GGUA  U
+    U      UU   U      AGU    A
+:         :         :         : 
+60        50        40        30

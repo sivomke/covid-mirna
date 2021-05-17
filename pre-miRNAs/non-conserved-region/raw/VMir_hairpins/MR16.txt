@@ -1,0 +1,26 @@
+Name: 			MR16
+Orientation: 		Reverse
+Location: 		4497 - 4576
+Size: 			80
+Score: 			174.1
+Rank: 			5
+Wind.Cnt (Abs.): 	1
+Wind.Cnt (Rel.): 	44
+
+
+              ATTGTGTGAATTTGGACATGTTCTTCAGGCTCATCAACAATTTTATTGTAGATGAAGAAGGTAACATGTTCAACACCAGT
+MR16*   (1)   ((((.(((...(((((((((((((((....(((((.(((((...))))).))))).)))))..))))))))))))))))) 80 nt.
+MR16_S1 (4)   --((.(((...(((((((((((((((....(((((.(((((...))))).))))).)))))..)))))))))))))))-- 76 nt.
+MR16_S2 (37)  -----------(((((((((((((((....(((((.(((((...))))).))))).)))))..))))))))))------- 62 nt.
+MR16_S3 (1)   ------------((((((((((((((....(((((.(((((...))))).))))).)))))..)))))))))-------- 60 nt.
+MR16_S4 (1)   -------------(((((((((((((....(((((.(((((...))))).))))).)))))..))))))))--------- 58 nt.
+
+
+1        10        20          30        40  
+:        :         :           :         :   
+    U   AAU          --     AGGC     A     U
+AUUG GUG   UUGGACAUGU  UCUUC    UCAUC ACAAU  U..43
+UGAC CAC   AACUUGUACA  GGAAG    AGUAG UGUUA  -
+    -   ---          AU     A---     A     U
+:             :         :            :       
+80            70        60           50      

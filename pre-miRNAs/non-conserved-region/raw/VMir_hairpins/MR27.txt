@@ -1,0 +1,26 @@
+Name: 			MR27
+Orientation: 		Reverse
+Location: 		7970 - 8063
+Size: 			94
+Score: 			184.6
+Rank: 			4
+Wind.Cnt (Abs.): 	28
+Wind.Cnt (Rel.): 	41
+
+
+              GAATTCATTCTGCACAAGAGTAGACTATATATCGTAAACGGAAAAGCGAAAACGTTTATATAGCCCATCTGCCTTGTGTGGTCTGCATGAGTTT
+MR27*   (28)  ((((((((.(((((((((.((((((((((((.(((...((......))...)))..)))))))....)))))))))))))).....)))))))) 94 nt.
+MR27_S1 (1)   ----((((.(((((((((.((((((((((((.(((...((......))...)))..)))))))....)))))))))))))).....))))---- 86 nt.
+MR27_S2 (8)   -----((..(((((((((.((((((((((((.(((...((......))...)))..)))))))....))))))))))))))..))--------- 80 nt.
+MR27_S3 (2)   ---------(((((((((.((((((((((((.(((...((......))...)))..)))))))....))))))))))))))------------- 72 nt.
+MR27_S4 (2)   -----------(((((((.((((((((((((.(((...((......))...)))..)))))))....))))))))))))--------------- 68 nt.
+
+
+1            10        20            30         40  
+:            :         :             :          :   
+        U----         A     ----       U-   AAA  GA
+GAAUUCAU     CUGCACAAG GUAGA    CUAUAUA  CGU   CG   A..44
+UUUGAGUA     GGUGUGUUC CGUCU    GAUAUAU  GCA   GC   A
+        CGUCU         -     ACCC       UU   AAA  GA
+    :         :          :         :         :      
+    90        80         70        60        50     

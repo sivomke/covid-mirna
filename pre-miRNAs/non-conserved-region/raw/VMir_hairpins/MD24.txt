@@ -1,0 +1,22 @@
+Name: 			MD24
+Orientation: 		Direct
+Location: 		6254 - 6312
+Size: 			59
+Score: 			120.6
+Rank: 			13
+Wind.Cnt (Abs.): 	37
+Wind.Cnt (Rel.): 	37
+
+
+            GTTTTAATTATGCTTATTATCTTTTGGTTCTCACTTGAACTGCAAGATCATAATGAAAC
+MD24* (37)  ((((((.(((((......(((((.((((((......)))))).)))))))))))))))) 59 nt.
+
+
+1        10        20        30  
+:        :         :         :   
+      A     CUUAUU     U      UC
+GUUUUA UUAUG      AUCUU UGGUUC   A..34
+CAAAGU AAUAC      UAGAA GUCAAG   C
+      -     ------     C      UU
+          :               :      
+          50              40     

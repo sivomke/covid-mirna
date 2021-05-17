@@ -1,0 +1,47 @@
+Export of VMir File Data
+------------------------
+VMir File              :	starting_from_S_gene.mir
+VMir Analyzer Version  :	2.3
+
+Source File:
+------------------------------------
+File Name              :	starting_from_S_gene.fasta
+Sequence Size          :	8341
+Sequence Orientation(s):	Both
+Sequence Conformation  :	Direct
+
+VMir Analysis Prediction Parameters:
+------------------------------------
+Max. Size Calc.Score   :	100
+Max. Size Assign SHPs  :	50
+Max. Size Assign RHPs  :	50
+Filters: Min. HP Size  :	50
+         Max. HP Size  :	Any
+         Min. HP Score :	115
+Total # of Hairpins    :	121
+
+VMir Viewer Parameters
+----------------------
+Filters: Min. HP Size  :	Any
+         Max. HP Size  :	Any
+         Min. HP Score :	Any
+         Min. Wind.Cnt.:	35
+         HP Classes    :	Main-, Rep-Hairpins
+# of Filtered Hairpins :	14
+
+Hairpins:
+Rank	Name	Orientation	Start	Apex	Size	Score	Sub HPs	Rep HPs	Wind.Cnt.Abs.	Wind.Cnt.Rel.	
+11	MD7	Direct	1406	1435	58	139.7	0	0	37	37	
+10	MD13	Direct	3237	3271	62	140.1	1	0	2	43	
+12	MD15	Direct	3655	3682	60	126.9	0	0	44	44	
+14	MD16	Direct	4036	4080	89	115.6	0	0	37	37	
+9	MD17	Direct	4504	4534	62	143.7	3	0	38	44	
+3	MD20	Direct	5353	5396	85	188.2	4	0	4	42	
+7	MD21	Direct	5433	5496	119	169.1	3	0	2	42	
+1	MD23	Direct	6104	6159	104	205.6	4	0	12	44	
+13	MD24	Direct	6254	6286	59	120.6	0	0	37	37	
+8	MR4	Reverse	1052	1082	66	143.9	1	0	38	39	
+2	MR6	Reverse	2001	2074	148	188.8	2	0	28	38	
+5	MR16	Reverse	4497	4534	80	174.1	4	0	1	44	
+6	MR21	Reverse	5605	5644	80	172.3	2	0	2	42	
+4	MR27	Reverse	7970	8020	94	184.6	4	0	28	41	

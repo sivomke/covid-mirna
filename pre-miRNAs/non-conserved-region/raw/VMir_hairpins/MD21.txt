@@ -1,0 +1,25 @@
+Name: 			MD21
+Orientation: 		Direct
+Location: 		5433 - 5551
+Size: 			119
+Score: 			169.1
+Rank: 			7
+Wind.Cnt (Abs.): 	2
+Wind.Cnt (Rel.): 	42
+
+
+              GCTGTGACATCAAGGACCTGCCTAAAGAAATCACTGTTGCTACATCACGAACGCTTTCTTATTACAAATTGGGAGCTTCGCAGCGTGTAGCAGGTGACTCAGGTTTTGCTGCATACAGT
+MD21*   (2)   ((((((......((((((((.....((...(((((..((((((((..((((.((((((............))))))))))....)))))))))))))))))))))))......)))))) 119 nt.
+MD21_S1 (32)  ------------((((((((.....((...(((((..((((((((..((((.((((((............))))))))))....)))))))))))))))))))))))------------ 95 nt.
+MD21_S2 (4)   --------------((((((.....((...(((((..((((((((..((((.((((((............))))))))))....)))))))))))))))))))))-------------- 91 nt.
+MD21_S3 (4)   ------------------------------(((((..((((((((..((((.((((((............))))))))))....)))))))))))))---------------------- 67 nt.
+
+
+1        10        20        30        40          50        60   
+:        :         :         :         :           :         :    
+      ACAUCA        CCUAA  AAA     GU        CA--    C      UUAUU
+GCUGUG      AGGACCUG     AG   UCACU  UGCUACAU    CGAA GCUUUC      A..64
+UGACAU      UUUUGGAC     UC   AGUGG  ACGAUGUG    GCUU CGAGGG      C
+      ACGUCG        -----  ---     --        CGAC    -      UUAAA
+         :         :                   :         :          :     
+         110       100                 90        80         70    

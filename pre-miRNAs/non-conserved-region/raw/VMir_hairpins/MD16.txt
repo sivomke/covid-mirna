@@ -1,0 +1,22 @@
+Name: 			MD16
+Orientation: 		Direct
+Location: 		4036 - 4124
+Size: 			89
+Score: 			115.6
+Rank: 			14
+Wind.Cnt (Abs.): 	37
+Wind.Cnt (Rel.): 	37
+
+
+            GGCAACTAGCACTCTCCAAGGGTGTTCACTTTGTTTGCAACTTGCTGTTGTTGTTTGTAACAGTTTACTCACACCTTTTGCTCGTTGCT
+MD16* (37)  ((((((.((((......((((((((.....(((((.(((((........)))))....))))).......)))))))))))).)))))) 89 nt.
+
+
+1        10        20        30             40    
+:        :         :         :              :     
+      U    CUCUCC        UCACU--     U---     UUG
+GGCAAC AGCA      AAGGGUGU       UUGUU    GCAAC    C..46
+UCGUUG UCGU      UUUCCACA       GACAA    UGUUG    U
+      C    ------        CUCAUUU     UGUU     UUG
+         :               :         :         :    
+         80              70        60        50   

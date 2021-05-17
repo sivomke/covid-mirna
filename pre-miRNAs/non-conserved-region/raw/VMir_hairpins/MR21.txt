@@ -1,0 +1,24 @@
+Name: 			MR21
+Orientation: 		Reverse
+Location: 		5605 - 5684
+Size: 			80
+Score: 			172.3
+Rank: 			6
+Wind.Cnt (Abs.): 	2
+Wind.Cnt (Rel.): 	42
+
+
+              TAATATCTCTGCTATAGTAACCTGAAAGTCAACGAGATGAAACATCTGTTGTCACTTACTGTACAAGCAAAGCAATATTG
+MR21*   (2)   ((((((((.(((((((((((..(((....((((.(((((...)))))))))))).)))))))...)))).))..)))))) 80 nt.
+MR21_S1 (6)   ------((.(((((((((((..(((....((((.(((((...)))))))))))).)))))))...)))).))-------- 66 nt.
+MR21_S2 (34)  ---------(((((((((((..(((....((((.(((((...)))))))))))).)))))))...))))----------- 60 nt.
+
+
+1          10           20        30        40
+:          :            :         :         : 
+      --  C    ---       CC   AAGU    G     A
+UAAUAU  CU UGCU   AUAGUAA  UGA    CAAC AGAUG  A..41
+GUUAUA  GA ACGA   UGUCAUU  ACU    GUUG UCUAC  -
+      AC  A    ACA       C-   ----    -     A
+:         :         :              :          
+80        70        60             50         

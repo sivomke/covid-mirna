@@ -1,0 +1,22 @@
+Name: 			MD7
+Orientation: 		Direct
+Location: 		1406 - 1463
+Size: 			58
+Score: 			139.7
+Rank: 			11
+Wind.Cnt (Abs.): 	37
+Wind.Cnt (Rel.): 	37
+
+
+           CAACTGAAATCTATCAGGCCGGTAGCACACCTTGTAATGGTGTTGAAGGTTTTAATTG
+MD7* (37)  (((.((((((((.((((((((...(((.....)))..)))).)))))))))))).))) 58 nt.
+
+
+1        10         20         
+:        :          :          
+   C        A    -    GUA   CA
+CAA UGAAAUCU UCAG GCCG   GCA   C..30
+GUU AUUUUGGA AGUU UGGU   UGU   -
+   A        -    G    AA-   UC
+        :          :           
+        50         40          

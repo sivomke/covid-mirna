@@ -1,0 +1,23 @@
+Name: 			MD13
+Orientation: 		Direct
+Location: 		3237 - 3298
+Size: 			62
+Score: 			140.1
+Rank: 			10
+Wind.Cnt (Abs.): 	2
+Wind.Cnt (Rel.): 	43
+
+
+              TGCCATTTGTCATGATGGAAAAGCACACTTTCCTCGTGAAGGTGTCTTTGTTTCAAATGGCA
+MD13*   (2)   (((((((((....(((...((((.((((((((.....))))))))))))))).))))))))) 62 nt.
+MD13_S1 (41)  -((((((((....(((...((((.((((((((.....))))))))))))))).))))))))- 60 nt.
+
+
+1        10        20        30    
+:        :         :         :     
+         UCAU   GGA    C        CU
+UGCCAUUUG    GAU   AAAG ACACUUUC   C..35
+ACGGUAAAC    UUG   UUUC UGUGGAAG   -
+         U---   ---    -        UG
+  :            :             :     
+  60           50            40    

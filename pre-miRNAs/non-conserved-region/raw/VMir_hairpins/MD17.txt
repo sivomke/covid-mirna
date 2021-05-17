@@ -1,0 +1,25 @@
+Name: 			MD17
+Orientation: 		Direct
+Location: 		4504 - 4565
+Size: 			62
+Score: 			143.7
+Rank: 			9
+Wind.Cnt (Abs.): 	38
+Wind.Cnt (Rel.): 	44
+
+
+              TTGAACATGTTACCTTCTTCATCTACAATAAAATTGTTGATGAGCCTGAAGAACATGTCCAA
+MD17*   (38)  (((.(((((((..((((((((((.(((((...))))).))))))...))))))))))).))) 62 nt.
+MD17_S1 (1)   -((.(((((((..((((((((((.(((((...))))).))))))...))))))))))).))- 60 nt.
+MD17_S2 (4)   ----(((((((..((((((((((.(((((...))))).))))))...)))))))))))---- 54 nt.
+MD17_S3 (1)   -----((((((..((((((((((.(((((...))))).))))))...))))))))))----- 52 nt.
+
+
+1        10           20        30
+:        :            :         : 
+   A       AC    ---      U     A
+UUG ACAUGUU  CUUC   UUCAUC ACAAU  A..31
+AAC UGUACAA  GAAG   GAGUAG UGUUA  -
+   C       --    UCC      U     A
+  :           :         :         
+  60          50        40        

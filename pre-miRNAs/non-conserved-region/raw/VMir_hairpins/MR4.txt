@@ -1,0 +1,23 @@
+Name: 			MR4
+Orientation: 		Reverse
+Location: 		1052 - 1117
+Size: 			66
+Score: 			143.9
+Rank: 			8
+Wind.Cnt (Abs.): 	38
+Wind.Cnt (Rel.): 	39
+
+
+             ATGCGGAATTATATAGGACAGAATAATCAGCAACACAGTTGCTGATTCTCTTCCTGTTCCAAGCAT
+MR4*   (38)  (((((((.....((((((.(((..((((((((((...)))))))))).))))))))))))..)))) 66 nt.
+MR4_S1 (1)   ----(((.....((((((.(((..((((((((((...)))))))))).))))))))))))------ 56 nt.
+
+
+1          10        20        30     
+:          :         :         :      
+    --   AUUAU      C   AU          A
+AUGC  GGA     AUAGGA AGA  AAUCAGCAAC  C..36
+UACG  CCU     UGUCCU UCU  UUAGUCGUUG  -
+    AA   -----      -   C-          A
+      :               :          :    
+      60              50         40   

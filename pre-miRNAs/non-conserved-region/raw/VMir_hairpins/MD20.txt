@@ -1,0 +1,26 @@
+Name: 			MD20
+Orientation: 		Direct
+Location: 		5353 - 5437
+Size: 			85
+Score: 			188.2
+Rank: 			3
+Wind.Cnt (Abs.): 	4
+Wind.Cnt (Rel.): 	42
+
+
+              ACCGCTTCTAGAAAGTGAACTCGTAATCGGAGCTGTGATCCTTCGTGGACATCTTCGTATTGCTGGACACCATCTAGGACGCTGT
+MD20*   (4)   ((.(((((((((..(((..((.((((((((((..(((.(((.....))))))))))).))))).)).)))..))))))).)).)) 85 nt.
+MD20_S1 (9)   ---(((((((((..(((..((.((((((((((..(((.(((.....))))))))))).))))).)).)))..))))))).))--- 79 nt.
+MD20_S2 (6)   ------((((((..(((..((.((((((((((..(((.(((.....))))))))))).))))).)).)))..))))))------- 72 nt.
+MD20_S3 (3)   -------(((((..(((..((.((((((((((..(((.(((.....))))))))))).))))).)).)))..)))))-------- 70 nt.
+MD20_S4 (20)  --------((((..(((..((.((((((((((..(((.(((.....))))))))))).))))).)).)))..))))--------- 68 nt.
+
+
+1         10        20         30        40   
+:         :         :          :         :    
+  C  -       AA   AA  C     -     CU   A   UU
+AC GC UUCUAGA  GUG  CU GUAAU CGGAG  GUG UCC   C..44
+UG CG AGGAUCU  CAC  GG CGUUA GCUUC  UAC AGG   -
+  U  C       AC   A-  U     U     --   -   UG
+     :         :          :           :       
+     80        70         60          50      
