@@ -1,0 +1,1083 @@
+Target Rank,Target Score,Sequence,Gene Symbol,Gene Description
+1,100,AUUCUAAUUUCUCCACGUCUUU,ICA1L,islet cell autoantigen 1 like
+2,99,AUUCUAAUUUCUCCACGUCUUU,DNAL1,dynein axonemal light chain 1
+3,99,AUUCUAAUUUCUCCACGUCUUU,CCDC148,coiled-coil domain containing 148
+4,99,AUUCUAAUUUCUCCACGUCUUU,DGKH,diacylglycerol kinase eta
+5,99,AUUCUAAUUUCUCCACGUCUUU,LARP4,La ribonucleoprotein domain family member 4
+6,99,AUUCUAAUUUCUCCACGUCUUU,CUL3,cullin 3
+7,99,AUUCUAAUUUCUCCACGUCUUU,SP4,Sp4 transcription factor
+8,99,AUUCUAAUUUCUCCACGUCUUU,ADAMTS3,ADAM metallopeptidase with thrombospondin type 1 motif 3
+9,99,AUUCUAAUUUCUCCACGUCUUU,FUT9,fucosyltransferase 9
+10,99,AUUCUAAUUUCUCCACGUCUUU,SCAF11,SR-related CTD associated factor 11
+11,99,AUUCUAAUUUCUCCACGUCUUU,NR4A3,nuclear receptor subfamily 4 group A member 3
+12,98,AUUCUAAUUUCUCCACGUCUUU,NECAB1,N-terminal EF-hand calcium binding protein 1
+13,98,AUUCUAAUUUCUCCACGUCUUU,GOLIM4,golgi integral membrane protein 4
+14,98,AUUCUAAUUUCUCCACGUCUUU,RB1,RB transcriptional corepressor 1
+15,98,AUUCUAAUUUCUCCACGUCUUU,ADAMTS5,ADAM metallopeptidase with thrombospondin type 1 motif 5
+16,98,AUUCUAAUUUCUCCACGUCUUU,ETNK1,ethanolamine kinase 1
+17,98,AUUCUAAUUUCUCCACGUCUUU,NRIP1,nuclear receptor interacting protein 1
+18,98,AUUCUAAUUUCUCCACGUCUUU,TMEM33,transmembrane protein 33
+19,98,AUUCUAAUUUCUCCACGUCUUU,KCNMA1,potassium calcium-activated channel subfamily M alpha 1
+20,98,AUUCUAAUUUCUCCACGUCUUU,S1PR3,sphingosine-1-phosphate receptor 3
+21,98,AUUCUAAUUUCUCCACGUCUUU,ZMAT3,zinc finger matrin-type 3
+22,97,AUUCUAAUUUCUCCACGUCUUU,ZFP30,ZFP30 zinc finger protein
+23,97,AUUCUAAUUUCUCCACGUCUUU,MAP7,microtubule associated protein 7
+24,97,AUUCUAAUUUCUCCACGUCUUU,GDAP1,ganglioside induced differentiation associated protein 1
+25,97,AUUCUAAUUUCUCCACGUCUUU,TRIM33,tripartite motif containing 33
+26,97,AUUCUAAUUUCUCCACGUCUUU,NCEH1,neutral cholesterol ester hydrolase 1
+27,97,AUUCUAAUUUCUCCACGUCUUU,KLF10,Kruppel like factor 10
+28,97,AUUCUAAUUUCUCCACGUCUUU,ZC3H12C,zinc finger CCCH-type containing 12C
+29,97,AUUCUAAUUUCUCCACGUCUUU,UBR3,ubiquitin protein ligase E3 component n-recognin 3
+30,97,AUUCUAAUUUCUCCACGUCUUU,RFX3,regulatory factor X3
+31,97,AUUCUAAUUUCUCCACGUCUUU,REEP3,receptor accessory protein 3
+32,97,AUUCUAAUUUCUCCACGUCUUU,RNF138,ring finger protein 138
+33,97,AUUCUAAUUUCUCCACGUCUUU,FZD3,frizzled class receptor 3
+34,97,AUUCUAAUUUCUCCACGUCUUU,CDK6,cyclin dependent kinase 6
+35,97,AUUCUAAUUUCUCCACGUCUUU,FGF2,fibroblast growth factor 2
+36,97,AUUCUAAUUUCUCCACGUCUUU,FBXL17,F-box and leucine rich repeat protein 17
+37,96,AUUCUAAUUUCUCCACGUCUUU,AQP4,aquaporin 4
+38,96,AUUCUAAUUUCUCCACGUCUUU,ITGBL1,integrin subunit beta like 1
+39,96,AUUCUAAUUUCUCCACGUCUUU,TOX,thymocyte selection associated high mobility group box
+40,96,AUUCUAAUUUCUCCACGUCUUU,TMF1,TATA element modulatory factor 1
+41,96,AUUCUAAUUUCUCCACGUCUUU,GRM5,glutamate metabotropic receptor 5
+42,96,AUUCUAAUUUCUCCACGUCUUU,HDGFL3,HDGF like 3
+43,96,AUUCUAAUUUCUCCACGUCUUU,IGF2BP2,insulin like growth factor 2 mRNA binding protein 2
+44,96,AUUCUAAUUUCUCCACGUCUUU,SINHCAF,SIN3-HDAC complex associated factor
+45,96,AUUCUAAUUUCUCCACGUCUUU,RBL2,RB transcriptional corepressor like 2
+46,96,AUUCUAAUUUCUCCACGUCUUU,LRP2,LDL receptor related protein 2
+47,96,AUUCUAAUUUCUCCACGUCUUU,B3GNT5,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 5"
+48,96,AUUCUAAUUUCUCCACGUCUUU,RGS5,regulator of G protein signaling 5
+49,95,AUUCUAAUUUCUCCACGUCUUU,PTPN4,"protein tyrosine phosphatase, non-receptor type 4"
+50,95,AUUCUAAUUUCUCCACGUCUUU,PWWP3B,PWWP domain containing 3B
+51,95,AUUCUAAUUUCUCCACGUCUUU,LEPROT,leptin receptor overlapping transcript
+52,95,AUUCUAAUUUCUCCACGUCUUU,SLC6A14,solute carrier family 6 member 14
+53,95,AUUCUAAUUUCUCCACGUCUUU,CMYA5,cardiomyopathy associated 5
+54,95,AUUCUAAUUUCUCCACGUCUUU,POLR1D,RNA polymerase I and III subunit D
+55,95,AUUCUAAUUUCUCCACGUCUUU,AFTPH,aftiphilin
+56,95,AUUCUAAUUUCUCCACGUCUUU,HACE1,HECT domain and ankyrin repeat containing E3 ubiquitin protein ligase 1
+57,95,AUUCUAAUUUCUCCACGUCUUU,CERK,ceramide kinase
+58,95,AUUCUAAUUUCUCCACGUCUUU,BOLL,"boule homolog, RNA binding protein"
+59,95,AUUCUAAUUUCUCCACGUCUUU,IGDCC4,immunoglobulin superfamily DCC subclass member 4
+60,95,AUUCUAAUUUCUCCACGUCUUU,MGAT4A,"alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A"
+61,95,AUUCUAAUUUCUCCACGUCUUU,NDST3,N-deacetylase and N-sulfotransferase 3
+62,95,AUUCUAAUUUCUCCACGUCUUU,NDFIP2,Nedd4 family interacting protein 2
+63,95,AUUCUAAUUUCUCCACGUCUUU,KCNQ5,potassium voltage-gated channel subfamily Q member 5
+64,95,AUUCUAAUUUCUCCACGUCUUU,IKZF5,IKAROS family zinc finger 5
+65,95,AUUCUAAUUUCUCCACGUCUUU,C5orf30,chromosome 5 open reading frame 30
+66,95,AUUCUAAUUUCUCCACGUCUUU,CCSER2,coiled-coil serine rich protein 2
+67,94,AUUCUAAUUUCUCCACGUCUUU,CDK17,cyclin dependent kinase 17
+68,94,AUUCUAAUUUCUCCACGUCUUU,FMR1,fragile X mental retardation 1
+69,94,AUUCUAAUUUCUCCACGUCUUU,PUM2,pumilio RNA binding family member 2
+70,94,AUUCUAAUUUCUCCACGUCUUU,NAMPT,nicotinamide phosphoribosyltransferase
+71,94,AUUCUAAUUUCUCCACGUCUUU,SIX2,SIX homeobox 2
+72,94,AUUCUAAUUUCUCCACGUCUUU,ZEB1,zinc finger E-box binding homeobox 1
+73,94,AUUCUAAUUUCUCCACGUCUUU,CA8,carbonic anhydrase 8
+74,94,AUUCUAAUUUCUCCACGUCUUU,CENPS,centromere protein S
+75,94,AUUCUAAUUUCUCCACGUCUUU,MTSS1,"MTSS1, I-BAR domain containing"
+76,94,AUUCUAAUUUCUCCACGUCUUU,C10orf88,chromosome 10 open reading frame 88
+77,94,AUUCUAAUUUCUCCACGUCUUU,RBMS3,RNA binding motif single stranded interacting protein 3
+78,94,AUUCUAAUUUCUCCACGUCUUU,FDX1,ferredoxin 1
+79,94,AUUCUAAUUUCUCCACGUCUUU,EIF4A2,eukaryotic translation initiation factor 4A2
+80,94,AUUCUAAUUUCUCCACGUCUUU,DIAPH3,diaphanous related formin 3
+81,94,AUUCUAAUUUCUCCACGUCUUU,ASPH,aspartate beta-hydroxylase
+82,94,AUUCUAAUUUCUCCACGUCUUU,ABHD18,abhydrolase domain containing 18
+83,93,AUUCUAAUUUCUCCACGUCUUU,HBS1L,HBS1 like translational GTPase
+84,93,AUUCUAAUUUCUCCACGUCUUU,DCP2,decapping mRNA 2
+85,93,AUUCUAAUUUCUCCACGUCUUU,CNTNAP2,contactin associated protein like 2
+86,93,AUUCUAAUUUCUCCACGUCUUU,IPMK,inositol polyphosphate multikinase
+87,93,AUUCUAAUUUCUCCACGUCUUU,SLC5A12,solute carrier family 5 member 12
+88,93,AUUCUAAUUUCUCCACGUCUUU,NFAT5,nuclear factor of activated T cells 5
+89,93,AUUCUAAUUUCUCCACGUCUUU,ACTR2,ARP2 actin related protein 2 homolog
+90,93,AUUCUAAUUUCUCCACGUCUUU,DDHD1,DDHD domain containing 1
+91,93,AUUCUAAUUUCUCCACGUCUUU,YTHDF3,YTH N6-methyladenosine RNA binding protein 3
+92,93,AUUCUAAUUUCUCCACGUCUUU,JADE2,jade family PHD finger 2
+93,93,AUUCUAAUUUCUCCACGUCUUU,PJA2,praja ring finger ubiquitin ligase 2
+94,93,AUUCUAAUUUCUCCACGUCUUU,SGPP1,sphingosine-1-phosphate phosphatase 1
+95,93,AUUCUAAUUUCUCCACGUCUUU,MIPOL1,mirror-image polydactyly 1
+96,93,AUUCUAAUUUCUCCACGUCUUU,WDR72,WD repeat domain 72
+97,93,AUUCUAAUUUCUCCACGUCUUU,RC3H1,ring finger and CCCH-type domains 1
+98,93,AUUCUAAUUUCUCCACGUCUUU,RSRC2,arginine and serine rich coiled-coil 2
+99,93,AUUCUAAUUUCUCCACGUCUUU,TOMM70,translocase of outer mitochondrial membrane 70
+100,93,AUUCUAAUUUCUCCACGUCUUU,YIPF6,Yip1 domain family member 6
+101,92,AUUCUAAUUUCUCCACGUCUUU,HTR1F,5-hydroxytryptamine receptor 1F
+102,92,AUUCUAAUUUCUCCACGUCUUU,THRAP3,thyroid hormone receptor associated protein 3
+103,92,AUUCUAAUUUCUCCACGUCUUU,ENY2,"ENY2, transcription and export complex 2 subunit"
+104,92,AUUCUAAUUUCUCCACGUCUUU,N4BP2,NEDD4 binding protein 2
+105,92,AUUCUAAUUUCUCCACGUCUUU,WDR33,WD repeat domain 33
+106,92,AUUCUAAUUUCUCCACGUCUUU,FREM1,FRAS1 related extracellular matrix 1
+107,92,AUUCUAAUUUCUCCACGUCUUU,ZNF507,zinc finger protein 507
+108,92,AUUCUAAUUUCUCCACGUCUUU,EFNA5,ephrin A5
+109,92,AUUCUAAUUUCUCCACGUCUUU,PAPOLB,poly(A) polymerase beta
+110,92,AUUCUAAUUUCUCCACGUCUUU,SCAI,suppressor of cancer cell invasion
+111,92,AUUCUAAUUUCUCCACGUCUUU,CKAP5,cytoskeleton associated protein 5
+112,92,AUUCUAAUUUCUCCACGUCUUU,HOOK1,hook microtubule tethering protein 1
+113,92,AUUCUAAUUUCUCCACGUCUUU,GAS2,growth arrest specific 2
+114,92,AUUCUAAUUUCUCCACGUCUUU,ARHGAP5,Rho GTPase activating protein 5
+115,92,AUUCUAAUUUCUCCACGUCUUU,TSHZ3,teashirt zinc finger homeobox 3
+116,92,AUUCUAAUUUCUCCACGUCUUU,VEGFA,vascular endothelial growth factor A
+117,91,AUUCUAAUUUCUCCACGUCUUU,SUMO2,small ubiquitin-like modifier 2
+118,91,AUUCUAAUUUCUCCACGUCUUU,GOSR1,golgi SNAP receptor complex member 1
+119,91,AUUCUAAUUUCUCCACGUCUUU,ARHGAP11A,Rho GTPase activating protein 11A
+120,91,AUUCUAAUUUCUCCACGUCUUU,FLI1,"Fli-1 proto-oncogene, ETS transcription factor"
+121,91,AUUCUAAUUUCUCCACGUCUUU,C11orf54,chromosome 11 open reading frame 54
+122,91,AUUCUAAUUUCUCCACGUCUUU,HDAC9,histone deacetylase 9
+123,91,AUUCUAAUUUCUCCACGUCUUU,LPP,LIM domain containing preferred translocation partner in lipoma
+124,91,AUUCUAAUUUCUCCACGUCUUU,CHIC1,cysteine rich hydrophobic domain 1
+125,91,AUUCUAAUUUCUCCACGUCUUU,LONRF2,LON peptidase N-terminal domain and ring finger 2
+126,91,AUUCUAAUUUCUCCACGUCUUU,APPL1,"adaptor protein, phosphotyrosine interacting with PH domain and leucine zipper 1"
+127,91,AUUCUAAUUUCUCCACGUCUUU,MAP9,microtubule associated protein 9
+128,91,AUUCUAAUUUCUCCACGUCUUU,TM9SF3,transmembrane 9 superfamily member 3
+129,91,AUUCUAAUUUCUCCACGUCUUU,ATP6V1G1,ATPase H+ transporting V1 subunit G1
+130,91,AUUCUAAUUUCUCCACGUCUUU,HEXIM1,HEXIM P-TEFb complex subunit 1
+131,91,AUUCUAAUUUCUCCACGUCUUU,BCAT1,branched chain amino acid transaminase 1
+1,99,AAAGAUGUGGAAAAAUUGGAAU,ZFAND4,zinc finger AN1-type containing 4
+2,97,AAAGAUGUGGAAAAAUUGGAAU,RASGEF1A,RasGEF domain family member 1A
+3,97,AAAGAUGUGGAAAAAUUGGAAU,RAB14,"RAB14, member RAS oncogene family"
+4,97,AAAGAUGUGGAAAAAUUGGAAU,GALNT7,polypeptide N-acetylgalactosaminyltransferase 7
+5,97,AAAGAUGUGGAAAAAUUGGAAU,BRI3BP,BRI3 binding protein
+6,97,AAAGAUGUGGAAAAAUUGGAAU,STRN3,striatin 3
+7,97,AAAGAUGUGGAAAAAUUGGAAU,SESTD1,SEC14 and spectrin domain containing 1
+8,97,AAAGAUGUGGAAAAAUUGGAAU,ZFX,zinc finger protein X-linked
+9,96,AAAGAUGUGGAAAAAUUGGAAU,GATM,glycine amidinotransferase
+10,96,AAAGAUGUGGAAAAAUUGGAAU,PNPT1,polyribonucleotide nucleotidyltransferase 1
+11,96,AAAGAUGUGGAAAAAUUGGAAU,C15orf40,chromosome 15 open reading frame 40
+12,96,AAAGAUGUGGAAAAAUUGGAAU,RD3,"retinal degeneration 3, GUCY2D regulator"
+13,95,AAAGAUGUGGAAAAAUUGGAAU,SSBP2,single stranded DNA binding protein 2
+14,95,AAAGAUGUGGAAAAAUUGGAAU,S100PBP,S100P binding protein
+15,95,AAAGAUGUGGAAAAAUUGGAAU,SMG7,"SMG7, nonsense mediated mRNA decay factor"
+16,95,AAAGAUGUGGAAAAAUUGGAAU,TNPO1,transportin 1
+17,95,AAAGAUGUGGAAAAAUUGGAAU,CACNB4,calcium voltage-gated channel auxiliary subunit beta 4
+18,95,AAAGAUGUGGAAAAAUUGGAAU,SMC5,structural maintenance of chromosomes 5
+19,95,AAAGAUGUGGAAAAAUUGGAAU,DMXL1,Dmx like 1
+20,94,AAAGAUGUGGAAAAAUUGGAAU,RNF213,ring finger protein 213
+21,94,AAAGAUGUGGAAAAAUUGGAAU,COPS2,COP9 signalosome subunit 2
+22,94,AAAGAUGUGGAAAAAUUGGAAU,PDGFD,platelet derived growth factor D
+23,94,AAAGAUGUGGAAAAAUUGGAAU,PPP2R5E,protein phosphatase 2 regulatory subunit B'epsilon
+24,94,AAAGAUGUGGAAAAAUUGGAAU,EMC7,ER membrane protein complex subunit 7
+25,94,AAAGAUGUGGAAAAAUUGGAAU,UNC80,"unc-80 homolog, NALCN channel complex subunit"
+26,93,AAAGAUGUGGAAAAAUUGGAAU,6-Mar,membrane associated ring-CH-type finger 6
+27,93,AAAGAUGUGGAAAAAUUGGAAU,SERPINB13,serpin family B member 13
+28,93,AAAGAUGUGGAAAAAUUGGAAU,CEP350,centrosomal protein 350
+29,93,AAAGAUGUGGAAAAAUUGGAAU,EFCAB3,EF-hand calcium binding domain 3
+30,92,AAAGAUGUGGAAAAAUUGGAAU,ARL8B,ADP ribosylation factor like GTPase 8B
+31,92,AAAGAUGUGGAAAAAUUGGAAU,PWWP3B,PWWP domain containing 3B
+32,92,AAAGAUGUGGAAAAAUUGGAAU,CDV3,CDV3 homolog
+33,92,AAAGAUGUGGAAAAAUUGGAAU,SERBP1,SERPINE1 mRNA binding protein 1
+34,92,AAAGAUGUGGAAAAAUUGGAAU,POT1,protection of telomeres 1
+35,92,AAAGAUGUGGAAAAAUUGGAAU,SLC16A12,solute carrier family 16 member 12
+36,91,AAAGAUGUGGAAAAAUUGGAAU,FAM217B,family with sequence similarity 217 member B
+37,91,AAAGAUGUGGAAAAAUUGGAAU,SACS,sacsin molecular chaperone
+38,91,AAAGAUGUGGAAAAAUUGGAAU,STXBP5L,syntaxin binding protein 5 like
+39,91,AAAGAUGUGGAAAAAUUGGAAU,KBTBD3,kelch repeat and BTB domain containing 3
+1,100,UACUAAAUUAAAUGAUCUCUGC,FGF7,fibroblast growth factor 7
+2,99,UACUAAAUUAAAUGAUCUCUGC,ENPP4,ectonucleotide pyrophosphatase/phosphodiesterase 4
+3,99,UACUAAAUUAAAUGAUCUCUGC,LCORL,ligand dependent nuclear receptor corepressor like
+4,99,UACUAAAUUAAAUGAUCUCUGC,IRS2,insulin receptor substrate 2
+5,99,UACUAAAUUAAAUGAUCUCUGC,MBNL3,muscleblind like splicing regulator 3
+6,99,UACUAAAUUAAAUGAUCUCUGC,PTP4A1,"protein tyrosine phosphatase type IVA, member 1"
+7,98,UACUAAAUUAAAUGAUCUCUGC,CD164,CD164 molecule
+8,98,UACUAAAUUAAAUGAUCUCUGC,BRMS1L,BRMS1 like transcriptional repressor
+9,98,UACUAAAUUAAAUGAUCUCUGC,CYP26B1,cytochrome P450 family 26 subfamily B member 1
+10,98,UACUAAAUUAAAUGAUCUCUGC,GJA1,gap junction protein alpha 1
+11,98,UACUAAAUUAAAUGAUCUCUGC,MAP4K3,mitogen-activated protein kinase kinase kinase kinase 3
+12,98,UACUAAAUUAAAUGAUCUCUGC,CCDC88A,coiled-coil domain containing 88A
+13,98,UACUAAAUUAAAUGAUCUCUGC,C7orf57,chromosome 7 open reading frame 57
+14,97,UACUAAAUUAAAUGAUCUCUGC,OSBP2,oxysterol binding protein 2
+15,97,UACUAAAUUAAAUGAUCUCUGC,ZNF239,zinc finger protein 239
+16,97,UACUAAAUUAAAUGAUCUCUGC,MOB4,"MOB family member 4, phocein"
+17,97,UACUAAAUUAAAUGAUCUCUGC,MYCN,"MYCN proto-oncogene, bHLH transcription factor"
+18,97,UACUAAAUUAAAUGAUCUCUGC,ARHGAP5,Rho GTPase activating protein 5
+19,97,UACUAAAUUAAAUGAUCUCUGC,CALD1,caldesmon 1
+20,96,UACUAAAUUAAAUGAUCUCUGC,RICTOR,RPTOR independent companion of MTOR complex 2
+21,96,UACUAAAUUAAAUGAUCUCUGC,ZNF273,zinc finger protein 273
+22,96,UACUAAAUUAAAUGAUCUCUGC,LIMA1,LIM domain and actin binding 1
+23,96,UACUAAAUUAAAUGAUCUCUGC,ZFP36,ZFP36 ring finger protein
+24,96,UACUAAAUUAAAUGAUCUCUGC,TEAD1,TEA domain transcription factor 1
+25,96,UACUAAAUUAAAUGAUCUCUGC,ZEB2,zinc finger E-box binding homeobox 2
+26,96,UACUAAAUUAAAUGAUCUCUGC,ELMOD1,ELMO domain containing 1
+27,96,UACUAAAUUAAAUGAUCUCUGC,TENT5A,terminal nucleotidyltransferase 5A
+28,96,UACUAAAUUAAAUGAUCUCUGC,LRRN1,leucine rich repeat neuronal 1
+29,96,UACUAAAUUAAAUGAUCUCUGC,ATAD1,"ATPase family, AAA domain containing 1"
+30,96,UACUAAAUUAAAUGAUCUCUGC,SLC2A13,solute carrier family 2 member 13
+31,96,UACUAAAUUAAAUGAUCUCUGC,SNPH,syntaphilin
+32,96,UACUAAAUUAAAUGAUCUCUGC,TFAM,"transcription factor A, mitochondrial"
+33,96,UACUAAAUUAAAUGAUCUCUGC,DOCK9,dedicator of cytokinesis 9
+34,96,UACUAAAUUAAAUGAUCUCUGC,NFIB,nuclear factor I B
+35,96,UACUAAAUUAAAUGAUCUCUGC,BBX,"BBX, HMG-box containing"
+36,96,UACUAAAUUAAAUGAUCUCUGC,BAZ1A,bromodomain adjacent to zinc finger domain 1A
+37,96,UACUAAAUUAAAUGAUCUCUGC,RAB39B,"RAB39B, member RAS oncogene family"
+38,95,UACUAAAUUAAAUGAUCUCUGC,SLC35F1,solute carrier family 35 member F1
+39,95,UACUAAAUUAAAUGAUCUCUGC,CUL3,cullin 3
+40,95,UACUAAAUUAAAUGAUCUCUGC,FAM120A,family with sequence similarity 120A
+41,95,UACUAAAUUAAAUGAUCUCUGC,DSG1,desmoglein 1
+42,95,UACUAAAUUAAAUGAUCUCUGC,KPNA3,karyopherin subunit alpha 3
+43,95,UACUAAAUUAAAUGAUCUCUGC,SLC30A6,solute carrier family 30 member 6
+44,95,UACUAAAUUAAAUGAUCUCUGC,MEX3C,mex-3 RNA binding family member C
+45,95,UACUAAAUUAAAUGAUCUCUGC,RANBP3L,RAN binding protein 3 like
+46,95,UACUAAAUUAAAUGAUCUCUGC,TBC1D14,TBC1 domain family member 14
+47,95,UACUAAAUUAAAUGAUCUCUGC,INO80D,INO80 complex subunit D
+48,95,UACUAAAUUAAAUGAUCUCUGC,KLHL17,kelch like family member 17
+49,95,UACUAAAUUAAAUGAUCUCUGC,IGF1,insulin like growth factor 1
+50,95,UACUAAAUUAAAUGAUCUCUGC,MIER3,MIER family member 3
+51,95,UACUAAAUUAAAUGAUCUCUGC,COL12A1,collagen type XII alpha 1 chain
+52,95,UACUAAAUUAAAUGAUCUCUGC,RNF180,ring finger protein 180
+53,95,UACUAAAUUAAAUGAUCUCUGC,STXBP5L,syntaxin binding protein 5 like
+54,95,UACUAAAUUAAAUGAUCUCUGC,GUCY1B1,guanylate cyclase 1 soluble subunit beta 1
+55,95,UACUAAAUUAAAUGAUCUCUGC,SRSF1,serine and arginine rich splicing factor 1
+56,95,UACUAAAUUAAAUGAUCUCUGC,FYN,"FYN proto-oncogene, Src family tyrosine kinase"
+57,95,UACUAAAUUAAAUGAUCUCUGC,ADGRL2,adhesion G protein-coupled receptor L2
+58,95,UACUAAAUUAAAUGAUCUCUGC,CADM2,cell adhesion molecule 2
+59,95,UACUAAAUUAAAUGAUCUCUGC,EPM2AIP1,EPM2A interacting protein 1
+60,95,UACUAAAUUAAAUGAUCUCUGC,TPGS2,tubulin polyglutamylase complex subunit 2
+61,94,UACUAAAUUAAAUGAUCUCUGC,CCDC14,coiled-coil domain containing 14
+62,94,UACUAAAUUAAAUGAUCUCUGC,SATB1,SATB homeobox 1
+63,94,UACUAAAUUAAAUGAUCUCUGC,NSUN6,NOP2/Sun RNA methyltransferase family member 6
+64,94,UACUAAAUUAAAUGAUCUCUGC,ATG12,autophagy related 12
+65,94,UACUAAAUUAAAUGAUCUCUGC,VPS52,"VPS52, GARP complex subunit"
+66,94,UACUAAAUUAAAUGAUCUCUGC,SLC6A1,solute carrier family 6 member 1
+67,94,UACUAAAUUAAAUGAUCUCUGC,PIP5K1B,phosphatidylinositol-4-phosphate 5-kinase type 1 beta
+68,94,UACUAAAUUAAAUGAUCUCUGC,ADAMTS4,ADAM metallopeptidase with thrombospondin type 1 motif 4
+69,94,UACUAAAUUAAAUGAUCUCUGC,UBE2D1,ubiquitin conjugating enzyme E2 D1
+70,94,UACUAAAUUAAAUGAUCUCUGC,NIPBL,"NIPBL, cohesin loading factor"
+71,93,UACUAAAUUAAAUGAUCUCUGC,ACVR2B,activin A receptor type 2B
+72,93,UACUAAAUUAAAUGAUCUCUGC,VSX1,visual system homeobox 1
+73,93,UACUAAAUUAAAUGAUCUCUGC,CREG1,cellular repressor of E1A stimulated genes 1
+74,93,UACUAAAUUAAAUGAUCUCUGC,FAM241A,family with sequence similarity 241 member A
+75,93,UACUAAAUUAAAUGAUCUCUGC,POLI,DNA polymerase iota
+76,93,UACUAAAUUAAAUGAUCUCUGC,SRSF9,serine and arginine rich splicing factor 9
+77,93,UACUAAAUUAAAUGAUCUCUGC,G3BP2,G3BP stress granule assembly factor 2
+78,93,UACUAAAUUAAAUGAUCUCUGC,EFCAB2,EF-hand calcium binding domain 2
+79,93,UACUAAAUUAAAUGAUCUCUGC,CDK19,cyclin dependent kinase 19
+80,93,UACUAAAUUAAAUGAUCUCUGC,CACNA2D1,calcium voltage-gated channel auxiliary subunit alpha2delta 1
+81,93,UACUAAAUUAAAUGAUCUCUGC,SHISA3,shisa family member 3
+82,93,UACUAAAUUAAAUGAUCUCUGC,NOTCH1,notch 1
+83,93,UACUAAAUUAAAUGAUCUCUGC,PCBP2,poly(rC) binding protein 2
+84,93,UACUAAAUUAAAUGAUCUCUGC,CENPH,centromere protein H
+85,93,UACUAAAUUAAAUGAUCUCUGC,LRCH2,leucine rich repeats and calponin homology domain containing 2
+86,93,UACUAAAUUAAAUGAUCUCUGC,EIF5A2,eukaryotic translation initiation factor 5A2
+87,93,UACUAAAUUAAAUGAUCUCUGC,CDH9,cadherin 9
+88,93,UACUAAAUUAAAUGAUCUCUGC,NEO1,neogenin 1
+89,92,UACUAAAUUAAAUGAUCUCUGC,KLHL5,kelch like family member 5
+90,92,UACUAAAUUAAAUGAUCUCUGC,WIPF1,WAS/WASL interacting protein family member 1
+91,92,UACUAAAUUAAAUGAUCUCUGC,ITGAV,integrin subunit alpha V
+92,92,UACUAAAUUAAAUGAUCUCUGC,PQLC3,PQ loop repeat containing 3
+93,92,UACUAAAUUAAAUGAUCUCUGC,WDR17,WD repeat domain 17
+94,92,UACUAAAUUAAAUGAUCUCUGC,GBP4,guanylate binding protein 4
+95,92,UACUAAAUUAAAUGAUCUCUGC,C4orf19,chromosome 4 open reading frame 19
+96,92,UACUAAAUUAAAUGAUCUCUGC,ERRFI1,ERBB receptor feedback inhibitor 1
+97,92,UACUAAAUUAAAUGAUCUCUGC,PARD6G,par-6 family cell polarity regulator gamma
+98,92,UACUAAAUUAAAUGAUCUCUGC,KLHDC1,kelch domain containing 1
+99,92,UACUAAAUUAAAUGAUCUCUGC,TMEM33,transmembrane protein 33
+100,92,UACUAAAUUAAAUGAUCUCUGC,FGFR1OP2,FGFR1 oncogene partner 2
+101,92,UACUAAAUUAAAUGAUCUCUGC,LCP2,lymphocyte cytosolic protein 2
+102,92,UACUAAAUUAAAUGAUCUCUGC,TOB1,"transducer of ERBB2, 1"
+103,91,UACUAAAUUAAAUGAUCUCUGC,HERC4,HECT and RLD domain containing E3 ubiquitin protein ligase 4
+104,91,UACUAAAUUAAAUGAUCUCUGC,CTTNBP2NL,CTTNBP2 N-terminal like
+105,91,UACUAAAUUAAAUGAUCUCUGC,C11orf87,chromosome 11 open reading frame 87
+106,91,UACUAAAUUAAAUGAUCUCUGC,TET2,tet methylcytosine dioxygenase 2
+107,91,UACUAAAUUAAAUGAUCUCUGC,RAPGEF4,Rap guanine nucleotide exchange factor 4
+108,91,UACUAAAUUAAAUGAUCUCUGC,CLIP1,CAP-Gly domain containing linker protein 1
+109,91,UACUAAAUUAAAUGAUCUCUGC,CTNND2,catenin delta 2
+110,91,UACUAAAUUAAAUGAUCUCUGC,HOOK3,hook microtubule tethering protein 3
+111,91,UACUAAAUUAAAUGAUCUCUGC,PYGO1,pygopus family PHD finger 1
+112,91,UACUAAAUUAAAUGAUCUCUGC,PCBP1,poly(rC) binding protein 1
+113,91,UACUAAAUUAAAUGAUCUCUGC,LZTFL1,leucine zipper transcription factor like 1
+114,91,UACUAAAUUAAAUGAUCUCUGC,MAPK1IP1L,mitogen-activated protein kinase 1 interacting protein 1 like
+1,100,AUUCAUUUGUAAUUAGAGGUGA,RMND5A,required for meiotic nuclear division 5 homolog A
+2,100,AUUCAUUUGUAAUUAGAGGUGA,PDP1,pyruvate dehyrogenase phosphatase catalytic subunit 1
+3,100,AUUCAUUUGUAAUUAGAGGUGA,CACNB4,calcium voltage-gated channel auxiliary subunit beta 4
+4,100,AUUCAUUUGUAAUUAGAGGUGA,NDFIP2,Nedd4 family interacting protein 2
+5,100,AUUCAUUUGUAAUUAGAGGUGA,SLC10A2,solute carrier family 10 member 2
+6,100,AUUCAUUUGUAAUUAGAGGUGA,DCAF10,DDB1 and CUL4 associated factor 10
+7,100,AUUCAUUUGUAAUUAGAGGUGA,APC,"APC, WNT signaling pathway regulator"
+8,100,AUUCAUUUGUAAUUAGAGGUGA,SNAP25,synaptosome associated protein 25
+9,100,AUUCAUUUGUAAUUAGAGGUGA,NEK7,NIMA related kinase 7
+10,100,AUUCAUUUGUAAUUAGAGGUGA,OXR1,oxidation resistance 1
+11,100,AUUCAUUUGUAAUUAGAGGUGA,RPRD1B,regulation of nuclear pre-mRNA domain containing 1B
+12,100,AUUCAUUUGUAAUUAGAGGUGA,VCAN,versican
+13,100,AUUCAUUUGUAAUUAGAGGUGA,RPS6KA3,ribosomal protein S6 kinase A3
+14,100,AUUCAUUUGUAAUUAGAGGUGA,TEAD1,TEA domain transcription factor 1
+15,100,AUUCAUUUGUAAUUAGAGGUGA,TMEM38B,transmembrane protein 38B
+16,100,AUUCAUUUGUAAUUAGAGGUGA,NECTIN3,nectin cell adhesion molecule 3
+17,100,AUUCAUUUGUAAUUAGAGGUGA,DENND4C,DENN domain containing 4C
+18,100,AUUCAUUUGUAAUUAGAGGUGA,SGIP1,SH3 domain GRB2 like endophilin interacting protein 1
+19,100,AUUCAUUUGUAAUUAGAGGUGA,NAALADL2,N-acetylated alpha-linked acidic dipeptidase like 2
+20,100,AUUCAUUUGUAAUUAGAGGUGA,APIP,APAF1 interacting protein
+21,100,AUUCAUUUGUAAUUAGAGGUGA,ELP4,elongator acetyltransferase complex subunit 4
+22,100,AUUCAUUUGUAAUUAGAGGUGA,PDIK1L,PDLIM1 interacting kinase 1 like
+23,100,AUUCAUUUGUAAUUAGAGGUGA,ERBB4,erb-b2 receptor tyrosine kinase 4
+24,100,AUUCAUUUGUAAUUAGAGGUGA,POC1B,POC1 centriolar protein B
+25,100,AUUCAUUUGUAAUUAGAGGUGA,STXBP5,syntaxin binding protein 5
+26,100,AUUCAUUUGUAAUUAGAGGUGA,DMRT1,doublesex and mab-3 related transcription factor 1
+27,100,AUUCAUUUGUAAUUAGAGGUGA,C2CD5,C2 calcium dependent domain containing 5
+28,100,AUUCAUUUGUAAUUAGAGGUGA,MDGA2,MAM domain containing glycosylphosphatidylinositol anchor 2
+29,100,AUUCAUUUGUAAUUAGAGGUGA,SMIM15,small integral membrane protein 15
+30,100,AUUCAUUUGUAAUUAGAGGUGA,NCKAP5,NCK associated protein 5
+31,100,AUUCAUUUGUAAUUAGAGGUGA,PTEN,phosphatase and tensin homolog
+32,99,AUUCAUUUGUAAUUAGAGGUGA,PHIP,pleckstrin homology domain interacting protein
+33,99,AUUCAUUUGUAAUUAGAGGUGA,L3MBTL3,"L3MBTL3, histone methyl-lysine binding protein"
+34,99,AUUCAUUUGUAAUUAGAGGUGA,TENT5A,terminal nucleotidyltransferase 5A
+35,99,AUUCAUUUGUAAUUAGAGGUGA,GPM6B,glycoprotein M6B
+36,99,AUUCAUUUGUAAUUAGAGGUGA,PAPOLG,poly(A) polymerase gamma
+37,99,AUUCAUUUGUAAUUAGAGGUGA,NCOA5,nuclear receptor coactivator 5
+38,99,AUUCAUUUGUAAUUAGAGGUGA,MB21D2,Mab-21 domain containing 2
+39,99,AUUCAUUUGUAAUUAGAGGUGA,ETNK1,ethanolamine kinase 1
+40,99,AUUCAUUUGUAAUUAGAGGUGA,SLC9A2,solute carrier family 9 member A2
+41,99,AUUCAUUUGUAAUUAGAGGUGA,LSAMP,limbic system associated membrane protein
+42,99,AUUCAUUUGUAAUUAGAGGUGA,ITGA4,integrin subunit alpha 4
+43,99,AUUCAUUUGUAAUUAGAGGUGA,ENTPD7,ectonucleoside triphosphate diphosphohydrolase 7
+44,99,AUUCAUUUGUAAUUAGAGGUGA,HOOK3,hook microtubule tethering protein 3
+45,99,AUUCAUUUGUAAUUAGAGGUGA,CCDC186,coiled-coil domain containing 186
+46,99,AUUCAUUUGUAAUUAGAGGUGA,ANKRD44,ankyrin repeat domain 44
+47,99,AUUCAUUUGUAAUUAGAGGUGA,ANO5,anoctamin 5
+48,99,AUUCAUUUGUAAUUAGAGGUGA,SLC38A2,solute carrier family 38 member 2
+49,99,AUUCAUUUGUAAUUAGAGGUGA,RAD23B,"RAD23 homolog B, nucleotide excision repair protein"
+50,99,AUUCAUUUGUAAUUAGAGGUGA,MMRN1,multimerin 1
+51,99,AUUCAUUUGUAAUUAGAGGUGA,OMG,oligodendrocyte myelin glycoprotein
+52,99,AUUCAUUUGUAAUUAGAGGUGA,ASXL3,ASXL transcriptional regulator 3
+53,99,AUUCAUUUGUAAUUAGAGGUGA,PAK3,p21 (RAC1) activated kinase 3
+54,99,AUUCAUUUGUAAUUAGAGGUGA,MYRIP,myosin VIIA and Rab interacting protein
+55,99,AUUCAUUUGUAAUUAGAGGUGA,DIO2,iodothyronine deiodinase 2
+56,99,AUUCAUUUGUAAUUAGAGGUGA,CLDN8,claudin 8
+57,99,AUUCAUUUGUAAUUAGAGGUGA,FRS2,fibroblast growth factor receptor substrate 2
+58,99,AUUCAUUUGUAAUUAGAGGUGA,GRIA1,glutamate ionotropic receptor AMPA type subunit 1
+59,99,AUUCAUUUGUAAUUAGAGGUGA,CREB1,cAMP responsive element binding protein 1
+60,99,AUUCAUUUGUAAUUAGAGGUGA,TMF1,TATA element modulatory factor 1
+61,99,AUUCAUUUGUAAUUAGAGGUGA,SLC6A11,solute carrier family 6 member 11
+62,99,AUUCAUUUGUAAUUAGAGGUGA,RNFT1,"ring finger protein, transmembrane 1"
+63,99,AUUCAUUUGUAAUUAGAGGUGA,THRAP3,thyroid hormone receptor associated protein 3
+64,99,AUUCAUUUGUAAUUAGAGGUGA,SGCB,sarcoglycan beta
+65,98,AUUCAUUUGUAAUUAGAGGUGA,ACVR2A,activin A receptor type 2A
+66,98,AUUCAUUUGUAAUUAGAGGUGA,THSD7A,thrombospondin type 1 domain containing 7A
+67,98,AUUCAUUUGUAAUUAGAGGUGA,MAPK9,mitogen-activated protein kinase 9
+68,98,AUUCAUUUGUAAUUAGAGGUGA,ITGB8,integrin subunit beta 8
+69,98,AUUCAUUUGUAAUUAGAGGUGA,SLC25A17,solute carrier family 25 member 17
+70,98,AUUCAUUUGUAAUUAGAGGUGA,ST6GAL2,"ST6 beta-galactoside alpha-2,6-sialyltransferase 2"
+71,98,AUUCAUUUGUAAUUAGAGGUGA,PRLR,prolactin receptor
+72,98,AUUCAUUUGUAAUUAGAGGUGA,MAP3K2,mitogen-activated protein kinase kinase kinase 2
+73,98,AUUCAUUUGUAAUUAGAGGUGA,DNAJB14,DnaJ heat shock protein family (Hsp40) member B14
+74,98,AUUCAUUUGUAAUUAGAGGUGA,LRRTM3,leucine rich repeat transmembrane neuronal 3
+75,98,AUUCAUUUGUAAUUAGAGGUGA,USP38,ubiquitin specific peptidase 38
+76,98,AUUCAUUUGUAAUUAGAGGUGA,CTNNA3,catenin alpha 3
+77,98,AUUCAUUUGUAAUUAGAGGUGA,YTHDC2,YTH domain containing 2
+78,98,AUUCAUUUGUAAUUAGAGGUGA,TNFSF15,TNF superfamily member 15
+79,98,AUUCAUUUGUAAUUAGAGGUGA,SFMBT2,Scm like with four mbt domains 2
+80,98,AUUCAUUUGUAAUUAGAGGUGA,FZD3,frizzled class receptor 3
+81,98,AUUCAUUUGUAAUUAGAGGUGA,RBM41,RNA binding motif protein 41
+82,98,AUUCAUUUGUAAUUAGAGGUGA,IRS1,insulin receptor substrate 1
+83,98,AUUCAUUUGUAAUUAGAGGUGA,TMEM200A,transmembrane protein 200A
+84,98,AUUCAUUUGUAAUUAGAGGUGA,FAT3,FAT atypical cadherin 3
+85,98,AUUCAUUUGUAAUUAGAGGUGA,XPO4,exportin 4
+86,98,AUUCAUUUGUAAUUAGAGGUGA,SMIM14,small integral membrane protein 14
+87,98,AUUCAUUUGUAAUUAGAGGUGA,OGFRL1,opioid growth factor receptor like 1
+88,98,AUUCAUUUGUAAUUAGAGGUGA,DBT,dihydrolipoamide branched chain transacylase E2
+89,98,AUUCAUUUGUAAUUAGAGGUGA,MEGF11,multiple EGF like domains 11
+90,98,AUUCAUUUGUAAUUAGAGGUGA,HELQ,"helicase, POLQ like"
+91,98,AUUCAUUUGUAAUUAGAGGUGA,GNAS,GNAS complex locus
+92,98,AUUCAUUUGUAAUUAGAGGUGA,IQGAP2,IQ motif containing GTPase activating protein 2
+93,98,AUUCAUUUGUAAUUAGAGGUGA,FAM210A,family with sequence similarity 210 member A
+94,98,AUUCAUUUGUAAUUAGAGGUGA,CDK12,cyclin dependent kinase 12
+95,98,AUUCAUUUGUAAUUAGAGGUGA,ADAMTS5,ADAM metallopeptidase with thrombospondin type 1 motif 5
+96,98,AUUCAUUUGUAAUUAGAGGUGA,PLAC8,placenta specific 8
+97,98,AUUCAUUUGUAAUUAGAGGUGA,KIF5B,kinesin family member 5B
+98,98,AUUCAUUUGUAAUUAGAGGUGA,SGCZ,sarcoglycan zeta
+99,98,AUUCAUUUGUAAUUAGAGGUGA,STAM,signal transducing adaptor molecule
+100,98,AUUCAUUUGUAAUUAGAGGUGA,SNTB2,syntrophin beta 2
+101,98,AUUCAUUUGUAAUUAGAGGUGA,EDN1,endothelin 1
+102,98,AUUCAUUUGUAAUUAGAGGUGA,METTL14,methyltransferase like 14
+103,98,AUUCAUUUGUAAUUAGAGGUGA,NFIA,nuclear factor I A
+104,98,AUUCAUUUGUAAUUAGAGGUGA,MBNL3,muscleblind like splicing regulator 3
+105,98,AUUCAUUUGUAAUUAGAGGUGA,LRRTM2,leucine rich repeat transmembrane neuronal 2
+106,98,AUUCAUUUGUAAUUAGAGGUGA,ELL2,elongation factor for RNA polymerase II 2
+107,98,AUUCAUUUGUAAUUAGAGGUGA,TCEANC2,transcription elongation factor A N-terminal and central domain containing 2
+108,97,AUUCAUUUGUAAUUAGAGGUGA,DSC3,desmocollin 3
+109,97,AUUCAUUUGUAAUUAGAGGUGA,RHOQ,ras homolog family member Q
+110,97,AUUCAUUUGUAAUUAGAGGUGA,MAP3K7,mitogen-activated protein kinase kinase kinase 7
+111,97,AUUCAUUUGUAAUUAGAGGUGA,MYEF2,myelin expression factor 2
+112,97,AUUCAUUUGUAAUUAGAGGUGA,PGM2L1,phosphoglucomutase 2 like 1
+113,97,AUUCAUUUGUAAUUAGAGGUGA,ZNF326,zinc finger protein 326
+114,97,AUUCAUUUGUAAUUAGAGGUGA,AGL,"amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase"
+115,97,AUUCAUUUGUAAUUAGAGGUGA,PTPN4,"protein tyrosine phosphatase, non-receptor type 4"
+116,97,AUUCAUUUGUAAUUAGAGGUGA,PPFIA2,PTPRF interacting protein alpha 2
+117,97,AUUCAUUUGUAAUUAGAGGUGA,ATP8A1,ATPase phospholipid transporting 8A1
+118,97,AUUCAUUUGUAAUUAGAGGUGA,GABPA,GA binding protein transcription factor subunit alpha
+119,97,AUUCAUUUGUAAUUAGAGGUGA,ZNF519,zinc finger protein 519
+120,97,AUUCAUUUGUAAUUAGAGGUGA,IPO7,importin 7
+121,97,AUUCAUUUGUAAUUAGAGGUGA,FAM171A1,family with sequence similarity 171 member A1
+122,97,AUUCAUUUGUAAUUAGAGGUGA,SPOPL,speckle type BTB/POZ protein like
+123,97,AUUCAUUUGUAAUUAGAGGUGA,KCNQ3,potassium voltage-gated channel subfamily Q member 3
+124,97,AUUCAUUUGUAAUUAGAGGUGA,EPB41L5,erythrocyte membrane protein band 4.1 like 5
+125,97,AUUCAUUUGUAAUUAGAGGUGA,EIF2A,eukaryotic translation initiation factor 2A
+126,97,AUUCAUUUGUAAUUAGAGGUGA,GPBP1,GC-rich promoter binding protein 1
+127,97,AUUCAUUUGUAAUUAGAGGUGA,ZNF655,zinc finger protein 655
+128,97,AUUCAUUUGUAAUUAGAGGUGA,NCEH1,neutral cholesterol ester hydrolase 1
+129,97,AUUCAUUUGUAAUUAGAGGUGA,USP25,ubiquitin specific peptidase 25
+130,97,AUUCAUUUGUAAUUAGAGGUGA,NEXMIF,neurite extension and migration factor
+131,97,AUUCAUUUGUAAUUAGAGGUGA,PHF20L1,PHD finger protein 20 like 1
+132,97,AUUCAUUUGUAAUUAGAGGUGA,SLC4A4,solute carrier family 4 member 4
+133,97,AUUCAUUUGUAAUUAGAGGUGA,TRAK1,trafficking kinesin protein 1
+134,97,AUUCAUUUGUAAUUAGAGGUGA,OGT,O-linked N-acetylglucosamine (GlcNAc) transferase
+135,97,AUUCAUUUGUAAUUAGAGGUGA,HBS1L,HBS1 like translational GTPase
+136,97,AUUCAUUUGUAAUUAGAGGUGA,C3orf35,chromosome 3 open reading frame 35
+137,97,AUUCAUUUGUAAUUAGAGGUGA,TMEM62,transmembrane protein 62
+138,97,AUUCAUUUGUAAUUAGAGGUGA,DKK2,dickkopf WNT signaling pathway inhibitor 2
+139,97,AUUCAUUUGUAAUUAGAGGUGA,SLC4A7,solute carrier family 4 member 7
+140,97,AUUCAUUUGUAAUUAGAGGUGA,VASH2,vasohibin 2
+141,97,AUUCAUUUGUAAUUAGAGGUGA,SATB2,SATB homeobox 2
+142,97,AUUCAUUUGUAAUUAGAGGUGA,AHCTF1,AT-hook containing transcription factor 1
+143,97,AUUCAUUUGUAAUUAGAGGUGA,ROBO2,roundabout guidance receptor 2
+144,97,AUUCAUUUGUAAUUAGAGGUGA,VPS50,"VPS50, EARP/GARPII complex subunit"
+145,97,AUUCAUUUGUAAUUAGAGGUGA,GXYLT1,glucoside xylosyltransferase 1
+146,97,AUUCAUUUGUAAUUAGAGGUGA,PIAS2,protein inhibitor of activated STAT 2
+147,97,AUUCAUUUGUAAUUAGAGGUGA,ZSWIM2,zinc finger SWIM-type containing 2
+148,97,AUUCAUUUGUAAUUAGAGGUGA,SYNPO2,synaptopodin 2
+149,97,AUUCAUUUGUAAUUAGAGGUGA,PANK1,pantothenate kinase 1
+150,97,AUUCAUUUGUAAUUAGAGGUGA,ADD3,adducin 3
+151,97,AUUCAUUUGUAAUUAGAGGUGA,MCTP2,multiple C2 and transmembrane domain containing 2
+152,97,AUUCAUUUGUAAUUAGAGGUGA,TCEAL7,transcription elongation factor A like 7
+153,97,AUUCAUUUGUAAUUAGAGGUGA,ACSL6,acyl-CoA synthetase long chain family member 6
+154,96,AUUCAUUUGUAAUUAGAGGUGA,C1orf109,chromosome 1 open reading frame 109
+155,96,AUUCAUUUGUAAUUAGAGGUGA,CREB5,cAMP responsive element binding protein 5
+156,96,AUUCAUUUGUAAUUAGAGGUGA,RAB30,"RAB30, member RAS oncogene family"
+157,96,AUUCAUUUGUAAUUAGAGGUGA,OVOL2,ovo like zinc finger 2
+158,96,AUUCAUUUGUAAUUAGAGGUGA,GATAD1,GATA zinc finger domain containing 1
+159,96,AUUCAUUUGUAAUUAGAGGUGA,CREG2,cellular repressor of E1A stimulated genes 2
+160,96,AUUCAUUUGUAAUUAGAGGUGA,SCAI,suppressor of cancer cell invasion
+161,96,AUUCAUUUGUAAUUAGAGGUGA,RP2,"RP2, ARL3 GTPase activating protein"
+162,96,AUUCAUUUGUAAUUAGAGGUGA,SMARCA5,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5"
+163,96,AUUCAUUUGUAAUUAGAGGUGA,PNPLA8,patatin like phospholipase domain containing 8
+164,96,AUUCAUUUGUAAUUAGAGGUGA,OPRM1,opioid receptor mu 1
+165,96,AUUCAUUUGUAAUUAGAGGUGA,LSM11,"LSM11, U7 small nuclear RNA associated"
+166,96,AUUCAUUUGUAAUUAGAGGUGA,LIMS1,LIM zinc finger domain containing 1
+167,96,AUUCAUUUGUAAUUAGAGGUGA,FRMD4A,FERM domain containing 4A
+168,96,AUUCAUUUGUAAUUAGAGGUGA,OGN,osteoglycin
+169,96,AUUCAUUUGUAAUUAGAGGUGA,C6orf62,chromosome 6 open reading frame 62
+170,96,AUUCAUUUGUAAUUAGAGGUGA,CAMTA1,calmodulin binding transcription activator 1
+171,96,AUUCAUUUGUAAUUAGAGGUGA,CPT1A,carnitine palmitoyltransferase 1A
+172,96,AUUCAUUUGUAAUUAGAGGUGA,SH3KBP1,SH3 domain containing kinase binding protein 1
+173,96,AUUCAUUUGUAAUUAGAGGUGA,F13B,coagulation factor XIII B chain
+174,96,AUUCAUUUGUAAUUAGAGGUGA,CCNT2,cyclin T2
+175,96,AUUCAUUUGUAAUUAGAGGUGA,USP46,ubiquitin specific peptidase 46
+176,96,AUUCAUUUGUAAUUAGAGGUGA,BMT2,base methyltransferase of 25S rRNA 2 homolog
+177,96,AUUCAUUUGUAAUUAGAGGUGA,PAN3,poly(A) specific ribonuclease subunit PAN3
+178,96,AUUCAUUUGUAAUUAGAGGUGA,ZCCHC2,zinc finger CCHC-type containing 2
+179,96,AUUCAUUUGUAAUUAGAGGUGA,RBMS3,RNA binding motif single stranded interacting protein 3
+180,96,AUUCAUUUGUAAUUAGAGGUGA,USP49,ubiquitin specific peptidase 49
+181,96,AUUCAUUUGUAAUUAGAGGUGA,BRCC3,BRCA1/BRCA2-containing complex subunit 3
+182,96,AUUCAUUUGUAAUUAGAGGUGA,PRKAA2,protein kinase AMP-activated catalytic subunit alpha 2
+183,96,AUUCAUUUGUAAUUAGAGGUGA,USP7,ubiquitin specific peptidase 7
+184,96,AUUCAUUUGUAAUUAGAGGUGA,CXXC4,CXXC finger protein 4
+185,96,AUUCAUUUGUAAUUAGAGGUGA,MKX,mohawk homeobox
+186,96,AUUCAUUUGUAAUUAGAGGUGA,TMEM56,transmembrane protein 56
+187,96,AUUCAUUUGUAAUUAGAGGUGA,MINPP1,multiple inositol-polyphosphate phosphatase 1
+188,96,AUUCAUUUGUAAUUAGAGGUGA,QSER1,glutamine and serine rich 1
+189,96,AUUCAUUUGUAAUUAGAGGUGA,MTF1,metal regulatory transcription factor 1
+190,96,AUUCAUUUGUAAUUAGAGGUGA,UBE4A,ubiquitination factor E4A
+191,96,AUUCAUUUGUAAUUAGAGGUGA,AGAP1,"ArfGAP with GTPase domain, ankyrin repeat and PH domain 1"
+192,96,AUUCAUUUGUAAUUAGAGGUGA,H2AFY,H2A histone family member Y
+193,96,AUUCAUUUGUAAUUAGAGGUGA,CDC73,cell division cycle 73
+194,96,AUUCAUUUGUAAUUAGAGGUGA,POU3F3,POU class 3 homeobox 3
+195,96,AUUCAUUUGUAAUUAGAGGUGA,TUT7,terminal uridylyl transferase 7
+196,96,AUUCAUUUGUAAUUAGAGGUGA,YIPF6,Yip1 domain family member 6
+197,96,AUUCAUUUGUAAUUAGAGGUGA,DCP2,decapping mRNA 2
+198,96,AUUCAUUUGUAAUUAGAGGUGA,RAB22A,"RAB22A, member RAS oncogene family"
+199,96,AUUCAUUUGUAAUUAGAGGUGA,ADAMTS6,ADAM metallopeptidase with thrombospondin type 1 motif 6
+200,96,AUUCAUUUGUAAUUAGAGGUGA,DCUN1D5,defective in cullin neddylation 1 domain containing 5
+201,96,AUUCAUUUGUAAUUAGAGGUGA,TMEM233,transmembrane protein 233
+202,96,AUUCAUUUGUAAUUAGAGGUGA,TPR,"translocated promoter region, nuclear basket protein"
+203,96,AUUCAUUUGUAAUUAGAGGUGA,SH3GLB1,"SH3 domain containing GRB2 like, endophilin B1"
+204,96,AUUCAUUUGUAAUUAGAGGUGA,TMEM229A,transmembrane protein 229A
+205,95,AUUCAUUUGUAAUUAGAGGUGA,C2orf69,chromosome 2 open reading frame 69
+206,95,AUUCAUUUGUAAUUAGAGGUGA,DUSP10,dual specificity phosphatase 10
+207,95,AUUCAUUUGUAAUUAGAGGUGA,NUFIP2,nuclear FMR1 interacting protein 2
+208,95,AUUCAUUUGUAAUUAGAGGUGA,HFM1,"HFM1, ATP dependent DNA helicase homolog"
+209,95,AUUCAUUUGUAAUUAGAGGUGA,XDH,xanthine dehydrogenase
+210,95,AUUCAUUUGUAAUUAGAGGUGA,ATP2C1,ATPase secretory pathway Ca2+ transporting 1
+211,95,AUUCAUUUGUAAUUAGAGGUGA,SLC36A4,solute carrier family 36 member 4
+212,95,AUUCAUUUGUAAUUAGAGGUGA,DCX,doublecortin
+213,95,AUUCAUUUGUAAUUAGAGGUGA,PRPF4B,pre-mRNA processing factor 4B
+214,95,AUUCAUUUGUAAUUAGAGGUGA,OTUD6B,OTU domain containing 6B
+215,95,AUUCAUUUGUAAUUAGAGGUGA,GUCY1A2,guanylate cyclase 1 soluble subunit alpha 2
+216,95,AUUCAUUUGUAAUUAGAGGUGA,SH3BP5,SH3 domain binding protein 5
+217,95,AUUCAUUUGUAAUUAGAGGUGA,SLC35E3,solute carrier family 35 member E3
+218,95,AUUCAUUUGUAAUUAGAGGUGA,RAB8B,"RAB8B, member RAS oncogene family"
+219,95,AUUCAUUUGUAAUUAGAGGUGA,WNT5A,Wnt family member 5A
+220,95,AUUCAUUUGUAAUUAGAGGUGA,PTGFR,prostaglandin F receptor
+221,95,AUUCAUUUGUAAUUAGAGGUGA,GALNT13,polypeptide N-acetylgalactosaminyltransferase 13
+222,95,AUUCAUUUGUAAUUAGAGGUGA,PARM1,prostate androgen-regulated mucin-like protein 1
+223,95,AUUCAUUUGUAAUUAGAGGUGA,KHDC4,"KH domain containing 4, pre-mRNA splicing factor"
+224,95,AUUCAUUUGUAAUUAGAGGUGA,HSF5,heat shock transcription factor 5
+225,95,AUUCAUUUGUAAUUAGAGGUGA,HUWE1,"HECT, UBA and WWE domain containing 1, E3 ubiquitin protein ligase"
+226,95,AUUCAUUUGUAAUUAGAGGUGA,ALG6,"ALG6, alpha-1,3-glucosyltransferase"
+227,95,AUUCAUUUGUAAUUAGAGGUGA,TBC1D4,TBC1 domain family member 4
+228,95,AUUCAUUUGUAAUUAGAGGUGA,KCNH8,potassium voltage-gated channel subfamily H member 8
+229,95,AUUCAUUUGUAAUUAGAGGUGA,CNGA3,cyclic nucleotide gated channel alpha 3
+230,95,AUUCAUUUGUAAUUAGAGGUGA,GPATCH2L,G-patch domain containing 2 like
+231,95,AUUCAUUUGUAAUUAGAGGUGA,RUFY2,RUN and FYVE domain containing 2
+232,94,AUUCAUUUGUAAUUAGAGGUGA,SEM1,"SEM1, 26S proteasome complex subunit"
+233,94,AUUCAUUUGUAAUUAGAGGUGA,AQP4,aquaporin 4
+234,94,AUUCAUUUGUAAUUAGAGGUGA,ATL2,atlastin GTPase 2
+235,94,AUUCAUUUGUAAUUAGAGGUGA,LVRN,laeverin
+236,94,AUUCAUUUGUAAUUAGAGGUGA,ANKRD50,ankyrin repeat domain 50
+237,94,AUUCAUUUGUAAUUAGAGGUGA,SOBP,sine oculis binding protein homolog
+238,94,AUUCAUUUGUAAUUAGAGGUGA,FAM84A,family with sequence similarity 84 member A
+239,94,AUUCAUUUGUAAUUAGAGGUGA,SLC35G1,solute carrier family 35 member G1
+240,94,AUUCAUUUGUAAUUAGAGGUGA,MTDH,metadherin
+241,94,AUUCAUUUGUAAUUAGAGGUGA,ZNF175,zinc finger protein 175
+242,94,AUUCAUUUGUAAUUAGAGGUGA,CADM2,cell adhesion molecule 2
+243,94,AUUCAUUUGUAAUUAGAGGUGA,HOXA13,homeobox A13
+244,94,AUUCAUUUGUAAUUAGAGGUGA,SERPINB10,serpin family B member 10
+245,94,AUUCAUUUGUAAUUAGAGGUGA,ENPP4,ectonucleotide pyrophosphatase/phosphodiesterase 4
+246,94,AUUCAUUUGUAAUUAGAGGUGA,PHACTR2,phosphatase and actin regulator 2
+247,94,AUUCAUUUGUAAUUAGAGGUGA,EIF5A2,eukaryotic translation initiation factor 5A2
+248,94,AUUCAUUUGUAAUUAGAGGUGA,DMGDH,dimethylglycine dehydrogenase
+249,94,AUUCAUUUGUAAUUAGAGGUGA,SERINC1,serine incorporator 1
+250,94,AUUCAUUUGUAAUUAGAGGUGA,LRP1B,LDL receptor related protein 1B
+251,94,AUUCAUUUGUAAUUAGAGGUGA,SFI1,SFI1 centrin binding protein
+252,94,AUUCAUUUGUAAUUAGAGGUGA,JRKL,JRK like
+253,94,AUUCAUUUGUAAUUAGAGGUGA,NETO1,neuropilin and tolloid like 1
+254,94,AUUCAUUUGUAAUUAGAGGUGA,WDR12,WD repeat domain 12
+255,94,AUUCAUUUGUAAUUAGAGGUGA,HDAC9,histone deacetylase 9
+256,94,AUUCAUUUGUAAUUAGAGGUGA,CNTN1,contactin 1
+257,94,AUUCAUUUGUAAUUAGAGGUGA,TRAPPC10,trafficking protein particle complex 10
+258,94,AUUCAUUUGUAAUUAGAGGUGA,MTRF1,mitochondrial translation release factor 1
+259,94,AUUCAUUUGUAAUUAGAGGUGA,NPR3,natriuretic peptide receptor 3
+260,94,AUUCAUUUGUAAUUAGAGGUGA,NMI,N-myc and STAT interactor
+261,94,AUUCAUUUGUAAUUAGAGGUGA,CALM1,calmodulin 1
+262,94,AUUCAUUUGUAAUUAGAGGUGA,MRPS36,mitochondrial ribosomal protein S36
+263,94,AUUCAUUUGUAAUUAGAGGUGA,GRB14,growth factor receptor bound protein 14
+264,94,AUUCAUUUGUAAUUAGAGGUGA,FANCF,FA complementation group F
+265,94,AUUCAUUUGUAAUUAGAGGUGA,NPPC,natriuretic peptide C
+266,94,AUUCAUUUGUAAUUAGAGGUGA,PUM2,pumilio RNA binding family member 2
+267,94,AUUCAUUUGUAAUUAGAGGUGA,MLPH,melanophilin
+268,94,AUUCAUUUGUAAUUAGAGGUGA,FRAS1,Fraser extracellular matrix complex subunit 1
+269,94,AUUCAUUUGUAAUUAGAGGUGA,PPM1L,"protein phosphatase, Mg2+/Mn2+ dependent 1L"
+270,94,AUUCAUUUGUAAUUAGAGGUGA,CPEB4,cytoplasmic polyadenylation element binding protein 4
+271,94,AUUCAUUUGUAAUUAGAGGUGA,ZFX,zinc finger protein X-linked
+272,94,AUUCAUUUGUAAUUAGAGGUGA,CPD,carboxypeptidase D
+273,94,AUUCAUUUGUAAUUAGAGGUGA,PJA2,praja ring finger ubiquitin ligase 2
+274,94,AUUCAUUUGUAAUUAGAGGUGA,ZIC3,Zic family member 3
+275,94,AUUCAUUUGUAAUUAGAGGUGA,EPHA3,EPH receptor A3
+276,94,AUUCAUUUGUAAUUAGAGGUGA,ZNF22,zinc finger protein 22
+277,94,AUUCAUUUGUAAUUAGAGGUGA,PEAK1,pseudopodium enriched atypical kinase 1
+278,94,AUUCAUUUGUAAUUAGAGGUGA,NKTR,natural killer cell triggering receptor
+279,94,AUUCAUUUGUAAUUAGAGGUGA,LMO4,LIM domain only 4
+280,94,AUUCAUUUGUAAUUAGAGGUGA,SLC5A3,solute carrier family 5 member 3
+281,93,AUUCAUUUGUAAUUAGAGGUGA,ZBTB1,zinc finger and BTB domain containing 1
+282,93,AUUCAUUUGUAAUUAGAGGUGA,EYS,eyes shut homolog
+283,93,AUUCAUUUGUAAUUAGAGGUGA,GPR34,G protein-coupled receptor 34
+284,93,AUUCAUUUGUAAUUAGAGGUGA,SLC25A24,solute carrier family 25 member 24
+285,93,AUUCAUUUGUAAUUAGAGGUGA,HACD1,3-hydroxyacyl-CoA dehydratase 1
+286,93,AUUCAUUUGUAAUUAGAGGUGA,ELN,elastin
+287,93,AUUCAUUUGUAAUUAGAGGUGA,MEGF10,multiple EGF like domains 10
+288,93,AUUCAUUUGUAAUUAGAGGUGA,TCTN2,tectonic family member 2
+289,93,AUUCAUUUGUAAUUAGAGGUGA,RBFOX1,RNA binding fox-1 homolog 1
+290,93,AUUCAUUUGUAAUUAGAGGUGA,CRISPLD1,cysteine rich secretory protein LCCL domain containing 1
+291,93,AUUCAUUUGUAAUUAGAGGUGA,DGKE,diacylglycerol kinase epsilon
+292,93,AUUCAUUUGUAAUUAGAGGUGA,UFL1,UFM1 specific ligase 1
+293,93,AUUCAUUUGUAAUUAGAGGUGA,GLIS3,GLIS family zinc finger 3
+294,93,AUUCAUUUGUAAUUAGAGGUGA,HMGB3,high mobility group box 3
+295,93,AUUCAUUUGUAAUUAGAGGUGA,LRP6,LDL receptor related protein 6
+296,93,AUUCAUUUGUAAUUAGAGGUGA,HNMT,histamine N-methyltransferase
+297,93,AUUCAUUUGUAAUUAGAGGUGA,ZFP36L1,ZFP36 ring finger protein like 1
+298,93,AUUCAUUUGUAAUUAGAGGUGA,ENOPH1,enolase-phosphatase 1
+299,93,AUUCAUUUGUAAUUAGAGGUGA,TOX3,TOX high mobility group box family member 3
+300,93,AUUCAUUUGUAAUUAGAGGUGA,ADGRE2,adhesion G protein-coupled receptor E2
+301,93,AUUCAUUUGUAAUUAGAGGUGA,AFF2,AF4/FMR2 family member 2
+302,93,AUUCAUUUGUAAUUAGAGGUGA,CTSO,cathepsin O
+303,93,AUUCAUUUGUAAUUAGAGGUGA,KAT6A,lysine acetyltransferase 6A
+304,93,AUUCAUUUGUAAUUAGAGGUGA,USP51,ubiquitin specific peptidase 51
+305,93,AUUCAUUUGUAAUUAGAGGUGA,TRAF6,TNF receptor associated factor 6
+306,93,AUUCAUUUGUAAUUAGAGGUGA,NTM,neurotrimin
+307,93,AUUCAUUUGUAAUUAGAGGUGA,F13A1,coagulation factor XIII A chain
+308,93,AUUCAUUUGUAAUUAGAGGUGA,ZNF652,zinc finger protein 652
+309,93,AUUCAUUUGUAAUUAGAGGUGA,CLEC12B,C-type lectin domain family 12 member B
+310,93,AUUCAUUUGUAAUUAGAGGUGA,RRN3,"RRN3 homolog, RNA polymerase I transcription factor"
+311,93,AUUCAUUUGUAAUUAGAGGUGA,FBXW7,F-box and WD repeat domain containing 7
+312,93,AUUCAUUUGUAAUUAGAGGUGA,TMCO3,transmembrane and coiled-coil domains 3
+313,93,AUUCAUUUGUAAUUAGAGGUGA,VAMP4,vesicle associated membrane protein 4
+314,93,AUUCAUUUGUAAUUAGAGGUGA,CD2AP,CD2 associated protein
+315,93,AUUCAUUUGUAAUUAGAGGUGA,MBTPS2,"membrane bound transcription factor peptidase, site 2"
+316,93,AUUCAUUUGUAAUUAGAGGUGA,IL1RAP,interleukin 1 receptor accessory protein
+317,93,AUUCAUUUGUAAUUAGAGGUGA,WDR89,WD repeat domain 89
+318,93,AUUCAUUUGUAAUUAGAGGUGA,ALX1,ALX homeobox 1
+319,93,AUUCAUUUGUAAUUAGAGGUGA,CROT,carnitine O-octanoyltransferase
+320,93,AUUCAUUUGUAAUUAGAGGUGA,ZNF528,zinc finger protein 528
+321,93,AUUCAUUUGUAAUUAGAGGUGA,C12orf50,chromosome 12 open reading frame 50
+322,93,AUUCAUUUGUAAUUAGAGGUGA,HIPK3,homeodomain interacting protein kinase 3
+323,93,AUUCAUUUGUAAUUAGAGGUGA,PAIP1,poly(A) binding protein interacting protein 1
+324,93,AUUCAUUUGUAAUUAGAGGUGA,POLR3K,RNA polymerase III subunit K
+325,93,AUUCAUUUGUAAUUAGAGGUGA,TFAP2D,transcription factor AP-2 delta
+326,93,AUUCAUUUGUAAUUAGAGGUGA,CLIC6,chloride intracellular channel 6
+327,93,AUUCAUUUGUAAUUAGAGGUGA,NOVA1,NOVA alternative splicing regulator 1
+328,93,AUUCAUUUGUAAUUAGAGGUGA,TRIP11,thyroid hormone receptor interactor 11
+329,93,AUUCAUUUGUAAUUAGAGGUGA,CASC3,"CASC3, exon junction complex subunit"
+330,93,AUUCAUUUGUAAUUAGAGGUGA,SEC24B,"SEC24 homolog B, COPII coat complex component"
+331,93,AUUCAUUUGUAAUUAGAGGUGA,ZFR,zinc finger RNA binding protein
+332,93,AUUCAUUUGUAAUUAGAGGUGA,AMD1,adenosylmethionine decarboxylase 1
+333,93,AUUCAUUUGUAAUUAGAGGUGA,DCDC2,doublecortin domain containing 2
+334,93,AUUCAUUUGUAAUUAGAGGUGA,POU2F1,POU class 2 homeobox 1
+335,93,AUUCAUUUGUAAUUAGAGGUGA,MOSPD2,motile sperm domain containing 2
+336,93,AUUCAUUUGUAAUUAGAGGUGA,TBL1XR1,transducin beta like 1 X-linked receptor 1
+337,93,AUUCAUUUGUAAUUAGAGGUGA,GPR180,G protein-coupled receptor 180
+338,93,AUUCAUUUGUAAUUAGAGGUGA,ACO1,aconitase 1
+339,93,AUUCAUUUGUAAUUAGAGGUGA,AGFG1,ArfGAP with FG repeats 1
+340,93,AUUCAUUUGUAAUUAGAGGUGA,TRMT5,tRNA methyltransferase 5
+341,93,AUUCAUUUGUAAUUAGAGGUGA,TP53RK,TP53 regulating kinase
+342,93,AUUCAUUUGUAAUUAGAGGUGA,LSM8,"LSM8 homolog, U6 small nuclear RNA associated"
+343,93,AUUCAUUUGUAAUUAGAGGUGA,FAM131B,family with sequence similarity 131 member B
+344,93,AUUCAUUUGUAAUUAGAGGUGA,ATE1,arginyltransferase 1
+345,93,AUUCAUUUGUAAUUAGAGGUGA,ZNF430,zinc finger protein 430
+346,93,AUUCAUUUGUAAUUAGAGGUGA,PNISR,PNN interacting serine and arginine rich protein
+347,93,AUUCAUUUGUAAUUAGAGGUGA,JADE1,jade family PHD finger 1
+348,93,AUUCAUUUGUAAUUAGAGGUGA,SMAD5,SMAD family member 5
+349,93,AUUCAUUUGUAAUUAGAGGUGA,MYO6,myosin VI
+350,93,AUUCAUUUGUAAUUAGAGGUGA,KIAA0040,KIAA0040
+351,93,AUUCAUUUGUAAUUAGAGGUGA,FOXL2NB,FOXL2 neighbor
+352,93,AUUCAUUUGUAAUUAGAGGUGA,DDX60L,DExD/H-box 60 like
+353,93,AUUCAUUUGUAAUUAGAGGUGA,FNIP1,folliculin interacting protein 1
+354,92,AUUCAUUUGUAAUUAGAGGUGA,INSYN2,inhibitory synaptic factor 2A
+355,92,AUUCAUUUGUAAUUAGAGGUGA,SLC25A16,solute carrier family 25 member 16
+356,92,AUUCAUUUGUAAUUAGAGGUGA,TRIM2,tripartite motif containing 2
+357,92,AUUCAUUUGUAAUUAGAGGUGA,ABCD2,ATP binding cassette subfamily D member 2
+358,92,AUUCAUUUGUAAUUAGAGGUGA,EIF4B,eukaryotic translation initiation factor 4B
+359,92,AUUCAUUUGUAAUUAGAGGUGA,RS1,retinoschisin 1
+360,92,AUUCAUUUGUAAUUAGAGGUGA,ADGRB3,adhesion G protein-coupled receptor B3
+361,92,AUUCAUUUGUAAUUAGAGGUGA,SHLD2,shieldin complex subunit 2
+362,92,AUUCAUUUGUAAUUAGAGGUGA,YTHDF3,YTH N6-methyladenosine RNA binding protein 3
+363,92,AUUCAUUUGUAAUUAGAGGUGA,MED14OS,MED14 opposite strand
+364,92,AUUCAUUUGUAAUUAGAGGUGA,FPGT,fucose-1-phosphate guanylyltransferase
+365,92,AUUCAUUUGUAAUUAGAGGUGA,PRTG,protogenin
+366,92,AUUCAUUUGUAAUUAGAGGUGA,ANXA2,annexin A2
+367,92,AUUCAUUUGUAAUUAGAGGUGA,SPON1,spondin 1
+368,92,AUUCAUUUGUAAUUAGAGGUGA,APPL1,"adaptor protein, phosphotyrosine interacting with PH domain and leucine zipper 1"
+369,92,AUUCAUUUGUAAUUAGAGGUGA,KCTD8,potassium channel tetramerization domain containing 8
+370,92,AUUCAUUUGUAAUUAGAGGUGA,NAPEPLD,N-acyl phosphatidylethanolamine phospholipase D
+371,92,AUUCAUUUGUAAUUAGAGGUGA,VEGFC,vascular endothelial growth factor C
+372,92,AUUCAUUUGUAAUUAGAGGUGA,LCP1,lymphocyte cytosolic protein 1
+373,92,AUUCAUUUGUAAUUAGAGGUGA,CHIC1,cysteine rich hydrophobic domain 1
+374,92,AUUCAUUUGUAAUUAGAGGUGA,MKLN1,muskelin 1
+375,92,AUUCAUUUGUAAUUAGAGGUGA,NHLRC3,NHL repeat containing 3
+376,92,AUUCAUUUGUAAUUAGAGGUGA,GLRA3,glycine receptor alpha 3
+377,92,AUUCAUUUGUAAUUAGAGGUGA,PKIB,cAMP-dependent protein kinase inhibitor beta
+378,92,AUUCAUUUGUAAUUAGAGGUGA,BCHE,butyrylcholinesterase
+379,92,AUUCAUUUGUAAUUAGAGGUGA,ZNF503,zinc finger protein 503
+380,92,AUUCAUUUGUAAUUAGAGGUGA,IGSF11,immunoglobulin superfamily member 11
+381,92,AUUCAUUUGUAAUUAGAGGUGA,RPAP2,RNA polymerase II associated protein 2
+382,92,AUUCAUUUGUAAUUAGAGGUGA,CYP2C18,cytochrome P450 family 2 subfamily C member 18
+383,92,AUUCAUUUGUAAUUAGAGGUGA,DHX58,DExH-box helicase 58
+384,92,AUUCAUUUGUAAUUAGAGGUGA,ZNF704,zinc finger protein 704
+385,92,AUUCAUUUGUAAUUAGAGGUGA,FAM136A,family with sequence similarity 136 member A
+386,92,AUUCAUUUGUAAUUAGAGGUGA,TRUB1,TruB pseudouridine synthase family member 1
+387,92,AUUCAUUUGUAAUUAGAGGUGA,ATAD1,"ATPase family, AAA domain containing 1"
+388,92,AUUCAUUUGUAAUUAGAGGUGA,ARHGAP10,Rho GTPase activating protein 10
+389,92,AUUCAUUUGUAAUUAGAGGUGA,HSCB,HscB mitochondrial iron-sulfur cluster cochaperone
+390,92,AUUCAUUUGUAAUUAGAGGUGA,RUNX1T1,RUNX1 translocation partner 1
+391,92,AUUCAUUUGUAAUUAGAGGUGA,TRIM37,tripartite motif containing 37
+392,92,AUUCAUUUGUAAUUAGAGGUGA,TULP4,tubby like protein 4
+393,92,AUUCAUUUGUAAUUAGAGGUGA,PDAP1,PDGFA associated protein 1
+394,92,AUUCAUUUGUAAUUAGAGGUGA,IGIP,IgA inducing protein
+395,92,AUUCAUUUGUAAUUAGAGGUGA,ANGEL2,angel homolog 2
+396,92,AUUCAUUUGUAAUUAGAGGUGA,UGGT1,UDP-glucose glycoprotein glucosyltransferase 1
+397,92,AUUCAUUUGUAAUUAGAGGUGA,SH3TC2,SH3 domain and tetratricopeptide repeats 2
+398,92,AUUCAUUUGUAAUUAGAGGUGA,TDRD5,tudor domain containing 5
+399,92,AUUCAUUUGUAAUUAGAGGUGA,APLP2,amyloid beta precursor like protein 2
+400,92,AUUCAUUUGUAAUUAGAGGUGA,ARMT1,acidic residue methyltransferase 1
+401,92,AUUCAUUUGUAAUUAGAGGUGA,B3GNT5,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 5"
+402,92,AUUCAUUUGUAAUUAGAGGUGA,SPIRE1,spire type actin nucleation factor 1
+403,92,AUUCAUUUGUAAUUAGAGGUGA,KIF21A,kinesin family member 21A
+404,92,AUUCAUUUGUAAUUAGAGGUGA,CDKN1B,cyclin dependent kinase inhibitor 1B
+405,92,AUUCAUUUGUAAUUAGAGGUGA,UBL3,ubiquitin like 3
+406,92,AUUCAUUUGUAAUUAGAGGUGA,RBPJ,recombination signal binding protein for immunoglobulin kappa J region
+407,92,AUUCAUUUGUAAUUAGAGGUGA,FEM1B,fem-1 homolog B
+408,92,AUUCAUUUGUAAUUAGAGGUGA,TTLL3,tubulin tyrosine ligase like 3
+409,92,AUUCAUUUGUAAUUAGAGGUGA,LZTR1,leucine zipper like transcription regulator 1
+410,92,AUUCAUUUGUAAUUAGAGGUGA,RNF212,ring finger protein 212
+411,92,AUUCAUUUGUAAUUAGAGGUGA,SRP19,signal recognition particle 19
+412,91,AUUCAUUUGUAAUUAGAGGUGA,MRPL50,mitochondrial ribosomal protein L50
+413,91,AUUCAUUUGUAAUUAGAGGUGA,SREBF1,sterol regulatory element binding transcription factor 1
+414,91,AUUCAUUUGUAAUUAGAGGUGA,WHAMM,"WAS protein homolog associated with actin, golgi membranes and microtubules"
+415,91,AUUCAUUUGUAAUUAGAGGUGA,NFIB,nuclear factor I B
+416,91,AUUCAUUUGUAAUUAGAGGUGA,GOPC,golgi associated PDZ and coiled-coil motif containing
+417,91,AUUCAUUUGUAAUUAGAGGUGA,CTBS,chitobiase
+418,91,AUUCAUUUGUAAUUAGAGGUGA,ANOS1,anosmin 1
+419,91,AUUCAUUUGUAAUUAGAGGUGA,BCL11B,"BCL11B, BAF complex component"
+420,91,AUUCAUUUGUAAUUAGAGGUGA,CNTNAP2,contactin associated protein like 2
+421,91,AUUCAUUUGUAAUUAGAGGUGA,TCF4,transcription factor 4
+422,91,AUUCAUUUGUAAUUAGAGGUGA,TMEM45A,transmembrane protein 45A
+423,91,AUUCAUUUGUAAUUAGAGGUGA,IRX1,iroquois homeobox 1
+424,91,AUUCAUUUGUAAUUAGAGGUGA,SPATA6,spermatogenesis associated 6
+425,91,AUUCAUUUGUAAUUAGAGGUGA,PRPF39,pre-mRNA processing factor 39
+426,91,AUUCAUUUGUAAUUAGAGGUGA,HPGD,15-hydroxyprostaglandin dehydrogenase
+427,91,AUUCAUUUGUAAUUAGAGGUGA,KCNN3,potassium calcium-activated channel subfamily N member 3
+428,91,AUUCAUUUGUAAUUAGAGGUGA,PAPOLB,poly(A) polymerase beta
+429,91,AUUCAUUUGUAAUUAGAGGUGA,CD180,CD180 molecule
+430,91,AUUCAUUUGUAAUUAGAGGUGA,TMED4,transmembrane p24 trafficking protein 4
+431,91,AUUCAUUUGUAAUUAGAGGUGA,PIK3C2B,phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 beta
+432,91,AUUCAUUUGUAAUUAGAGGUGA,SKIL,SKI like proto-oncogene
+433,91,AUUCAUUUGUAAUUAGAGGUGA,LPCAT1,lysophosphatidylcholine acyltransferase 1
+434,91,AUUCAUUUGUAAUUAGAGGUGA,NAAA,N-acylethanolamine acid amidase
+435,91,AUUCAUUUGUAAUUAGAGGUGA,C8orf44,chromosome 8 open reading frame 44
+436,91,AUUCAUUUGUAAUUAGAGGUGA,SREK1IP1,SREK1 interacting protein 1
+437,91,AUUCAUUUGUAAUUAGAGGUGA,KCNK4,potassium two pore domain channel subfamily K member 4
+438,91,AUUCAUUUGUAAUUAGAGGUGA,KIAA1958,KIAA1958
+439,91,AUUCAUUUGUAAUUAGAGGUGA,RAP2B,"RAP2B, member of RAS oncogene family"
+440,91,AUUCAUUUGUAAUUAGAGGUGA,EPHA7,EPH receptor A7
+441,91,AUUCAUUUGUAAUUAGAGGUGA,GSKIP,GSK3B interacting protein
+442,91,AUUCAUUUGUAAUUAGAGGUGA,L2HGDH,L-2-hydroxyglutarate dehydrogenase
+443,91,AUUCAUUUGUAAUUAGAGGUGA,GJA1,gap junction protein alpha 1
+444,91,AUUCAUUUGUAAUUAGAGGUGA,SOCS6,suppressor of cytokine signaling 6
+445,91,AUUCAUUUGUAAUUAGAGGUGA,ZNF304,zinc finger protein 304
+446,91,AUUCAUUUGUAAUUAGAGGUGA,B4GALNT4,"beta-1,4-N-acetyl-galactosaminyltransferase 4"
+447,91,AUUCAUUUGUAAUUAGAGGUGA,IAPP,islet amyloid polypeptide
+448,91,AUUCAUUUGUAAUUAGAGGUGA,ADAM9,ADAM metallopeptidase domain 9
+449,91,AUUCAUUUGUAAUUAGAGGUGA,ZNF202,zinc finger protein 202
+450,91,AUUCAUUUGUAAUUAGAGGUGA,OR11A1,olfactory receptor family 11 subfamily A member 1
+451,91,AUUCAUUUGUAAUUAGAGGUGA,PCM1,pericentriolar material 1
+452,91,AUUCAUUUGUAAUUAGAGGUGA,ATP5PB,ATP synthase peripheral stalk-membrane subunit b
+453,91,AUUCAUUUGUAAUUAGAGGUGA,OSBPL3,oxysterol binding protein like 3
+454,91,AUUCAUUUGUAAUUAGAGGUGA,SPATA18,spermatogenesis associated 18
+455,91,AUUCAUUUGUAAUUAGAGGUGA,STARD13,StAR related lipid transfer domain containing 13
+456,91,AUUCAUUUGUAAUUAGAGGUGA,TRAPPC13,trafficking protein particle complex 13
+457,91,AUUCAUUUGUAAUUAGAGGUGA,CDK13,cyclin dependent kinase 13
+458,91,AUUCAUUUGUAAUUAGAGGUGA,ARPC4-TTLL3,ARPC4-TTLL3 readthrough
+459,91,AUUCAUUUGUAAUUAGAGGUGA,ZNF277,zinc finger protein 277
+460,91,AUUCAUUUGUAAUUAGAGGUGA,TAOK1,TAO kinase 1
+1,98,AUGAAGUCAGACAAAUCGCUCC,RNF11,ring finger protein 11
+2,97,AUGAAGUCAGACAAAUCGCUCC,ERO1B,endoplasmic reticulum oxidoreductase 1 beta
+3,96,AUGAAGUCAGACAAAUCGCUCC,RUFY3,RUN and FYVE domain containing 3
+4,94,AUGAAGUCAGACAAAUCGCUCC,SLC2A13,solute carrier family 2 member 13
+5,94,AUGAAGUCAGACAAAUCGCUCC,MANF,mesencephalic astrocyte derived neurotrophic factor
+6,94,AUGAAGUCAGACAAAUCGCUCC,NR4A2,nuclear receptor subfamily 4 group A member 2
+7,93,AUGAAGUCAGACAAAUCGCUCC,ARHGEF12,Rho guanine nucleotide exchange factor 12
+8,93,AUGAAGUCAGACAAAUCGCUCC,TRDN,triadin
+9,93,AUGAAGUCAGACAAAUCGCUCC,LHX3,LIM homeobox 3
+10,93,AUGAAGUCAGACAAAUCGCUCC,KCNV1,potassium voltage-gated channel modifier subfamily V member 1
+11,93,AUGAAGUCAGACAAAUCGCUCC,PHF20,PHD finger protein 20
+12,92,AUGAAGUCAGACAAAUCGCUCC,SH3BP5,SH3 domain binding protein 5
+13,92,AUGAAGUCAGACAAAUCGCUCC,CPSF6,cleavage and polyadenylation specific factor 6
+14,92,AUGAAGUCAGACAAAUCGCUCC,DTHD1,death domain containing 1
+15,92,AUGAAGUCAGACAAAUCGCUCC,EPC1,enhancer of polycomb homolog 1
+16,91,AUGAAGUCAGACAAAUCGCUCC,NF1,neurofibromin 1
+17,91,AUGAAGUCAGACAAAUCGCUCC,XPO5,exportin 5
+18,91,AUGAAGUCAGACAAAUCGCUCC,KRT38,keratin 38
+19,91,AUGAAGUCAGACAAAUCGCUCC,KCNMB2,potassium calcium-activated channel subfamily M regulatory beta subunit 2
+20,91,AUGAAGUCAGACAAAUCGCUCC,CPEB2,cytoplasmic polyadenylation element binding protein 2
+21,91,AUGAAGUCAGACAAAUCGCUCC,ZNF208,zinc finger protein 208
+22,91,AUGAAGUCAGACAAAUCGCUCC,FST,follistatin
+1,96,AAGAUUGCUGAUUAUAAUUAUA,CDH13,cadherin 13
+2,94,AAGAUUGCUGAUUAUAAUUAUA,HOMER1,homer scaffold protein 1
+3,94,AAGAUUGCUGAUUAUAAUUAUA,CNOT7,CCR4-NOT transcription complex subunit 7
+4,93,AAGAUUGCUGAUUAUAAUUAUA,INSM1,INSM transcriptional repressor 1
+5,92,AAGAUUGCUGAUUAUAAUUAUA,ORC5,origin recognition complex subunit 5
+6,92,AAGAUUGCUGAUUAUAAUUAUA,TVP23B,trans-golgi network vesicle protein 23 homolog B
+7,91,AAGAUUGCUGAUUAUAAUUAUA,IPO7,importin 7
+8,91,AAGAUUGCUGAUUAUAAUUAUA,FSTL5,follistatin like 5
+1,97,UAUGAGCAGUAUAUAAAAUGGC,UBE2D3,ubiquitin conjugating enzyme E2 D3
+2,96,UAUGAGCAGUAUAUAAAAUGGC,NELL1,neural EGFL like 1
+3,95,UAUGAGCAGUAUAUAAAAUGGC,BOLA3,bolA family member 3
+4,94,UAUGAGCAGUAUAUAAAAUGGC,TSPOAP1,TSPO associated protein 1
+5,93,UAUGAGCAGUAUAUAAAAUGGC,REEP5,receptor accessory protein 5
+6,93,UAUGAGCAGUAUAUAAAAUGGC,EIF4A2,eukaryotic translation initiation factor 4A2
+7,93,UAUGAGCAGUAUAUAAAAUGGC,NLRP3,NLR family pyrin domain containing 3
+8,93,UAUGAGCAGUAUAUAAAAUGGC,PLEKHG1,pleckstrin homology and RhoGEF domain containing G1
+9,92,UAUGAGCAGUAUAUAAAAUGGC,CYP2C9,cytochrome P450 family 2 subfamily C member 9
+10,92,UAUGAGCAGUAUAUAAAAUGGC,MFN2,mitofusin 2
+11,92,UAUGAGCAGUAUAUAAAAUGGC,PRKAR1A,protein kinase cAMP-dependent type I regulatory subunit alpha
+12,92,UAUGAGCAGUAUAUAAAAUGGC,ZNF280C,zinc finger protein 280C
+13,91,UAUGAGCAGUAUAUAAAAUGGC,NUDT15,nudix hydrolase 15
+14,91,UAUGAGCAGUAUAUAAAAUGGC,HTR4,5-hydroxytryptamine receptor 4
+15,91,UAUGAGCAGUAUAUAAAAUGGC,CEP350,centrosomal protein 350
+1,100,UAGGUUUUAUAGCUGGCUUGAU,ATMIN,ATM interactor
+2,99,UAGGUUUUAUAGCUGGCUUGAU,CEP68,centrosomal protein 68
+3,98,UAGGUUUUAUAGCUGGCUUGAU,OPRM1,opioid receptor mu 1
+4,98,UAGGUUUUAUAGCUGGCUUGAU,SRSF2,serine and arginine rich splicing factor 2
+5,98,UAGGUUUUAUAGCUGGCUUGAU,DENND1B,DENN domain containing 1B
+6,98,UAGGUUUUAUAGCUGGCUUGAU,ABCG4,ATP binding cassette subfamily G member 4
+7,97,UAGGUUUUAUAGCUGGCUUGAU,HIKESHI,"Hikeshi, heat shock protein nuclear import factor"
+8,97,UAGGUUUUAUAGCUGGCUUGAU,SLITRK4,SLIT and NTRK like family member 4
+9,97,UAGGUUUUAUAGCUGGCUUGAU,RCHY1,ring finger and CHY zinc finger domain containing 1
+10,96,UAGGUUUUAUAGCUGGCUUGAU,CDK14,cyclin dependent kinase 14
+11,96,UAGGUUUUAUAGCUGGCUUGAU,ALDH3A2,aldehyde dehydrogenase 3 family member A2
+12,95,UAGGUUUUAUAGCUGGCUUGAU,GREM1,"gremlin 1, DAN family BMP antagonist"
+13,95,UAGGUUUUAUAGCUGGCUUGAU,ZNF37A,zinc finger protein 37A
+14,95,UAGGUUUUAUAGCUGGCUUGAU,C5orf38,chromosome 5 open reading frame 38
+15,94,UAGGUUUUAUAGCUGGCUUGAU,CTBS,chitobiase
+16,94,UAGGUUUUAUAGCUGGCUUGAU,NAA15,"N(alpha)-acetyltransferase 15, NatA auxiliary subunit"
+17,94,UAGGUUUUAUAGCUGGCUUGAU,MTSS1,"MTSS1, I-BAR domain containing"
+18,94,UAGGUUUUAUAGCUGGCUUGAU,IRAK3,interleukin 1 receptor associated kinase 3
+19,94,UAGGUUUUAUAGCUGGCUUGAU,C17orf50,chromosome 17 open reading frame 50
+20,94,UAGGUUUUAUAGCUGGCUUGAU,TMEFF2,transmembrane protein with EGF like and two follistatin like domains 2
+21,93,UAGGUUUUAUAGCUGGCUUGAU,SKA2,spindle and kinetochore associated complex subunit 2
+22,93,UAGGUUUUAUAGCUGGCUUGAU,RSL1D1,ribosomal L1 domain containing 1
+23,93,UAGGUUUUAUAGCUGGCUUGAU,SAMSN1,"SAM domain, SH3 domain and nuclear localization signals 1"
+24,93,UAGGUUUUAUAGCUGGCUUGAU,ZNF354C,zinc finger protein 354C
+25,93,UAGGUUUUAUAGCUGGCUUGAU,ZNF480,zinc finger protein 480
+26,93,UAGGUUUUAUAGCUGGCUUGAU,NUP35,nucleoporin 35
+27,93,UAGGUUUUAUAGCUGGCUUGAU,PABPC4L,poly(A) binding protein cytoplasmic 4 like
+28,93,UAGGUUUUAUAGCUGGCUUGAU,GLRX,glutaredoxin
+29,93,UAGGUUUUAUAGCUGGCUUGAU,DUS4L,dihydrouridine synthase 4 like
+30,93,UAGGUUUUAUAGCUGGCUUGAU,GPM6B,glycoprotein M6B
+31,92,UAGGUUUUAUAGCUGGCUUGAU,PTRH2,peptidyl-tRNA hydrolase 2
+32,92,UAGGUUUUAUAGCUGGCUUGAU,MAFB,MAF bZIP transcription factor B
+33,92,UAGGUUUUAUAGCUGGCUUGAU,TOGARAM1,TOG array regulator of axonemal microtubules 1
+34,92,UAGGUUUUAUAGCUGGCUUGAU,PMP22,peripheral myelin protein 22
+35,92,UAGGUUUUAUAGCUGGCUUGAU,SCPEP1,serine carboxypeptidase 1
+36,92,UAGGUUUUAUAGCUGGCUUGAU,ICK,intestinal cell kinase
+37,92,UAGGUUUUAUAGCUGGCUUGAU,ABHD17B,abhydrolase domain containing 17B
+38,92,UAGGUUUUAUAGCUGGCUUGAU,IQCK,IQ motif containing K
+39,92,UAGGUUUUAUAGCUGGCUUGAU,RAP1B,"RAP1B, member of RAS oncogene family"
+40,91,UAGGUUUUAUAGCUGGCUUGAU,DIRC1,disrupted in renal carcinoma 1
+41,91,UAGGUUUUAUAGCUGGCUUGAU,EML4,EMAP like 4
+42,91,UAGGUUUUAUAGCUGGCUUGAU,AEBP2,AE binding protein 2
+43,91,UAGGUUUUAUAGCUGGCUUGAU,ENAH,"ENAH, actin regulator"
+44,91,UAGGUUUUAUAGCUGGCUUGAU,MIB1,mindbomb E3 ubiquitin protein ligase 1
+45,91,UAGGUUUUAUAGCUGGCUUGAU,NOCT,nocturnin
+46,91,UAGGUUUUAUAGCUGGCUUGAU,POMC,proopiomelanocortin
+47,91,UAGGUUUUAUAGCUGGCUUGAU,MAPK8,mitogen-activated protein kinase 8
+48,91,UAGGUUUUAUAGCUGGCUUGAU,CRNN,cornulin
+49,91,UAGGUUUUAUAGCUGGCUUGAU,BMT2,base methyltransferase of 25S rRNA 2 homolog
+1,98,UCAUUACUUCAGGUGAUGGCAC,ZIC2,Zic family member 2
+2,96,UCAUUACUUCAGGUGAUGGCAC,PIAS2,protein inhibitor of activated STAT 2
+3,96,UCAUUACUUCAGGUGAUGGCAC,LHX9,LIM homeobox 9
+4,95,UCAUUACUUCAGGUGAUGGCAC,TSHZ2,teashirt zinc finger homeobox 2
+5,95,UCAUUACUUCAGGUGAUGGCAC,THAP5,THAP domain containing 5
+6,95,UCAUUACUUCAGGUGAUGGCAC,HTR1F,5-hydroxytryptamine receptor 1F
+7,95,UCAUUACUUCAGGUGAUGGCAC,EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit
+8,95,UCAUUACUUCAGGUGAUGGCAC,ADAMTS6,ADAM metallopeptidase with thrombospondin type 1 motif 6
+9,94,UCAUUACUUCAGGUGAUGGCAC,IL1RAP,interleukin 1 receptor accessory protein
+10,94,UCAUUACUUCAGGUGAUGGCAC,C11orf97,chromosome 11 open reading frame 97
+11,93,UCAUUACUUCAGGUGAUGGCAC,GNS,glucosamine (N-acetyl)-6-sulfatase
+12,93,UCAUUACUUCAGGUGAUGGCAC,RNF32,ring finger protein 32
+13,92,UCAUUACUUCAGGUGAUGGCAC,GMFB,glia maturation factor beta
+14,92,UCAUUACUUCAGGUGAUGGCAC,SI,sucrase-isomaltase
+15,92,UCAUUACUUCAGGUGAUGGCAC,ENY2,"ENY2, transcription and export complex 2 subunit"
+16,91,UCAUUACUUCAGGUGAUGGCAC,MRPL10,mitochondrial ribosomal protein L10
+17,91,UCAUUACUUCAGGUGAUGGCAC,SEC23A,"Sec23 homolog A, coat complex II component"
+18,91,UCAUUACUUCAGGUGAUGGCAC,TBR1,"T-box, brain 1"
+19,91,UCAUUACUUCAGGUGAUGGCAC,PRR16,proline rich 16
+1,100,AUAGUGUUUAUAACACUUUGCU,MAP4K3,mitogen-activated protein kinase kinase kinase kinase 3
+2,99,AUAGUGUUUAUAACACUUUGCU,MOSMO,modulator of smoothened
+3,99,AUAGUGUUUAUAACACUUUGCU,RGL2,ral guanine nucleotide dissociation stimulator like 2
+4,99,AUAGUGUUUAUAACACUUUGCU,FRS2,fibroblast growth factor receptor substrate 2
+5,99,AUAGUGUUUAUAACACUUUGCU,HSBP1,heat shock factor binding protein 1
+6,98,AUAGUGUUUAUAACACUUUGCU,C2CD2,C2 calcium dependent domain containing 2
+7,98,AUAGUGUUUAUAACACUUUGCU,SOS1,SOS Ras/Rac guanine nucleotide exchange factor 1
+8,98,AUAGUGUUUAUAACACUUUGCU,KCTD3,potassium channel tetramerization domain containing 3
+9,98,AUAGUGUUUAUAACACUUUGCU,KMT2A,lysine methyltransferase 2A
+10,97,AUAGUGUUUAUAACACUUUGCU,PKN2,protein kinase N2
+11,97,AUAGUGUUUAUAACACUUUGCU,ASH1L,ASH1 like histone lysine methyltransferase
+12,97,AUAGUGUUUAUAACACUUUGCU,CFL2,cofilin 2
+13,97,AUAGUGUUUAUAACACUUUGCU,CMTM4,CKLF like MARVEL transmembrane domain containing 4
+14,97,AUAGUGUUUAUAACACUUUGCU,CPEB2,cytoplasmic polyadenylation element binding protein 2
+15,97,AUAGUGUUUAUAACACUUUGCU,YAE1,"YAE1, ABCE1 maturation factor"
+16,97,AUAGUGUUUAUAACACUUUGCU,SPAG9,sperm associated antigen 9
+17,97,AUAGUGUUUAUAACACUUUGCU,RHOQ,ras homolog family member Q
+18,97,AUAGUGUUUAUAACACUUUGCU,JADE1,jade family PHD finger 1
+19,97,AUAGUGUUUAUAACACUUUGCU,TMEM181,transmembrane protein 181
+20,97,AUAGUGUUUAUAACACUUUGCU,FNDC3B,fibronectin type III domain containing 3B
+21,96,AUAGUGUUUAUAACACUUUGCU,TNFRSF1A,TNF receptor superfamily member 1A
+22,96,AUAGUGUUUAUAACACUUUGCU,ATF7,activating transcription factor 7
+23,96,AUAGUGUUUAUAACACUUUGCU,LHFPL5,LHFPL tetraspan subfamily member 5
+24,96,AUAGUGUUUAUAACACUUUGCU,PGM3,phosphoglucomutase 3
+25,96,AUAGUGUUUAUAACACUUUGCU,TSC22D2,TSC22 domain family member 2
+26,96,AUAGUGUUUAUAACACUUUGCU,SAMD8,sterile alpha motif domain containing 8
+27,96,AUAGUGUUUAUAACACUUUGCU,SH2B3,SH2B adaptor protein 3
+28,96,AUAGUGUUUAUAACACUUUGCU,UBP1,upstream binding protein 1
+29,96,AUAGUGUUUAUAACACUUUGCU,CTLA4,cytotoxic T-lymphocyte associated protein 4
+30,95,AUAGUGUUUAUAACACUUUGCU,RICTOR,RPTOR independent companion of MTOR complex 2
+31,95,AUAGUGUUUAUAACACUUUGCU,DRAM1,DNA damage regulated autophagy modulator 1
+32,95,AUAGUGUUUAUAACACUUUGCU,GAS2L3,growth arrest specific 2 like 3
+33,95,AUAGUGUUUAUAACACUUUGCU,CDKN1B,cyclin dependent kinase inhibitor 1B
+34,95,AUAGUGUUUAUAACACUUUGCU,LPAR1,lysophosphatidic acid receptor 1
+35,95,AUAGUGUUUAUAACACUUUGCU,ANLN,anillin actin binding protein
+36,94,AUAGUGUUUAUAACACUUUGCU,CPEB4,cytoplasmic polyadenylation element binding protein 4
+37,94,AUAGUGUUUAUAACACUUUGCU,MTFR1,mitochondrial fission regulator 1
+38,94,AUAGUGUUUAUAACACUUUGCU,SP100,SP100 nuclear antigen
+39,94,AUAGUGUUUAUAACACUUUGCU,SLC25A53,solute carrier family 25 member 53
+40,94,AUAGUGUUUAUAACACUUUGCU,ANK2,ankyrin 2
+41,94,AUAGUGUUUAUAACACUUUGCU,CLOCK,clock circadian regulator
+42,94,AUAGUGUUUAUAACACUUUGCU,SPPL3,signal peptide peptidase like 3
+43,94,AUAGUGUUUAUAACACUUUGCU,DAG1,dystroglycan 1
+44,94,AUAGUGUUUAUAACACUUUGCU,DVL1,dishevelled segment polarity protein 1
+45,94,AUAGUGUUUAUAACACUUUGCU,RAB11FIP2,RAB11 family interacting protein 2
+46,93,AUAGUGUUUAUAACACUUUGCU,1-Mar,membrane associated ring-CH-type finger 1
+47,93,AUAGUGUUUAUAACACUUUGCU,CXADR,"CXADR, Ig-like cell adhesion molecule"
+48,93,AUAGUGUUUAUAACACUUUGCU,ACVR2A,activin A receptor type 2A
+49,93,AUAGUGUUUAUAACACUUUGCU,PTPN13,"protein tyrosine phosphatase, non-receptor type 13"
+50,93,AUAGUGUUUAUAACACUUUGCU,HDLBP,high density lipoprotein binding protein
+51,93,AUAGUGUUUAUAACACUUUGCU,TRPS1,transcriptional repressor GATA binding 1
+52,93,AUAGUGUUUAUAACACUUUGCU,ZNF827,zinc finger protein 827
+53,93,AUAGUGUUUAUAACACUUUGCU,VAMP3,vesicle associated membrane protein 3
+54,92,AUAGUGUUUAUAACACUUUGCU,ATRN,attractin
+55,92,AUAGUGUUUAUAACACUUUGCU,CTNND1,catenin delta 1
+56,92,AUAGUGUUUAUAACACUUUGCU,SUCO,SUN domain containing ossification factor
+57,92,AUAGUGUUUAUAACACUUUGCU,TAOK1,TAO kinase 1
+58,92,AUAGUGUUUAUAACACUUUGCU,MYEF2,myelin expression factor 2
+59,92,AUAGUGUUUAUAACACUUUGCU,TLCD1,TLC domain containing 1
+60,92,AUAGUGUUUAUAACACUUUGCU,FOSL1,"FOS like 1, AP-1 transcription factor subunit"
+61,92,AUAGUGUUUAUAACACUUUGCU,SETBP1,SET binding protein 1
+62,92,AUAGUGUUUAUAACACUUUGCU,AKAP6,A-kinase anchoring protein 6
+63,92,AUAGUGUUUAUAACACUUUGCU,VCAN,versican
+64,92,AUAGUGUUUAUAACACUUUGCU,TMEM59,transmembrane protein 59
+65,92,AUAGUGUUUAUAACACUUUGCU,AFF4,AF4/FMR2 family member 4
+66,92,AUAGUGUUUAUAACACUUUGCU,ANKS1B,ankyrin repeat and sterile alpha motif domain containing 1B
+67,91,AUAGUGUUUAUAACACUUUGCU,KCTD12,potassium channel tetramerization domain containing 12
+68,91,AUAGUGUUUAUAACACUUUGCU,NAB1,NGFI-A binding protein 1
+69,91,AUAGUGUUUAUAACACUUUGCU,IFNGR2,interferon gamma receptor 2
+70,91,AUAGUGUUUAUAACACUUUGCU,CCDC6,coiled-coil domain containing 6
+71,91,AUAGUGUUUAUAACACUUUGCU,CSRP2,cysteine and glycine rich protein 2
+72,91,AUAGUGUUUAUAACACUUUGCU,OLFM1,olfactomedin 1
+73,91,AUAGUGUUUAUAACACUUUGCU,SLC23A2,solute carrier family 23 member 2
+74,91,AUAGUGUUUAUAACACUUUGCU,ECT2,epithelial cell transforming 2
+75,91,AUAGUGUUUAUAACACUUUGCU,ZFYVE9,zinc finger FYVE-type containing 9
+1,99,UUUGCUUCACACUCAAAAGAAA,MAB21L2,mab-21 like 2
+2,99,UUUGCUUCACACUCAAAAGAAA,FBXL3,F-box and leucine rich repeat protein 3
+3,98,UUUGCUUCACACUCAAAAGAAA,HDAC2,histone deacetylase 2
+4,98,UUUGCUUCACACUCAAAAGAAA,MIP,major intrinsic protein of lens fiber
+5,98,UUUGCUUCACACUCAAAAGAAA,BMPR2,bone morphogenetic protein receptor type 2
+6,98,UUUGCUUCACACUCAAAAGAAA,NPAP1,nuclear pore associated protein 1
+7,98,UUUGCUUCACACUCAAAAGAAA,CANX,calnexin
+8,97,UUUGCUUCACACUCAAAAGAAA,LAMC1,laminin subunit gamma 1
+9,97,UUUGCUUCACACUCAAAAGAAA,BBX,"BBX, HMG-box containing"
+10,97,UUUGCUUCACACUCAAAAGAAA,CUL4B,cullin 4B
+11,97,UUUGCUUCACACUCAAAAGAAA,GXYLT1,glucoside xylosyltransferase 1
+12,97,UUUGCUUCACACUCAAAAGAAA,ABLIM1,actin binding LIM protein 1
+13,97,UUUGCUUCACACUCAAAAGAAA,BAAT,bile acid-CoA:amino acid N-acyltransferase
+14,97,UUUGCUUCACACUCAAAAGAAA,ERBIN,erbb2 interacting protein
+15,97,UUUGCUUCACACUCAAAAGAAA,ZNF106,zinc finger protein 106
+16,97,UUUGCUUCACACUCAAAAGAAA,IKZF2,IKAROS family zinc finger 2
+17,96,UUUGCUUCACACUCAAAAGAAA,SORBS1,sorbin and SH3 domain containing 1
+18,96,UUUGCUUCACACUCAAAAGAAA,NEGR1,neuronal growth regulator 1
+19,96,UUUGCUUCACACUCAAAAGAAA,EDEM3,ER degradation enhancing alpha-mannosidase like protein 3
+20,96,UUUGCUUCACACUCAAAAGAAA,TMCC1,transmembrane and coiled-coil domain family 1
+21,96,UUUGCUUCACACUCAAAAGAAA,AEBP2,AE binding protein 2
+22,96,UUUGCUUCACACUCAAAAGAAA,SLC22A24,solute carrier family 22 member 24
+23,96,UUUGCUUCACACUCAAAAGAAA,ATF7IP,activating transcription factor 7 interacting protein
+24,96,UUUGCUUCACACUCAAAAGAAA,CPSF6,cleavage and polyadenylation specific factor 6
+25,96,UUUGCUUCACACUCAAAAGAAA,PRKAA2,protein kinase AMP-activated catalytic subunit alpha 2
+26,96,UUUGCUUCACACUCAAAAGAAA,SLC25A46,solute carrier family 25 member 46
+27,96,UUUGCUUCACACUCAAAAGAAA,ABCB10,ATP binding cassette subfamily B member 10
+28,95,UUUGCUUCACACUCAAAAGAAA,PCMTD1,protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 1
+29,95,UUUGCUUCACACUCAAAAGAAA,OPRM1,opioid receptor mu 1
+30,95,UUUGCUUCACACUCAAAAGAAA,ENC1,ectodermal-neural cortex 1
+31,95,UUUGCUUCACACUCAAAAGAAA,PTPN4,"protein tyrosine phosphatase, non-receptor type 4"
+32,95,UUUGCUUCACACUCAAAAGAAA,RRAGD,Ras related GTP binding D
+33,95,UUUGCUUCACACUCAAAAGAAA,GABRB2,gamma-aminobutyric acid type A receptor beta2 subunit
+34,95,UUUGCUUCACACUCAAAAGAAA,GPR82,G protein-coupled receptor 82
+35,95,UUUGCUUCACACUCAAAAGAAA,NAA15,"N(alpha)-acetyltransferase 15, NatA auxiliary subunit"
+36,94,UUUGCUUCACACUCAAAAGAAA,FAM237A,family with sequence similarity 237 member A
+37,94,UUUGCUUCACACUCAAAAGAAA,LTN1,listerin E3 ubiquitin protein ligase 1
+38,94,UUUGCUUCACACUCAAAAGAAA,ARID1B,AT-rich interaction domain 1B
+39,94,UUUGCUUCACACUCAAAAGAAA,PRPF40A,pre-mRNA processing factor 40 homolog A
+40,94,UUUGCUUCACACUCAAAAGAAA,GPCPD1,glycerophosphocholine phosphodiesterase 1
+41,94,UUUGCUUCACACUCAAAAGAAA,RWDD3,RWD domain containing 3
+42,94,UUUGCUUCACACUCAAAAGAAA,ARHGAP25,Rho GTPase activating protein 25
+43,94,UUUGCUUCACACUCAAAAGAAA,MAP1B,microtubule associated protein 1B
+44,93,UUUGCUUCACACUCAAAAGAAA,TET1,tet methylcytosine dioxygenase 1
+45,93,UUUGCUUCACACUCAAAAGAAA,DLC1,DLC1 Rho GTPase activating protein
+46,93,UUUGCUUCACACUCAAAAGAAA,ETS1,"ETS proto-oncogene 1, transcription factor"
+47,93,UUUGCUUCACACUCAAAAGAAA,MCTS1,"MCTS1, re-initiation and release factor"
+48,93,UUUGCUUCACACUCAAAAGAAA,CXorf21,chromosome X open reading frame 21
+49,93,UUUGCUUCACACUCAAAAGAAA,MCL1,"MCL1, BCL2 family apoptosis regulator"
+50,93,UUUGCUUCACACUCAAAAGAAA,GPATCH2,G-patch domain containing 2
+51,93,UUUGCUUCACACUCAAAAGAAA,AGO1,argonaute RISC catalytic component 1
+52,93,UUUGCUUCACACUCAAAAGAAA,GUCY1A1,guanylate cyclase 1 soluble subunit alpha 1
+53,93,UUUGCUUCACACUCAAAAGAAA,TSC22D2,TSC22 domain family member 2
+54,93,UUUGCUUCACACUCAAAAGAAA,MARK1,microtubule affinity regulating kinase 1
+55,93,UUUGCUUCACACUCAAAAGAAA,UBE4B,ubiquitination factor E4B
+56,93,UUUGCUUCACACUCAAAAGAAA,HDAC9,histone deacetylase 9
+57,92,UUUGCUUCACACUCAAAAGAAA,MBNL3,muscleblind like splicing regulator 3
+58,92,UUUGCUUCACACUCAAAAGAAA,CNNM4,cyclin and CBS domain divalent metal cation transport mediator 4
+59,92,UUUGCUUCACACUCAAAAGAAA,GLP2R,glucagon like peptide 2 receptor
+60,92,UUUGCUUCACACUCAAAAGAAA,FAM84B,family with sequence similarity 84 member B
+61,92,UUUGCUUCACACUCAAAAGAAA,SGK3,serum/glucocorticoid regulated kinase family member 3
+62,92,UUUGCUUCACACUCAAAAGAAA,C8orf44-SGK3,C8orf44-SGK3 readthrough
+63,92,UUUGCUUCACACUCAAAAGAAA,SRSF1,serine and arginine rich splicing factor 1
+64,92,UUUGCUUCACACUCAAAAGAAA,USP49,ubiquitin specific peptidase 49
+65,92,UUUGCUUCACACUCAAAAGAAA,CDC73,cell division cycle 73
+66,92,UUUGCUUCACACUCAAAAGAAA,FRZB,frizzled related protein
+67,92,UUUGCUUCACACUCAAAAGAAA,RBMX,RNA binding motif protein X-linked
+68,92,UUUGCUUCACACUCAAAAGAAA,DNM3,dynamin 3
+69,92,UUUGCUUCACACUCAAAAGAAA,DDC,dopa decarboxylase
+70,92,UUUGCUUCACACUCAAAAGAAA,TMPRSS11E,transmembrane serine protease 11E
+71,91,UUUGCUUCACACUCAAAAGAAA,TADA2B,transcriptional adaptor 2B
+72,91,UUUGCUUCACACUCAAAAGAAA,TMEM164,transmembrane protein 164
+73,91,UUUGCUUCACACUCAAAAGAAA,PAK2,p21 (RAC1) activated kinase 2
+74,91,UUUGCUUCACACUCAAAAGAAA,TBC1D8B,TBC1 domain family member 8B
+75,91,UUUGCUUCACACUCAAAAGAAA,DSTN,"destrin, actin depolymerizing factor"
+76,91,UUUGCUUCACACUCAAAAGAAA,SLC8A1,solute carrier family 8 member A1
+77,91,UUUGCUUCACACUCAAAAGAAA,DCUN1D1,defective in cullin neddylation 1 domain containing 1
+78,91,UUUGCUUCACACUCAAAAGAAA,GPC6,glypican 6
+79,91,UUUGCUUCACACUCAAAAGAAA,WWP2,WW domain containing E3 ubiquitin protein ligase 2
+80,91,UUUGCUUCACACUCAAAAGAAA,BRINP1,BMP/retinoic acid inducible neural specific 1
+81,91,UUUGCUUCACACUCAAAAGAAA,FAM120C,family with sequence similarity 120C
+82,91,UUUGCUUCACACUCAAAAGAAA,FBXO4,F-box protein 4
+83,91,UUUGCUUCACACUCAAAAGAAA,METTL14,methyltransferase like 14
+84,91,UUUGCUUCACACUCAAAAGAAA,OXR1,oxidation resistance 1
+85,91,UUUGCUUCACACUCAAAAGAAA,COPG2,coatomer protein complex subunit gamma 2
+86,91,UUUGCUUCACACUCAAAAGAAA,GABPB1,GA binding protein transcription factor subunit beta 1
+87,91,UUUGCUUCACACUCAAAAGAAA,TGFB2,transforming growth factor beta 2
+1,99,AAAGACAGAAUGAUUGAACUUU,NR4A3,nuclear receptor subfamily 4 group A member 3
+2,99,AAAGACAGAAUGAUUGAACUUU,MYLIP,myosin regulatory light chain interacting protein
+3,99,AAAGACAGAAUGAUUGAACUUU,CREBZF,CREB/ATF bZIP transcription factor
+4,99,AAAGACAGAAUGAUUGAACUUU,PM20D1,peptidase M20 domain containing 1
+5,99,AAAGACAGAAUGAUUGAACUUU,CADM1,cell adhesion molecule 1
+6,98,AAAGACAGAAUGAUUGAACUUU,RFX7,regulatory factor X7
+7,98,AAAGACAGAAUGAUUGAACUUU,FNIP1,folliculin interacting protein 1
+8,98,AAAGACAGAAUGAUUGAACUUU,NCAPG2,non-SMC condensin II complex subunit G2
+9,98,AAAGACAGAAUGAUUGAACUUU,ZC3H4,zinc finger CCCH-type containing 4
+10,98,AAAGACAGAAUGAUUGAACUUU,BRINP3,BMP/retinoic acid inducible neural specific 3
+11,97,AAAGACAGAAUGAUUGAACUUU,DCAF5,DDB1 and CUL4 associated factor 5
+12,97,AAAGACAGAAUGAUUGAACUUU,ERICH3,glutamate rich 3
+13,97,AAAGACAGAAUGAUUGAACUUU,ZFAND5,zinc finger AN1-type containing 5
+14,97,AAAGACAGAAUGAUUGAACUUU,ZC3H12C,zinc finger CCCH-type containing 12C
+15,97,AAAGACAGAAUGAUUGAACUUU,CCDC6,coiled-coil domain containing 6
+16,97,AAAGACAGAAUGAUUGAACUUU,ADK,adenosine kinase
+17,97,AAAGACAGAAUGAUUGAACUUU,SNRK,SNF related kinase
+18,97,AAAGACAGAAUGAUUGAACUUU,RIMS1,regulating synaptic membrane exocytosis 1
+19,96,AAAGACAGAAUGAUUGAACUUU,NCALD,neurocalcin delta
+20,96,AAAGACAGAAUGAUUGAACUUU,OMG,oligodendrocyte myelin glycoprotein
+21,96,AAAGACAGAAUGAUUGAACUUU,EPM2AIP1,EPM2A interacting protein 1
+22,96,AAAGACAGAAUGAUUGAACUUU,SOX6,SRY-box 6
+23,95,AAAGACAGAAUGAUUGAACUUU,TRAF3,TNF receptor associated factor 3
+24,95,AAAGACAGAAUGAUUGAACUUU,SGPL1,sphingosine-1-phosphate lyase 1
+25,95,AAAGACAGAAUGAUUGAACUUU,FAM126B,family with sequence similarity 126 member B
+26,95,AAAGACAGAAUGAUUGAACUUU,MED1,mediator complex subunit 1
+27,95,AAAGACAGAAUGAUUGAACUUU,SOGA1,"suppressor of glucose, autophagy associated 1"
+28,95,AAAGACAGAAUGAUUGAACUUU,SHC4,SHC adaptor protein 4
+29,95,AAAGACAGAAUGAUUGAACUUU,MSRB3,methionine sulfoxide reductase B3
+30,94,AAAGACAGAAUGAUUGAACUUU,FAM81A,family with sequence similarity 81 member A
+31,94,AAAGACAGAAUGAUUGAACUUU,UHRF2,ubiquitin like with PHD and ring finger domains 2
+32,94,AAAGACAGAAUGAUUGAACUUU,GPM6A,glycoprotein M6A
+33,94,AAAGACAGAAUGAUUGAACUUU,CNTNAP2,contactin associated protein like 2
+34,94,AAAGACAGAAUGAUUGAACUUU,NEFH,neurofilament heavy
+35,94,AAAGACAGAAUGAUUGAACUUU,TMEM47,transmembrane protein 47
+36,93,AAAGACAGAAUGAUUGAACUUU,STC1,stanniocalcin 1
+37,93,AAAGACAGAAUGAUUGAACUUU,RNF166,ring finger protein 166
+38,93,AAAGACAGAAUGAUUGAACUUU,TMEM178A,transmembrane protein 178A
+39,93,AAAGACAGAAUGAUUGAACUUU,FAM133B,family with sequence similarity 133 member B
+40,93,AAAGACAGAAUGAUUGAACUUU,AMBN,ameloblastin
+41,92,AAAGACAGAAUGAUUGAACUUU,SLC38A2,solute carrier family 38 member 2
+42,92,AAAGACAGAAUGAUUGAACUUU,NUS1,"NUS1, dehydrodolichyl diphosphate synthase subunit"
+43,92,AAAGACAGAAUGAUUGAACUUU,RCOR1,REST corepressor 1
+44,92,AAAGACAGAAUGAUUGAACUUU,TCF12,transcription factor 12
+45,92,AAAGACAGAAUGAUUGAACUUU,PTPRR,"protein tyrosine phosphatase, receptor type R"
+46,92,AAAGACAGAAUGAUUGAACUUU,MACROD2,MACRO domain containing 2
+47,92,AAAGACAGAAUGAUUGAACUUU,MXRA5,matrix remodeling associated 5
+48,92,AAAGACAGAAUGAUUGAACUUU,LIN28B,lin-28 homolog B
+49,92,AAAGACAGAAUGAUUGAACUUU,DOCK9,dedicator of cytokinesis 9
+50,92,AAAGACAGAAUGAUUGAACUUU,KDM6A,lysine demethylase 6A
+51,91,AAAGACAGAAUGAUUGAACUUU,STAG2,stromal antigen 2
+52,91,AAAGACAGAAUGAUUGAACUUU,SYT6,synaptotagmin 6
+53,91,AAAGACAGAAUGAUUGAACUUU,BCLAF3,BCLAF1 and THRAP3 family member 3
+54,91,AAAGACAGAAUGAUUGAACUUU,NTRK2,neurotrophic receptor tyrosine kinase 2
+55,91,AAAGACAGAAUGAUUGAACUUU,TOR1AIP2,torsin 1A interacting protein 2
+56,91,AAAGACAGAAUGAUUGAACUUU,CPED1,cadherin like and PC-esterase domain containing 1
+57,91,AAAGACAGAAUGAUUGAACUUU,COL5A2,collagen type V alpha 2 chain
+58,91,AAAGACAGAAUGAUUGAACUUU,SEC14L1,SEC14 like lipid binding 1
+59,91,AAAGACAGAAUGAUUGAACUUU,ZNF333,zinc finger protein 333
+60,91,AAAGACAGAAUGAUUGAACUUU,PTPN4,"protein tyrosine phosphatase, non-receptor type 4"
+61,91,AAAGACAGAAUGAUUGAACUUU,CNOT9,CCR4-NOT transcription complex subunit 9
+62,91,AAAGACAGAAUGAUUGAACUUU,INO80D,INO80 complex subunit D
+63,91,AAAGACAGAAUGAUUGAACUUU,TRAPPC11,trafficking protein particle complex 11
